@@ -1,0 +1,23 @@
+BODY {
+    background: white;
+    color: black;
+    font-family: "Arial";
+    font-size: 10pt;
+    SCROLLBAR-BASE-COLOR:  #c6d6ee;
+    SCROLLBAR-ARROW-COLOR: #000000;
+}
+
+.red { color: red }
+
+
+A:link    { color:  #000000}
+A:visited { color:  #000000}
+A:active  { color:  #000000}
+A:hover   { color:  red}
+
+A {
+   font-size:10pt;
+   font-family: Arial;
+   font-weight: bold;
+   text-decoration: none; }
+}

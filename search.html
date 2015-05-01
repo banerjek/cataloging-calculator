@@ -1,0 +1,104 @@
+<html>
+
+<head>
+<link title="new" REL=stylesheet HREF="calculate.css" type="text/css" />
+
+</head>
+<body onload="document.f.userinput.focus()">
+<form name="f" onSubmit="processwithshaca(document.f); return false;">
+
+<table width="100%" cellpadding="0">
+  <tr>
+	<td valign="top">
+	<input type="text" name="userinput" size="25" onKeyUp="process(document.f);self.focus();document.f.userinput.focus();" />
+	<input type="submit" value="Find It!">
+	<br /><b>Enter Query Above</b>
+
+	<p />
+	<b>Enter Fixed Field Below</b> <br />
+	<select name="fixfield" onChange="parent.fixed.location=document.f.fixfield.value;" selected>
+  		<option value="fixbks.html" selected>Books</option>
+  		<option value="fixcom.html">Computer Files</option>
+  		<option value="fixmap.html">Maps</option>
+  		<option value="fixmix.html">Mixed Materials</option>
+  		<option value="fixsou.html">Scores</option>
+  		<option value="fixser.html">Serials</option>
+  		<option value="fixsou.html">Sound Recordings</option>
+  		<option value="fixvis.html">Visual Materials</option>
+  		<option value="fixauth.html">Authority Data</option>
+		</select>
+	</td>
+	<td>
+	<table width="100%" class="borders" cellpadding="2">
+	<tr><td colspan="2" style="background: #c6d6ee; font-size: 12pt;">
+	<center>Search Options</center></td></tr>
+	<tr><td valign="top">
+        <input type="radio" name="searchtype" value="lc" onClick="process(document.f);">LC Cutter
+	<br /><input type="radio" name="searchtype" value="geogcutter" onClick="process(document.f);">Geog. Cutter
+	<br /><input type="radio" name="searchtype" value="gac" onClick="process(document.f);">Geog. Area Codes
+	<br /><input type="radio" name="searchtype" value="country" onClick="process(document.f);">Country Codes
+	<br /><input type="radio" name="searchtype" value="lang" onClick="process(document.f);">Language Codes
+	<br /><input type="radio" name="searchtype" value="rdacontent" onClick="process(document.f);">RDA Content Types
+	</td>
+
+	<td valign="top">
+        <input type="radio" name="searchtype" value="marc" onClick="process(document.f);" checked>MARC Var. Fields 
+        <br /><input type="radio" name="searchtype" value="lcsh" onClick="process(document.f);">LCSH 
+        <br /><input type="radio" name="searchtype" value="mesh" onClick="process(document.f);">MeSH
+	<br /><input type="radio" name="searchtype" value="aacr" onClick="process(document.f);">AACR2 Abbrevs. 
+	<br /><input type="radio" name="searchtype" value="aat" onClick="process(document.f);">Getty AAT 
+	</td></tr>
+	</table>
+	<br /><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://calculate.alptown.com" show_faces="false" width="450" font=""></fb:like>
+	<br />
+	</td>
+  </tr>
+</table>
+</form>
+<script language="javascript" src="lcsh.js"></script>
+<script language="javascript" src="mesh.js"></script>
+<script language="javascript" src="aat.js"></script>
+<script language="javascript" src="geogcutter.js"></script>
+<script language="javascript" src="gac.js"></script>
+<script language="javascript" src="country.js"></script>
+<script language="javascript" src="lang.js"></script>
+<script language="javascript" src="aacr.js"></script>
+<script language="javascript" src="rdacontent.js"></script>
+<script language="javascript" src="marc.js"></script>
+<script language="javascript" src="calculate.js"></script>
+<script language="javascript" src="utility.js"></script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3201466-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+<script language="javascript">
+render('<html>'
++'<head>'
++'<link title="new" REL=stylesheet HREF="calculate.css" type="text/css" />'
++'<style type="text/css">.advert { background-color: lightYellow; border:1px solid;font-size:11px;font-family:sans-serif;padding:5px  }</style>'
++'</head>'
++'<body>'
++'<center><table><tr><td>'
++'<img src="bookstack.gif"></td><td>'
++'<center><h1>The Cataloging Calculator</h1>'
++'by <a href="http://alptown.com" target="_top">Kyle Banerjee</a><p />'
++'</center></td>'
++'</tr><tr><td></td><td><center><font color="green">Limited classification number searching available in LCSH search option<p />Regular expressions supported for all search types</font></center></td>'
++'</tr></table>'
++'</center>'
++'</body>'
++'</html>');
+</script>
+
+</body>
+
+</html>
