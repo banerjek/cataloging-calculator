@@ -219,23 +219,11 @@ switch (search) {
 	case "gac":
 		{
 		resultarray = gac.split("\@");
-		founditems += '<pre style="font-family: arial; font-size=10pt;">\n'
-		+'<b>\n';
-
-
 		for (x=0; x<=resultarray.length-1; x++) {
-			if (regexsearch.exec(resultarray[x])) {
-				founditems += resultarray[x] + "\n";
-				found = 1;
-				}
-			}
-		founditems += '</b>\n</pre>';
-
-		if (found == 0) {
-			founditems = notfound();			
-			}
-				
-		return founditems;
+						resultarray[x] = resultarray[x].replace("\n", "<br />");
+						resultarray[x] = resultarray[x].replace(" ", "&nbsp;");
+		}
+		break;
 		}
 	case "geogcutter":
 		{
@@ -250,11 +238,6 @@ switch (search) {
 	case "aat":
 		{
 		resultarray = aat.split("\@");
-  		founditems +='<head>\n'
-  		+'<link title="new" REL=stylesheet HREF="fixed.css" type="text/css" />'
-  		+'</head>\n'
-  		+'<body>\n'
-		+ '<script language="javascript" src="utility.js"></script>\n';
 		founditems += '<table><tr><th>Results</th></tr>\n';
 
 		for (x=0; x<=resultarray.length-1; x++) {
