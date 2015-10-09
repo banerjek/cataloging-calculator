@@ -11,7 +11,7 @@ var search;
 var fixarray = [];
 
 
-function getOCLC(sURL) {
+function getPage(sURL) {
 
 	document.getElementById('results').innerHTML = document.getElementById('results').innerHTML + '<p /><b>'
 
@@ -262,11 +262,11 @@ switch (search) {
 				found += 1;
 				cellarray = resultarray[x].split("\t");	
 
-				if (found % 2 == 1) {
+				if (found % 2 == 0) {
 					webbase = 'http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300';
 
 					founditems += '<tr><td style="background: #c6d6ee;">'
-					+'<a href="javascript:OpenWin(\'' + webbase
+					+'<a href="javascript:getPage(\'' + webbase
 					+ cellarray[0]
 					+ '\');">'
 					+ cellarray[1]
@@ -277,7 +277,7 @@ switch (search) {
 					else
 					{
 					founditems += '<tr><td>'
-					+'<a href="javascript:OpenWin(\'' + webbase
+					+'<a href="javascript:getPage(\'' + webbase
 					+ cellarray[0]
 					+ '\');">'
 					+ cellarray[1]
@@ -319,7 +319,7 @@ switch (search) {
   		+'</head>\n'
   		+'<body>\n'
 		+ '<script language="javascript" src="utility.js"></script>\n';
-		founditems += '<center><table width="65%">\n';
+		founditems += '<table><tr><th>Results</th></tr>\n';
 
 		for (x=0; x<=resultarray.length-1; x++) {
 			if (regexsearch.exec(resultarray[x])) {
@@ -334,11 +334,11 @@ switch (search) {
 
 
 
-				if (found % 2 == 1) {
+				if (found % 2 == 0) {
 					webbase = 'http://id.loc.gov/authorities/subjects/';
 
 					founditems += '<tr><td style="background: #c6d6ee;">'
-					+'<a href="javascript:OpenWin(\'' + webbase
+					+'<a href="javascript:getPage(\'' + webbase
 					+ cellarray[2]
 					+ '.html\');">'
 					+ cellarray[0]
@@ -351,7 +351,7 @@ switch (search) {
 					else
 					{
 					founditems += '<tr><td>'
-					+'<a href="javascript:OpenWin(\'' + webbase
+					+'<a href="javascript:getPage(\'' + webbase
 					+ cellarray[2]
 					+ '.html\');">'
 					+ cellarray[0]
@@ -362,7 +362,7 @@ switch (search) {
 					}
 				}
 			}
-		founditems += '</table></center><p />'
+		founditems += '</table><p />'
 		+'<center class="red"><b>Click on any field above for '
 		+'detailed information from Library of Congress</b>';
 
@@ -380,7 +380,7 @@ switch (search) {
   		+'</head>\n'
   		+'<body>\n'
 		+ '<script language="javascript" src="utility.js"></script>\n';
-		founditems += '<center><table width="65%">\n';
+		founditems += '<table><tr><th>Results</th></tr>\n';
 
 		for (x=0; x<=resultarray.length-1; x++) {
 			if (regexsearch.exec(resultarray[x])) {
@@ -389,14 +389,14 @@ switch (search) {
 
 				webbase = 'http://www.nlm.nih.gov/cgi/mesh/2013/MB_cgi?term=';
 
-				id_url = '<a href="javascript:OpenWin(\'' + webbase
+				id_url = '<a href="javascript:getPage(\'' + webbase
 					+ heading
 					+ '\');">'
 					+ heading
 					+ '</a></td></tr>'
 					+ '\n';
 
-				if (found % 2 == 1) {
+				if (found % 2 == 0) {
 					founditems += '<tr><td style="background: #c6d6ee;">' + id_url;
 					}
 					else
@@ -406,7 +406,7 @@ switch (search) {
 					}
 				}
 			}
-		founditems += '</table></center><p />'
+		founditems += '</table><p />'
 		+'<center class="red"><b>Click on any field above for '
 		+'detailed information from NLM</b>';
 
@@ -424,7 +424,7 @@ switch (search) {
   		+'</head>\n'
   		+'<body>\n'
 		+ '<script language="javascript" src="utility.js"></script>\n';
-		founditems += '<center><table width="65%">\n';
+		founditems += '<table><tr><th>Results</th></tr>\n';
 
 		for (x=0; x<=resultarray.length-1; x++) {
 			if (regexsearch.exec(resultarray[x])) {
@@ -432,14 +432,14 @@ switch (search) {
 				cellarray = resultarray[x].split("\t");	
 
 
-				if (found % 2 == 1) {
+				if (found % 2 == 0) {
 					if (holdingsfields.search(cellarray[0].substr(0, 3)) > -1) {
 						webbase = 'http://www.oclc.org/holdingsformat/en/';
 						} else {
 						webbase = 'http://www.oclc.org/bibformats/en/';
 						}
 					founditems += '<tr><td style="background: #c6d6ee;">'
-					+'<a href="javascript:OpenWin(\'' + webbase
+					+'<a href="javascript:getPage(\'' + webbase
 					+ cellarray[0].substr(0, 1)
 					+ 'xx/'
 					+ cellarray[0]
@@ -454,7 +454,7 @@ switch (search) {
 					else
 					{
 					founditems += '<tr><td>'
-					+'<a href="javascript:OpenWin(\'' + webbase
+					+'<a href="javascript:getPage(\'' + webbase
 					+ cellarray[0].substr(0, 1)
 					+ 'xx/'
 					+ cellarray[0]
@@ -467,7 +467,7 @@ switch (search) {
 					}
 				}
 			}
-		founditems += '</table></center><p />'
+		founditems += '</table><p />'
 		+'<center class="red"><b>Click on any field above for '
 		+'detailed information from OCLC</b>'
 		+'<br />OCLC provided data &copy OCLC</center>';
@@ -524,12 +524,7 @@ switch (search) {
 		}
 	}
 
-  	founditems +='<head>\n'
-  	+'<style>TD { font-weight: bold; font-size=10pt;}\n'
-  	+'</style>\n'
-  	+'</head>\n'
-  	+'<body style="font-size: 10pt; font-family: arial;font-weight: bold;">\n'
-	+ '<center><table width="65%">\n';
+  	founditems +='<table><tr><th colspan="2">Results</th></tr>\n';
 
 	for (x=0; x<=resultarray.length-1; x++) {
 		if (regexsearch.exec(resultarray[x])) {
@@ -540,7 +535,7 @@ switch (search) {
 					cellarray[1] = '';
 					}
 
-			if (found % 2 == 1) {
+			if (found % 2 == 0) {
 				founditems += '<tr><td style="background: #c6d6ee;">'
 				+ cellarray[0]
 				+ '</td><td style="background: #c6d6ee;">'
@@ -559,7 +554,7 @@ switch (search) {
 				}
 			}
 		}
-	founditems += '</table></center>';
+	founditems += '</table>';
 
 	if (found == 0) {
 		founditems = notfound();			

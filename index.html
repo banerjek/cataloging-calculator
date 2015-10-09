@@ -4,13 +4,14 @@
 <link title="new" REL=stylesheet HREF="includes/default.css" type="text/css" />
 
 </head>
-<body onload="document.f.userinput.focus()">
+<body onload="document.f.userinput.focus();">
 <div id="nav">
-<form name="f" onSubmit="process(document.f); return false;">
+				<table class="top"><tr><td><br /><img src="includes/bookstack.gif"></td><td><center><h1>The Cataloging Calculator</h1>by <a href="http://alptown.com" target="_top">Kyle Banerjee</a><p></p></center></td></tr><tr><td></td></tr></table><p />
+				<center><form name="f" onSubmit="process(document.f); return false;">
 
 	<input type="text" name="userinput" size="25" onKeyUp="process(document.f);self.focus();document.f.userinput.focus();" />
 	<input type="submit" value="Find It!">
-	<br /><b>Enter Query Above</b>
+	<p /><b>Enter Query Above</b>
 <p />
 	<table class="borders" cellpadding="2">
 					<tr><th>Search Options</th></tr>
@@ -43,10 +44,9 @@
 		</select>
 	<br /><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://calculate.alptown.com" show_faces="false" width="450" font=""></fb:like>
 	<br />
-</form>
+</form></center>
 </div>
-<div id="results">
-</div>
+
 <script language="javascript" src="includes/calculate.js"></script>
 <script language="javascript" src="includes/fixed.js"></script>
 <script language="javascript" src="includes/gac.js"></script>
@@ -60,7 +60,64 @@
 <script language="javascript" src="includes/aat.js"></script>
 <script language="javascript" src="includes/geogcutter.js"></script>
 
+<div id="results">
+<table border="0" width="100%">
+  <tr>
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/type.shtm');" title="Type of Record">Type:</a></td>
+     
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/elvl.shtm');" title="Encoding Level">ELvl:</a></td>
+     
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/srce.shtm');" title="Cataloging Source Code">Srce:</a></td>
+     
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/audn.shtm');" title="Target Audience">Audn:</a></td>
+     
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/ctrl.shtm');" title="Type of Control">Ctrl:</a></td>
+     
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/lang.shtm');" title="Language Code">Lang:</a></td>
+     
+  </tr>
+  <tr>
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/blvl.shtm');" title="Bibliographic Level">BLvl:</a></td>
+     
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/form.shtm');" title="Form of Item">Form:</a></td>
+     
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/conf.shtm');" title="Conference Publication">Conf:</a></td>
+     
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/biog.shtm');" title="Biography">Biog:</a></td>
+     
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/mrec.shtm');" title="Modified Record Code">MRec:</a></td>
+     
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/ctry.shtm');" title="Country of Publication, etc.">Ctry:</a></td>
+     
+  </tr>
+  <tr>
+    <td> </td>
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/cont.shtm');" title="Nature of Contents">Cont:</a></td>
+     
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/gpub.shtm');" title="Government Publication">GPub:</a></td>
+     
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/litf.shtm');" title="Literary Form">LitF:</a></td>
+     
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/indx.shtm');" title="Index">Indx:</a></td>
+     
+  </tr>
+  <tr>
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/desc.shtm');" title="Descriptive Cataloging Form">Desc:</a></td>
+     
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/ills.shtm');" title="Illustrations">Ills:</a></td>
+     
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/fest.shtm');" title="Festschrift">Fest:</a></td>
+     
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/dtst.shtm');" title="Type of Date/Publication Status">DtSt:</a></td>
+     
+    <td><a href="javascript:getPage('http://www.oclc.org/bibformats/en/fixedfield/dates.shtm');" title="Date 1 and Date 2">Dates:</a></td>
+  </tr>
+</table>
+				
+</div>
 
+
+<script language='javascript:document.getElementById("results").innerHTML="Loading data files. Please wait";'></script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
