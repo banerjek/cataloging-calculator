@@ -22,6 +22,27 @@ function getPage(sURL) {
    }
 }
 
+function searchEntry(userinput, entry) {
+	userinput = userinput.toLowerCase();
+	entry = entry.toLowerCase();
+	terms = userinput.split(" ");
+	returnfound = 0;
+
+	for (foundit = 0; foundit < terms.length; foundit++) {
+		if (terms[foundit].length > 2) {
+			// regex search is too slow, so we use strings
+			if (entry.indexOf(terms[foundit]) > -1) {
+				returnfound = 1;
+			}
+			else {
+				returnfound = 0;	
+				break;
+			}
+		}
+	}
+return returnfound;
+}
+
 function getFixed(obj_f) {
 	var results;
 	fixedval = obj_f.fixfield.value;
@@ -218,11 +239,9 @@ var regmarcsearch = new RegExp(regmarc, "i");
 switch (search) {
 	case "gac":
 		{
+		gac = gac.replace("\n", "<br />");
+		gac = gac.replace("  ", "&nbsp;&nbsp;");
 		resultarray = gac.split("\@");
-		for (x=0; x<=resultarray.length-1; x++) {
-						resultarray[x] = resultarray[x].replace("\n", "<br />");
-						resultarray[x] = resultarray[x].replace(" ", "&nbsp;");
-		}
 		break;
 		}
 	case "geogcutter":
@@ -241,7 +260,7 @@ switch (search) {
 		founditems += '<table><tr><th>Results</th></tr>\n';
 
 		for (x=0; x<=resultarray.length-1; x++) {
-			if (regexsearch.exec(resultarray[x])) {
+			if (searchEntry(userinput, resultarray[x]) == 1) {
 				found += 1;
 				cellarray = resultarray[x].split("\t");	
 
@@ -305,7 +324,7 @@ switch (search) {
 		founditems += '<table><tr><th>Results</th></tr>\n';
 
 		for (x=0; x<=resultarray.length-1; x++) {
-			if (regexsearch.exec(resultarray[x])) {
+			if (searchEntry(userinput, resultarray[x]) == 1) {
 				found += 1;
 				cellarray = resultarray[x].split("\t");	
 
@@ -366,7 +385,7 @@ switch (search) {
 		founditems += '<table><tr><th>Results</th></tr>\n';
 
 		for (x=0; x<=resultarray.length-1; x++) {
-			if (regexsearch.exec(resultarray[x])) {
+			if (searchEntry(userinput, resultarray[x]) == 1) {
 				found += 1;
 				heading = resultarray[x];	
 
@@ -410,7 +429,7 @@ switch (search) {
 		founditems += '<table><tr><th>Results</th></tr>\n';
 
 		for (x=0; x<=resultarray.length-1; x++) {
-			if (regexsearch.exec(resultarray[x])) {
+			if (searchEntry(userinput, resultarray[x]) == 1) {
 				found += 1;
 				cellarray = resultarray[x].split("\t");	
 
@@ -510,7 +529,7 @@ switch (search) {
   	founditems +='<table><tr><th colspan="2">Results</th></tr>\n';
 
 	for (x=0; x<=resultarray.length-1; x++) {
-		if (regexsearch.exec(resultarray[x])) {
+		if (searchEntry(userinput, resultarray[x]) == 1) {
 			found += 1;
 			cellarray = resultarray[x].split("\t");	
 
