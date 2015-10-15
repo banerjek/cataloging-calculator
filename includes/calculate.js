@@ -328,24 +328,14 @@ switch (search) {
 				found += 1;
 				cellarray = resultarray[x].split("\t");	
 
-				if (cellarray[1].length < 2 ) {
-					cellarray[1] = '';
-					} else {
-					cellarray[1] = '<font color="green">(' + cellarray[1] + ')</font>';
-					}
-
-
-
 				if (found % 2 == 0) {
 					webbase = 'http://id.loc.gov/authorities/subjects/';
 
 					founditems += '<tr><td style="background: #c6d6ee;">'
 					+'<a href="javascript:getPage(\'' + webbase
-					+ cellarray[2]
+					+ cellarray[1]
 					+ '.html\');">'
 					+ cellarray[0]
-					+ '&nbsp;&nbsp;'
-					+ cellarray[1]
 					+ '</a></td></tr>'
 					+ '\n';
 
@@ -354,11 +344,9 @@ switch (search) {
 					{
 					founditems += '<tr><td>'
 					+'<a href="javascript:getPage(\'' + webbase
-					+ cellarray[2]
+					+ cellarray[1]
 					+ '.html\');">'
 					+ cellarray[0]
-					+ '&nbsp;&nbsp;'
-					+ cellarray[1]
 					+ '</td></tr>'
 					+ '\n';
 					}
