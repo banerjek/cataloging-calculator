@@ -365,11 +365,6 @@ switch (search) {
 	case "mesh":
 		{
 		resultarray = mesh.split("\@");
-  		founditems +='<head>\n'
-  		+'<link title="new" REL=stylesheet HREF="fixed.css" type="text/css" />'
-  		+'</head>\n'
-  		+'<body>\n'
-		+ '<script language="javascript" src="utility.js"></script>\n';
 		founditems += '<table><tr><th>Results</th></tr>\n';
 
 		for (x=0; x<=resultarray.length-1; x++) {
@@ -409,11 +404,6 @@ switch (search) {
 	case "marc":
 		{
 		resultarray = marc.split("\@");
-  		founditems +='<head>\n'
-  		+'<link title="new" REL=stylesheet HREF="fixed.css" type="text/css" />'
-  		+'</head>\n'
-  		+'<body>\n'
-		+ '<script language="javascript" src="utility.js"></script>\n';
 		founditems += '<table><tr><th>Results</th></tr>\n';
 
 		for (x=0; x<=resultarray.length-1; x++) {
@@ -485,7 +475,7 @@ switch (search) {
 				weblink='http://www.oclc.org/bibformats/en/0xx/';
 				}
 
-			GetPage(weblink);
+			getPage(weblink);
 			founditems='<b>Retrieving information from OCLC...... <p />All OCLC data is provided by and &copy OCLC.  All OCLC information appears in the same window, so this program will not open multiple windows.  <p /> The Cataloging Calculator also supports keyword searches of MARC fields.</b>';
 			return founditems;
 			}
@@ -505,7 +495,7 @@ switch (search) {
 			+ 'xx/'
 			+ cellarray[0]
 			+ '.html';
-			GetPage(weblink);
+			getPage(weblink);
 			founditems='<b>Only one match detected, automatically opening window.....<p />Retrieving information from OCLC...... <p />All OCLC data is provided by and &copy OCLC.  All OCLC information appears in the same window, so this program will not open multiple windows.  </b>';
 			return founditems;
 			}
