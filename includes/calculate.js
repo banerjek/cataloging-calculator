@@ -295,6 +295,13 @@ switch (search) {
     if (found == 0) {
 			founditems = notfound();
 			}
+	 if (found==1) {
+			found = 0;
+			weblink='http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300' + cellarray[0];
+			getPage(weblink);
+			founditems+='<p /><b>Only one match detected, automatically opening window. Retrieving information from the Art and Architecture Thesaurus Online...... <p />All AAT data information appears in the same window, so this program will not open multiple windows.  </b>';
+			return founditems;
+	 	}
 		return founditems;
 		break;
 		}
