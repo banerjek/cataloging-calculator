@@ -496,7 +496,7 @@ switch (search) {
 			+ cellarray[0]
 			+ '.html';
 			getPage(weblink);
-			founditems='<b>Only one match detected, automatically opening window.....<p />Retrieving information from OCLC...... <p />All OCLC data is provided by and &copy OCLC.  All OCLC information appears in the same window, so this program will not open multiple windows.  </b>';
+			founditems+='<p /><b>Only one match detected, automatically opening window.....<p />Retrieving information from OCLC...... <p />All OCLC data is provided by and &copy OCLC.  All OCLC information appears in the same window, so this program will not open multiple windows.  </b>';
 			return founditems;
 			}
 			
