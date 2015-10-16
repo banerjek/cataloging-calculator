@@ -316,11 +316,6 @@ switch (search) {
 	case "lcsh":
 		{
 		resultarray = lcsh.split("\@");
-  		founditems +='<head>\n'
-  		+'<link title="new" REL=stylesheet HREF="fixed.css" type="text/css" />'
-  		+'</head>\n'
-  		+'<body>\n'
-		+ '<script language="javascript" src="utility.js"></script>\n';
 		founditems += '<table><tr><th>Results</th></tr>\n';
 
 		for (x=0; x<=resultarray.length-1; x++) {
@@ -359,6 +354,15 @@ switch (search) {
     if (found == 0) {
 			founditems = notfound();
 			}
+	 if (found==1) {
+			found = 0;
+			weblink='http://id.loc.gov/authorities/subjects/'
+					+ cellarray[1]
+					+ '.html';
+			getPage(weblink);
+			founditems+='<p /><b>Only one match detected, automatically opening window. Retrieving information from the Library of Congress...... <p />All LC data information appears in the same window, so this program will not open multiple windows.  </b>';
+			return founditems;
+	 	}
 		return founditems;
 		break;
 		}
