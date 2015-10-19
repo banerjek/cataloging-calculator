@@ -50,6 +50,31 @@ function getFixed(obj_f) {
 	return;
 }
 
+function getStandard(obj_f) {
+	var results;
+	var found = 0;
+	subdiv = obj_f.standard.value;
+	subdiv_var = eval(subdiv); 
+	resultarray = subdiv_var.split("\@");
+	founditems = '<table><tr><th>Subdivisions</th></tr>\n';
+
+	for (x=0; x<=resultarray.length-1; x++) {
+		found += 1;
+		heading = resultarray[x];	
+
+		if (found % 2 == 0) {
+			founditems += '<tr><td style="background: #c6d6ee;">' + heading;
+			}
+			else
+			{
+			founditems += '<tr><td>'
+			+ heading;
+			}
+		founditems += '</td></tr>';
+	}
+	founditems += '</table><p />'
+	document.getElementById('results').innerHTML = founditems;
+}
 function process(obj_f) {
 
   for (x=0; x<=10; x++) {
