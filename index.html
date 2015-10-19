@@ -30,6 +30,42 @@
 	</td></tr>
 	</table>
 	<p />
+	<b>Select Standard Subdivisions Below</b> <br />
+	<select name="standard" onChange="getstandard(document.f);" selected>
+  		<option value="general" selected>Free Floating</option>
+			<option value="animals">Animals</option>
+			<option value="art">Art</option>
+			<option value="bodies_of_water">Bodies of water</option>
+			<option value="chemicals">Chemicals</option>
+			<option value="christian_denominations">Christian denominations</option>
+			<option value="classes_of_persons">Classes of persons</option>
+			<option value="colonies">Colonies</option>
+			<option value="corporate_bodies">Corporate bodies</option>
+			<option value="diseases">Diseases</option>
+			<option value="ethnic_groups">Ethnic groups</option>
+			<option value="groups_of_literary_authors">Groups of literary authors</option>
+			<option value="individual_educational_institutions">Individual educational institutions</option>
+			<option value="industries">Industries</option>
+			<option value="land_vehicles">Land vehicles</option>
+			<option value="languages">Languages</option>
+			<option value="legal_topics">Legal topics</option>
+			<option value="legislative_bodies">Legislative bodies</option>
+			<option value="literary_works_entered_under_author">Literary works entered under author</option>
+			<option value="literary_works_entered_under_title">Literary works entered under title</option>
+			<option value="literatures">Literatures</option>
+			<option value="materials">Materials</option>
+			<option value="military_services">Military services</option>
+			<option value="musical_compositions">Musical compositions</option>
+			<option value="musical_instruments">Musical instruments</option>
+			<option value="names_of_families">names of families</option>
+			<option value="names_of_places">names of places</option>
+			<option value="organs_and_regions_of_the_body">Organs and regions of the body</option>
+			<option value="plants_and_crops">Plants and crops</option>
+			<option value="religions">Religions</option>
+			<option value="religious_and_monastic_orders">Religious and monastic orders</option>
+				<option value="sacred_works">sacred_works</option>
+		</select>
+	<p />
 	<b>Enter Fixed Field Below</b> <br />
 	<select name="fixfield" onChange="getFixed(document.f);" selected>
   		<option value="fixbks" selected>Books</option>
@@ -61,6 +97,7 @@
 <script language="javascript" src="includes/mesh.js"></script>
 <script language="javascript" src="includes/aat.js"></script>
 <script language="javascript" src="includes/geogcutter.js"></script>
+<script language="javascript" src="includes/standard_subdivisions.js"></script>
 
 <script language="javascript">
 (function loadFixed() {
