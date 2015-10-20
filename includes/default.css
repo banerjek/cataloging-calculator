@@ -20,6 +20,11 @@ body {
 				margin-right: 10px;
 }
 
+#results {
+				display: inline-block;
+				width: 65%;
+}
+
 table {
 	border-top: #c6d6ee 2px solid; 
 	border-right: #c6d6ee 2px solid; 
