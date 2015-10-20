@@ -97,7 +97,7 @@ allow forced subject search
 	  	case "lc":
 			if (userinput.length > 0) {
 				body=cutter();
-				body = '<table width="200"><tr><th>Cutter Results</th></tr><td><center>&nbsp;<p />' + body + '<p /></center></td></tr></table>';
+				body = '<p />&nbsp;<p /><table width="200"><tr><th>Cutter Results</th></tr><td><center>&nbsp;<p />' + body + '<p /></center></td></tr></table>';
 				document.getElementById('results').innerHTML = body;
 				break;	
 				}			
