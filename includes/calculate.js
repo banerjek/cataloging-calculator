@@ -289,9 +289,9 @@ switch (search) {
 			if (searchEntry(userinput, resultarray[x]) == 1) {
 				found += 1;
 				cellarray = resultarray[x].split("\t");	
+				webbase = 'http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300';
 
 				if (found % 2 == 0) {
-					webbase = 'http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300';
 
 					founditems += '<tr><td style="background: #c6d6ee;">'
 					+'<a href="javascript:getPage(\'' + webbase
@@ -321,13 +321,6 @@ switch (search) {
     if (found == 0) {
 			founditems = notfound();
 			}
-	 if (found==1) {
-			found = 0;
-			weblink='http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300' + cellarray[0];
-			getPage(weblink);
-			founditems+='<p /><b>Only one match detected, automatically opening window. Retrieving information from the Art and Architecture Thesaurus Online...... <p />All AAT data information appears in the same window, so this program will not open multiple windows.  </b>';
-			return founditems;
-	 	}
 		return founditems;
 		break;
 		}
@@ -355,9 +348,9 @@ switch (search) {
 			if (searchEntry(userinput, resultarray[x]) == 1) {
 				found += 1;
 				cellarray = resultarray[x].split("\t");	
+				webbase = 'http://id.loc.gov/authorities/subjects/';
 
 				if (found % 2 == 0) {
-					webbase = 'http://id.loc.gov/authorities/subjects/';
 
 					founditems += '<tr><td style="background: #c6d6ee;">'
 					+'<a href="javascript:getPage(\'' + webbase
@@ -387,15 +380,6 @@ switch (search) {
     if (found == 0) {
 			founditems = notfound();
 			}
-	 if (found==1) {
-			found = 0;
-			weblink='http://id.loc.gov/authorities/subjects/'
-					+ cellarray[1]
-					+ '.html';
-			getPage(weblink);
-			founditems+='<p /><b>Only one match detected, automatically opening window. Retrieving information from the Library of Congress...... <p />All LC data information appears in the same window, so this program will not open multiple windows.  </b>';
-			return founditems;
-	 	}
 		return founditems;
 		break;
 		}
@@ -435,15 +419,6 @@ switch (search) {
     if (found == 0) {
 			founditems = notfound();
 			}
-
-	 if (found==1) {
-			found = 0;
-			weblink='http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?term='
-			+ heading; 
-			getPage(weblink);
-			founditems+='<p /><b>Only one match detected, automatically opening window. Retrieving information from the National Library of Medicine...... <p />All NLM data information appears in the same window, so this program will not open multiple windows.  </b>';
-			return founditems;
-	 	}
 			
 		return founditems;
 		break;
