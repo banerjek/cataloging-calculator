@@ -18,11 +18,12 @@ body {
 #nav {
 				float: left;
 				margin-right: 10px;
+				width: 350px;
 }
 
 #results {
 				display: inline-block;
-				width: 65%;
+				width: 600px;
 }
 
 table {
