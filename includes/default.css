@@ -16,14 +16,14 @@ body {
 	}
 
 #nav {
-				float: left;
-				margin-right: 10px;
-				width: 350px;
+	float: left;
+	margin-right: 10px;
+	width: 400px;
 }
 
 #results {
 				display: inline-block;
-				width: 600px;
+				width: 700px;
 }
 
 table {
