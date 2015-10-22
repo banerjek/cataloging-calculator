@@ -79,11 +79,30 @@ function getStandard(obj_f, header) {
 	resultarray = subdiv_var.split("\@");
 	makeList(resultarray, "Standard");
 }
-
 function getRDA() {
+	var found = 0;
+	var headingarray = [];
 	resultarray = rdacontent.split("\@");
-	makeList(resultarray, "RDA Content types");
+	founditems = '<table><tr><th class="left">Abbreviation</th><th class="right">Content Type</th></tr>\n';
+
+	for (x=0; x<=resultarray.length-1; x++) {
+		found += 1;
+		heading = resultarray[x];	
+		headingarray = heading.split("\t");
+
+		if (found % 2 == 0) {
+			founditems += '<tr><td style="background: #c6d6ee;"><center>' + headingarray[1] + '</center></td><td style="background: #c6d6ee;">' + headingarray[0];
+			}
+			else
+			{
+			founditems += '<tr><td><center>' + headingarray[1] + '</center></td><td>' + headingarray[0];
+			}
+		founditems += '</td></tr>';
+	}
+	founditems += '</table><p />'
+	document.getElementById('results').innerHTML = founditems;
 }
+
 function process(obj_f) {
 
   for (x=0; x<=10; x++) {

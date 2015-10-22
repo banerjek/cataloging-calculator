@@ -22,4 +22,4 @@ var rdacontent="cartographic dataset	crd@"
 +"three-dimensional moving image	tdm@"
 +"two-dimensional moving image	tdi@"
 +"other	xxx@"
-+"unspecified	zzz@";
++"unspecified	zzz";
