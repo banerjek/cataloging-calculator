@@ -50,13 +50,9 @@ function getFixed(obj_f) {
 	return;
 }
 
-function getStandard(obj_f) {
-	var results;
+function makeList(resultarray, header) {
 	var found = 0;
-	subdiv = obj_f.standard.value;
-	subdiv_var = eval(subdiv); 
-	resultarray = subdiv_var.split("\@");
-	founditems = '<table><tr><th>Subdivisions</th></tr>\n';
+	founditems = '<table><tr><th>' + header + '</th></tr>\n';
 
 	for (x=0; x<=resultarray.length-1; x++) {
 		found += 1;
@@ -74,6 +70,20 @@ function getStandard(obj_f) {
 	}
 	founditems += '</table><p />'
 	document.getElementById('results').innerHTML = founditems;
+}
+
+function getStandard(obj_f) {
+	var results;
+	subdiv = obj_f.standard.value;
+	subdiv_var = eval(subdiv); 
+	resultarray = subdiv_var.split("\@");
+	makeList(resultarray, "Standard");
+}
+
+function getRDA() {
+	var results;
+	resultarray = rdacontent.split("\@");
+	makeList(resultarray, "RDA Content types");
 }
 function process(obj_f) {
 
@@ -332,11 +342,6 @@ switch (search) {
 	case "country":
 		{
 		resultarray = country.split("\@");
-		break;
-		}
-	case "rdacontent":
-		{
-		resultarray = rdacontent.split("\@");
 		break;
 		}
 	case "lcsh":
