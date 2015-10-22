@@ -340,6 +340,12 @@ switch (search) {
 		}
 	case "lcsh":
 		{
+		if (userinput.length == 3) {
+						if (regmarcsearch.exec(userinput)) {
+										found = 0;
+										break;
+						}
+		}
 		resultarray = lcsh.split("\@");
 		founditems += '<table><tr><th>Results</th></tr>\n';
 
