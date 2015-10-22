@@ -72,7 +72,7 @@ function makeList(resultarray, header) {
 	document.getElementById('results').innerHTML = founditems;
 }
 
-function getStandard(obj_f) {
+function getStandard(obj_f, header) {
 	var results;
 	subdiv = obj_f.standard.value;
 	subdiv_var = eval(subdiv); 
@@ -283,11 +283,6 @@ switch (search) {
 	case "geogcutter":
 		{
 		resultarray = geogcutter.split("\@");
-		break;
-		}
-	case "aacr":
-		{
-		resultarray = aacr.split("\@");
 		break;
 		}
 	case "aat":

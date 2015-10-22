@@ -16,7 +16,7 @@ fixed MARC fields (bibliographic and authority data), LC subject headings, langu
 </head>
 <body onload="document.f.userinput.focus();">
 <div id="nav">
-				<table class="top"><tr><td><br /><img src="includes/bookstack.gif"></td><td><center><h1>The Cataloging Calculator</h1>by <a href="http://alptown.com" target="_top">Kyle Banerjee</a><p></p></center></td></tr><tr><td></td></tr></table><p />
+				<table class="top"><tr><td><br /><img src="includes/bookstack.gif"></td><td><center><h1>The Cataloging Calculator</h1>by <a href="http://alptown.com" class="blue">Kyle Banerjee</a><p></p></center></td></tr><tr><td></td></tr></table><p />
 				<center><form name="f" onSubmit="process(document.f); return false;">
 
 	<input type="text" name="userinput" size="25" onKeyUp="process(document.f);self.focus();document.f.userinput.focus();" />
@@ -41,7 +41,7 @@ fixed MARC fields (bibliographic and authority data), LC subject headings, langu
 	</table>
 	<p />
 	<b>Select Standard Subdivisions Below <em>NEW</em></b> <br />
-	<select name="standard" onChange="getList(document.f, "Subdivisions");" selected>
+	<select name="standard" onChange="getStandard(document.f, 'Subdivisions');" selected>
   			<option value="general" selected>Chose one</option>
   			<option value="general" >Free Floating</option>
 			<option value="animals">Animals</option>
@@ -89,8 +89,6 @@ fixed MARC fields (bibliographic and authority data), LC subject headings, langu
   		<option value="fixvis">Visual Materials</option>
   		<option value="fixauth">Authority Data</option>
 		</select>
-	<br /><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://calculate.alptown.com" show_faces="false" width="450" font=""></fb:like>
-	<br />
 </form>
 <br />&nbsp;<p />
  <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://calculate.alptown.com" show_faces="false" width="450" font=""></fb:like>
