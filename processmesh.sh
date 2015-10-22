@@ -1,5 +1,5 @@
 #!/bin/bash
-
+export LC_ALL=C
 
 ## processes LOD files from mesh. Still need to join lines in output file
 fgrep 'mesh/D' mesh.nt |fgrep preferredConcept |fgrep 'mesh/M' |sed 's/^.*mesh\/M/M/' |sed 's/>.*$//' | LANG=en_EN sort -u -k 1,1  > goodrecords
