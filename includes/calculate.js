@@ -81,7 +81,6 @@ function getStandard(obj_f, header) {
 }
 
 function getRDA() {
-	var results;
 	resultarray = rdacontent.split("\@");
 	makeList(resultarray, "RDA Content types");
 }
