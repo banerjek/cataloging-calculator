@@ -23,6 +23,9 @@ body {
 
 #results {
 				display: inline-block;
+}
+#fixed {
+				display: inline-block;
 				width: 700px;
 }
 
