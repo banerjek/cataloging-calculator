@@ -46,7 +46,7 @@ return returnfound;
 function getFixed(obj_f) {
 	var results;
 	fixedval = obj_f.fixfield.value;
-	document.getElementById('results').innerHTML = fixarray[fixedval];
+	document.getElementById('results').innerHTML = '<div id="fixed">' + fixarray[fixedval] + '</div>';
 	return;
 }
 
