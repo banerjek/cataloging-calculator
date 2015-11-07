@@ -159,7 +159,6 @@ function process(obj_f) {
 					if (checksearch == 1 && checkinput == 1) {
 						if (pastinput[userinput.length] == userinput.substring(0, userinput.length)) {
 							document.getElementById('results').innerHTML = pastresults[userinput.length];
-							window.alert('cached');
 							return;
 							} 
 						}
@@ -365,11 +364,17 @@ switch (search) {
 		}
 	case "aat":
 		{
-		resultarray = aat.split("\@");
+		if (lastarray.length > 0) {
+			resultarray = lastarray;
+			lastarray = [];
+			} else {
+			resultarray = aat.split("\@");
+			}
 		founditems += '<table><tr><th>Results</th></tr>\n';
 
 		for (x=0; x<=resultarray.length-1; x++) {
 			if (searchEntry(userinput, resultarray[x]) == 1) {
+				lastarray[found] = resultarray[x];
 				found += 1;
 				cellarray = resultarray[x].split("\t");	
 				webbase = 'http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300';
@@ -425,11 +430,17 @@ switch (search) {
 										break;
 						}
 		}
-		resultarray = lcsh.split("\@");
+		if (lastarray.length > 0) {
+			resultarray = lastarray;
+			lastarray = [];
+			} else {
+			resultarray = lcsh.split("\@");
+			}
 		founditems += '<table><tr><th>Results</th></tr>\n';
 
 		for (x=0; x<=resultarray.length-1; x++) {
 			if (searchEntry(userinput, resultarray[x]) == 1) {
+				lastarray[found] = resultarray[x];
 				found += 1;
 				cellarray = resultarray[x].split("\t");	
 				webbase = 'http://id.loc.gov/authorities/subjects/';
