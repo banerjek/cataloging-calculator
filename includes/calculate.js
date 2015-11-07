@@ -143,6 +143,7 @@ function process(obj_f) {
 	}
 
   userinput = obj_f.userinput.value;
+	userinput.trim();
 	userinput = userinput.toUpperCase();
 
 	if (search == "lcsh" || search == "aat") {
