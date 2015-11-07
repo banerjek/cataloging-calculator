@@ -9,6 +9,13 @@ var charstrokes;
 var userinput;
 var search;
 var fixarray = [];
+var lastuserinput = '';
+var lastsearch = '';
+var lastarray = [];
+var pastinput = [];
+var pastresults = [];
+var checksearch = 0;
+var checkinput = 0;
 
 
 function getPage(sURL) {
@@ -21,6 +28,15 @@ function getPage(sURL) {
          wind.opener = self;
    }
 }
+function clearvalues() {
+	lastuserinput = '';
+	lastarray = [];
+	lastsearch = '';
+	pastinput = [];
+	pastresults = [];
+	checksearch = 0;
+	checkinput = 0;
+	}	
 
 function searchEntry(userinput, entry) {
 	userinput = userinput.toLowerCase();
@@ -28,18 +44,24 @@ function searchEntry(userinput, entry) {
 	terms = userinput.split(" ");
 	returnfound = 0;
 
-	for (foundit = 0; foundit < terms.length; foundit++) {
-		if (terms[foundit].length > 2) {
-			// regex search is too slow, so we use strings
-			if (entry.indexOf(terms[foundit]) > -1) {
-				returnfound = 1;
-			}
-			else {
-				returnfound = 0;	
-				break;
+	if (terms[0].length > 2) {
+		if (entry.indexOf(terms[0]) > -1) {
+			returnfound = 1;
+
+			for (foundit = 1; foundit < terms.length; foundit++) {
+				if (entry.indexOf(terms[foundit]) > -1) {
+					returnfound = 1;
+					} else {
+						returnfound = 0;	
+						break;
+						}
+					}
+
+			} else {
+			returnfound = 0;	
 			}
 		}
-	}
+
 return returnfound;
 }
 
@@ -111,11 +133,48 @@ function process(obj_f) {
 	if (obj_f.searchtype[x].checked) {
 	  search = obj_f.searchtype[x].value;
 	  x = 10;
+		if (lastsearch == search) {
+			checksearch = 1;
+			} else {
+			clearvalues();	
+			}
+		lastsearch = search;
 	  }
 	}
 
   userinput = obj_f.userinput.value;
 	userinput = userinput.toUpperCase();
+
+	if (search == "lcsh" || search == "aat") {
+		if (userinput.length > 2) {
+			if (lastuserinput.length > 2) {
+				if (checksearch == 1) {
+					// Compare with previous search
+					if (pastinput[userinput.length - 1] == userinput.substring(0, userinput.length - 1)) {
+						checkinput = 1;
+						} else {
+						checkinput = 0;
+						}
+					// return results from previously executed search if possible 
+					if (checksearch == 1 && checkinput == 1) {
+						if (pastinput[userinput.length] == userinput.substring(0, userinput.length)) {
+							document.getElementById('results').innerHTML = pastresults[userinput.length];
+							window.alert('cached');
+							return;
+							} 
+						}
+					}
+				if (checksearch == 0 || checkinput == 0){
+					clearvalues();
+				}
+			}
+		} else {
+		document.getElementById('results').innerHTML = '<table><tr><th>Search Results</th></tr><tr><td>Please enter at least three characters</td></tr></table>';
+		return;
+		}
+	}
+	lastuserinput = userinput;
+	pastinput[userinput.length] = userinput;
 
 /************************
 allow forced subject search
@@ -132,6 +191,7 @@ allow forced subject search
 	  	default:
 			if (userinput.length > 2) {
 				body=extract();
+				pastresults[userinput.length] = body;
 				document.getElementById('results').innerHTML = body;
 				break;
 				}
