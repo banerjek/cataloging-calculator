@@ -1,5 +1,5 @@
 html, body {
-				height: 100v;
+	height: 100v;
 }
 
 body {
@@ -22,11 +22,11 @@ body {
 }
 
 #results {
-				display: inline-block;
+	display: inline;
 }
 #fixed {
-				display: inline-block;
-				width: 700px;
+	display: inline;
+	width: 700px;
 }
 
 table {
