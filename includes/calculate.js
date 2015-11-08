@@ -14,6 +14,7 @@ var lastsearch = '';
 var lastarray = [];
 var pastinput = [];
 var pastresults = {};
+var pastarrays = {};
 var checksearch = 0;
 var checkinput = 0;
 
@@ -34,6 +35,7 @@ function clearvalues() {
 	lastsearch = '';
 	pastinput = [];
 	pastresults = {};
+	pastarrays = {};
 	checksearch = 0;
 	checkinput = 0;
 	}	
@@ -154,6 +156,7 @@ function process(obj_f) {
 					if (checksearch == 1) {
 						if (pastresults[userinput]) {
 							document.getElementById('results').innerHTML = pastresults[userinput];
+							lastarray = pastarrays[userinput];
 							return;
 							} 
 						}
@@ -410,6 +413,7 @@ switch (search) {
     if (found == 0) {
 			founditems = notfound();
 			}
+		pastarrays[userinput] = lastarray;
 		return founditems;
 		break;
 		}
@@ -476,6 +480,7 @@ switch (search) {
     if (found == 0) {
 			founditems = notfound();
 			}
+		pastarrays[userinput] = lastarray;
 		return founditems;
 		break;
 		}
