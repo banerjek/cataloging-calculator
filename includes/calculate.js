@@ -366,6 +366,11 @@ switch (search) {
 		resultarray = geogcutter.split("\@");
 		break;
 		}
+	case "aacr":
+		{
+		resultarray = aacr.split("\@");
+		break;
+		}
 	case "aat":
 		{
 		if (lastarray.length > 0) {
