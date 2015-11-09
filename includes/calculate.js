@@ -383,29 +383,34 @@ switch (search) {
 				cellarray = resultarray[x].split("\t");	
 				webbase = 'http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300';
 
-				if (found % 2 == 0) {
+				if (found < 500) {
+					if (found % 2 == 0) {
 
-					founditems += '<tr><td style="background: #c6d6ee;">'
-					+'<a href="javascript:getPage(\'' + webbase
-					+ cellarray[0]
-					+ '\');">'
-					+ cellarray[1]
-					+ '</a></td></tr>'
-					+ '\n';
+						founditems += '<tr><td style="background: #c6d6ee;">'
+						+'<a href="javascript:getPage(\'' + webbase
+						+ cellarray[0]
+						+ '\');">'
+						+ cellarray[1]
+						+ '</a></td></tr>'
+						+ '\n';
 
-					}
-					else
-					{
-					founditems += '<tr><td>'
-					+'<a href="javascript:getPage(\'' + webbase
-					+ cellarray[0]
-					+ '\');">'
-					+ cellarray[1]
-					+ '</td></tr>'
-					+ '\n';
+						}
+						else
+						{
+						founditems += '<tr><td>'
+						+'<a href="javascript:getPage(\'' + webbase
+						+ cellarray[0]
+						+ '\');">'
+						+ cellarray[1]
+						+ '</td></tr>'
+						+ '\n';
+						}
 					}
 				}
 			}
+		if (found >= 500) {
+			founditems += '<tr><td></center><h2>' + found + ' retrievals. Displaying first 500</h2></center></td></tr>';
+		}
 		founditems += '</table><p />'
 		+'<center class="red"><b>Click on any entry above for '
 		+'detailed information and proper usage from the Getty Art & Architecture Thesaurus®</b>';
@@ -450,29 +455,34 @@ switch (search) {
 				cellarray = resultarray[x].split("\t");	
 				webbase = 'http://id.loc.gov/authorities/subjects/';
 
-				if (found % 2 == 0) {
+				if (found < 500) {
+					if (found % 2 == 0) {
 
-					founditems += '<tr><td style="background: #c6d6ee;">'
-					+'<a href="javascript:getPage(\'' + webbase
-					+ cellarray[1]
-					+ '.html\');">'
-					+ cellarray[0]
-					+ '</a></td></tr>'
-					+ '\n';
+						founditems += '<tr><td style="background: #c6d6ee;">'
+						+'<a href="javascript:getPage(\'' + webbase
+						+ cellarray[1]
+						+ '.html\');">'
+						+ cellarray[0]
+						+ '</a></td></tr>'
+						+ '\n';
 
-					}
+						}
 					else
-					{
-					founditems += '<tr><td>'
-					+'<a href="javascript:getPage(\'' + webbase
-					+ cellarray[1]
-					+ '.html\');">'
-					+ cellarray[0]
-					+ '</td></tr>'
-					+ '\n';
+						{
+						founditems += '<tr><td>'
+						+'<a href="javascript:getPage(\'' + webbase
+						+ cellarray[1]
+						+ '.html\');">'
+						+ cellarray[0]
+						+ '</td></tr>'
+						+ '\n';
+						}
 					}
 				}
 			}
+		if (found >= 500) {
+			founditems += '<tr><td></center><h2>' + found + ' retrievals. Displaying first 500</h2></center></td></tr>';
+		}
 		founditems += '</table><p />'
 		+'<center class="red"><b>Click on any field above for '
 		+'detailed information from Library of Congress</b>';
@@ -503,16 +513,21 @@ switch (search) {
 					+ '</a></td></tr>'
 					+ '\n';
 
-				if (found % 2 == 0) {
-					founditems += '<tr><td style="background: #c6d6ee;">' + id_url;
-					}
-					else
-					{
-					founditems += '<tr><td>'
-					+ id_url;
+				if (found < 500) {
+					if (found % 2 == 0) {
+						founditems += '<tr><td style="background: #c6d6ee;">' + id_url;
+						}
+						else
+						{
+						founditems += '<tr><td>'
+						+ id_url;
+						}
 					}
 				}
 			}
+		if (found >= 500) {
+			founditems += '<tr><td></center><h2>' + found + ' retrievals. Displaying first 500</h2></center></td></tr>';
+		}
 		founditems += '</table><p />'
 		+'<center class="red"><b>Click on any field above for '
 		+'detailed information from NLM</b>';
