@@ -386,7 +386,7 @@ switch (search) {
 				lastarray[found] = resultarray[x];
 				found += 1;
 				cellarray = resultarray[x].split("\t");	
-				webbase = 'http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=300';
+				webbase = 'http://www.getty.edu/vow/AATFullDisplay?find=&logic=AND&note=&subjectid=';
 
 				if (found < 500) {
 					if (found % 2 == 0) {
