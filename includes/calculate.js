@@ -148,7 +148,7 @@ function process(obj_f) {
 	userinput.trim();
 	userinput = userinput.toUpperCase();
 
-	if (search == "lcsh" || search == "aat" || search == "geotables" ) {
+	if (search == "lcsh" || search == "aat" || search == "lctables" ) {
 		if (userinput.length > 2) {
 			if (lastuserinput.length > 2) {
 				if (checksearch == 1) {
@@ -366,13 +366,13 @@ switch (search) {
 		resultarray = geogcutter.split("\@");
 		break;
 		}
-	case "geotables":
+	case "lctables":
 		{
 		if (lastarray.length > 0) {
 			resultarray = lastarray;
 			lastarray = [];
 			} else {
-			resultarray = geotables.split("\@");
+			resultarray = lctables.split("\@");
 			}
 		founditems += '<table><tr><th colspan="3">Results</th></tr>\n';
 
