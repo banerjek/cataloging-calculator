@@ -138,7 +138,7 @@ function LCTableRender(table) {
 				found += 1;
 				cellarray = resultarray[x].split("\t");	
 
-				if (found % 2 == 0) {
+				if (found % 2 == 1) {
 
 					founditems += '<tr>'
 					+ '<td style="background: #c6d6ee;">' + cellarray[0] + '</td>\n'
