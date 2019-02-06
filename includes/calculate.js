@@ -127,6 +127,43 @@ function getRDA() {
 	document.getElementById('results').innerHTML = founditems;
 }
 
+function LCTableRender(table) {
+		var found = 1;
+		resultarray = lctables.split("\@");
+		founditems = '<table><tr><th colspan="3">Results -- Next search is LC Class number by default</th></tr>\n';
+
+		for (x=0; x<=resultarray.length-1; x++) {
+			if (searchEntry(table, resultarray[x]) == 1) {
+				lastarray[found] = resultarray[x];
+				found += 1;
+				cellarray = resultarray[x].split("\t");	
+
+				if (found % 2 == 0) {
+
+					founditems += '<tr>'
+					+ '<td style="background: #c6d6ee;">' + cellarray[0] + '</td>\n'
+					+ '<td style="background: #c6d6ee;">' + cellarray[1] + '</td>\n'
+					+ '<td style="background: #c6d6ee;">' + cellarray[2] + '</td>\n'
+					+ '</td></tr>\n';
+					}
+					else
+					{
+					founditems += '<tr>'
+					+ '<td>' + cellarray[0] + '</td>\n'
+					+ '<td>' + cellarray[1] + '</td>\n'
+					+ '<td>' + cellarray[2] + '</td>\n'
+					+ '</td></tr>\n';
+					}
+				}
+			}
+		founditems += '</table><p />';
+
+    if (found == 0) {
+			founditems = notfound();
+			}
+		document.getElementById('results').innerHTML = founditems;
+		}
+
 function process(obj_f) {
 
   for (x=0; x<=10; x++) {
@@ -433,7 +470,7 @@ switch (search) {
 				if (cellarray[2] == undefined) {
 					cellarray[2] = '';
 					} else {
-					cellarray[2] = 'Table ' + cellarray[2];
+					cellarray[2] = '<a class="blue" onclick="LCTableRender(\'' + cellarray[2] + '-\')">Table ' + cellarray[2] + '</a>';
 					}
 
 				if (found < 500) {
