@@ -130,7 +130,7 @@ function getRDA() {
 function LCTableRender(table) {
 		var found = 1;
 		resultarray = lctables.split("\@");
-		founditems = '<table><tr><th colspan="3">Results -- Next search is LC Class number by default</th></tr>\n';
+		founditems = '<table><tr><th colspan="3">Table ' + table.replace(/-$/, "") + ' (Next search is LC Class number by default)</th></tr>\n';
 
 		for (x=0; x<=resultarray.length-1; x++) {
 			if (searchEntry(table, resultarray[x]) == 1) {
