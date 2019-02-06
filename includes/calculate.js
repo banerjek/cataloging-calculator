@@ -432,6 +432,8 @@ switch (search) {
 				cellarray = resultarray[x].split("\t");	
 				if (cellarray[2] == undefined) {
 					cellarray[2] = '';
+					} else {
+					cellarray[2] = 'Table ' + cellarray[2];
 					}
 
 				if (found < 500) {
