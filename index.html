@@ -29,6 +29,7 @@ fixed MARC fields (bibliographic and authority data), LC subject headings, langu
         <input type="radio" name="searchtype" value="lc" onClick="process(document.f);">LC Cutter
 	<br /><input type="radio" name="searchtype" value="geogcutter" onClick="process(document.f);">Geo Cutter
 	<br /><input type="radio" name="searchtype" value="lctables" onClick="process(document.f);"><em>NEW!</em> LCCN Tables 
+	<br /><input type="radio" name="searchtype" value="lcschedules" onClick="process(document.f);"><em>NEW!</em> LC Class Numbers 
 	<br /><input type="radio" name="searchtype" value="gac" onClick="process(document.f);">Geo Area Codes
 	<br /><input type="radio" name="searchtype" value="country" onClick="process(document.f);">Country Codes
 	<br /><input type="radio" name="searchtype" value="lang" onClick="process(document.f);">Language Codes
@@ -97,7 +98,7 @@ fixed MARC fields (bibliographic and authority data), LC subject headings, langu
 </center>
 </div>
 <div id="results">
-				<table border="0"><tr><td><h1><br /><center>Data files are loading. Please be patient -- it could take a few minutes the first time you use this page....</center></h1></td></tr></table>
+				<table border="0"><tr><td><h1><br /><center>Data files are loading. Please be patient -- the files are huge so it could take several minutes....</center></h1></td></tr></table>
 </div>
 <script language="javascript" src="includes/calculate.js"></script>
 <script language="javascript" src="includes/fixed.js"></script>
@@ -112,6 +113,7 @@ fixed MARC fields (bibliographic and authority data), LC subject headings, langu
 <script language="javascript" src="includes/aacr.js"></script>
 <script language="javascript" src="includes/geogcutter.js"></script>
 <script language="javascript" src="includes/standard_subdivisions.js"></script>
+<script language="javascript" src="includes/schedules.js"></script>
 
 <script language="javascript">
 (function loadFixed() {
