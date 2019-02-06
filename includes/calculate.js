@@ -470,7 +470,7 @@ switch (search) {
 				if (cellarray[2] == undefined) {
 					cellarray[2] = '';
 					} else {
-					cellarray[2] = '<a class="blue" onclick="LCTableRender(\'' + cellarray[2] + '-\')">Table ' + cellarray[2] + '</a>';
+					cellarray[2] = '<a class="blue" onclick="LCTableRender(\'\t' + cellarray[2] + '-\')">Table ' + cellarray[2] + '</a>';
 					}
 
 				if (found < 500) {
