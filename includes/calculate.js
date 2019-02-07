@@ -83,7 +83,7 @@ function makeList(resultarray, header) {
 		heading = resultarray[x];	
 
 		if (found % 2 == 0) {
-			founditems += '<tr><td style="background: #c6d6ee;">' + heading;
+			founditems += '<tr class="accent"><td>' + heading;
 			}
 			else
 			{
@@ -115,7 +115,7 @@ function getRDA() {
 		headingarray = heading.split("\t");
 
 		if (found % 2 == 0) {
-			founditems += '<tr><td style="background: #c6d6ee;"><center>' + headingarray[1] + '</center></td><td style="background: #c6d6ee;">' + headingarray[0];
+			founditems += '<tr class="accent"><td><center>' + headingarray[1] + '</center></td><td>' + headingarray[0];
 			}
 			else
 			{
@@ -127,7 +127,7 @@ function getRDA() {
 	document.getElementById('results').innerHTML = founditems;
 }
 
-function LCTableRender(table) {
+function LCTableRender(table ) {
 		var found = 1;
 		resultarray = lctables.split("\@");
 		founditems = '<table><tr><th colspan="3">Table ' + table.replace(/-$/, "") + ' (Next search is LC Class number by default)</th></tr>\n';
@@ -140,10 +140,10 @@ function LCTableRender(table) {
 
 				if (found % 2 == 1) {
 
-					founditems += '<tr>'
-					+ '<td style="background: #c6d6ee;">' + cellarray[0] + '</td>\n'
-					+ '<td style="background: #c6d6ee;">' + cellarray[1] + '</td>\n'
-					+ '<td style="background: #c6d6ee;">' + cellarray[2] + '</td>\n'
+					founditems += '<tr class="accent">'
+					+ '<td>' + cellarray[0] + '</td>\n'
+					+ '<td>' + cellarray[1] + '</td>\n'
+					+ '<td>' + cellarray[2] + '</td>\n'
 					+ '</td></tr>\n';
 					}
 					else
@@ -422,10 +422,10 @@ switch (search) {
 				if (found < 500) {
 					if (found % 2 == 0) {
 
-						founditems += '<tr>'
-						+ '<td style="background: #c6d6ee;">' + cellarray[0] + '</td>\n'
-						+ '<td style="background: #c6d6ee;">' + cellarray[1] + '</td>\n'
-						+ '<td style="background: #c6d6ee;">' + cellarray[2] + '</td>\n'
+						founditems += '<tr class="accent">'
+						+ '<td>' + cellarray[0] + '</td>\n'
+						+ '<td>' + cellarray[1] + '</td>\n'
+						+ '<td>' + cellarray[2] + '</td>\n'
 						+ '</td></tr>\n';
 
 						}
@@ -476,10 +476,10 @@ switch (search) {
 				if (found < 500) {
 					if (found % 2 == 0) {
 
-						founditems += '<tr>'
-						+ '<td style="background: #c6d6ee;">' + cellarray[0] + '</td>\n'
-						+ '<td style="background: #c6d6ee;">' + cellarray[1] + '</td>\n'
-						+ '<td style="background: #c6d6ee;">' + cellarray[2] + '</td>\n'
+						founditems += '<tr class="accent">'
+						+ '<td>' + cellarray[0] + '</td>\n'
+						+ '<td>' + cellarray[1] + '</td>\n'
+						+ '<td>' + cellarray[2] + '</td>\n'
 						+ '</td></tr>\n';
 
 						}
@@ -531,7 +531,7 @@ switch (search) {
 				if (found < 500) {
 					if (found % 2 == 0) {
 
-						founditems += '<tr><td style="background: #c6d6ee;">'
+						founditems += '<tr class="accent"><td>'
 						+'<a href="javascript:getPage(\'' + webbase
 						+ cellarray[0]
 						+ '\');">'
@@ -603,7 +603,7 @@ switch (search) {
 				if (found < 500) {
 					if (found % 2 == 0) {
 
-						founditems += '<tr><td style="background: #c6d6ee;">'
+						founditems += '<tr class="accent"><td>'
 						+'<a href="javascript:getPage(\'' + webbase
 						+ cellarray[1]
 						+ '.html\');">'
@@ -660,7 +660,7 @@ switch (search) {
 
 				if (found < 500) {
 					if (found % 2 == 0) {
-						founditems += '<tr><td style="background: #c6d6ee;">' + id_url;
+						founditems += '<tr class="accent"><td>' + id_url;
 						}
 						else
 						{
@@ -701,7 +701,7 @@ switch (search) {
 						} else {
 						webbase = 'http://www.oclc.org/bibformats/en/';
 						}
-					founditems += '<tr><td style="background: #c6d6ee;">'
+					founditems += '<tr class="accent"><td>'
 					+'<a href="javascript:getPage(\'' + webbase
 					+ cellarray[0].substr(0, 1)
 					+ 'xx/'
@@ -799,9 +799,9 @@ switch (search) {
 					}
 
 			if (found % 2 == 0) {
-				founditems += '<tr><td style="background: #c6d6ee;">'
+				founditems += '<tr class="accent"><td>'
 				+ cellarray[0]
-				+ '</td><td style="background: #c6d6ee;">'
+				+ '</td><td>'
 				+ cellarray[1]
 				+ '</td></tr>'
 				+ "\n";
