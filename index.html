@@ -19,7 +19,7 @@ fixed MARC fields (bibliographic and authority data), LC subject headings, langu
 				<table class="top"><tr><td><br /><img src="includes/bookstack.gif"></td><td><center><h1>The Cataloging Calculator</h1>by <a href="https://kyle.banerjee.site" class="blue">Kyle Banerjee</a><p></p></center></td></tr><tr><td></td></tr></table><p />
 				<center><form name="f" onSubmit="process(document.f); return false;">
 
-	<input type="text" name="userinput" size="25" onKeyUp="process(document.f);self.focus();document.f.userinput.focus();" />
+	<input type="text" name="userinput" size="25" onKeyUp="process(document.f);self.focus();document.f.userinput.focus();" onClick="clearTable();self.focus();document.f.userinput.focus();" />
 	<input type="submit" value="Find It!">
 	<p /><b>Enter Query Above</b>
 <p />
@@ -97,8 +97,11 @@ fixed MARC fields (bibliographic and authority data), LC subject headings, langu
  <script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="https://calculate.alptown.com" show_faces="false" width="450" font=""></fb:like>
 </center>
 </div>
+<div id="results_container">
 <div id="results">
-<table class="announce" border="0"><tr><td><h1><br /><center>Data files are loading. Please be patient<p />The files are huge so it could take several minutes....<p />If this program doesn't work, check to see if your browser is blocking scripts on this page.</center></h1></td></tr></table>
+<table class="announce" border="0"><tr><td><h2><br /><center>Data files are loading. Please be patient<p />The files are huge so it could take several minutes....</center><p>If the page doesn't work, make sure your browser isn't blocking script execution</h2></td></tr></table>
+</div>
+<div id="table_results" />
 </div>
 <script language="javascript" src="includes/calculate.js"></script>
 <script language="javascript" src="includes/fixed.js"></script>

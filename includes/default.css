@@ -1,5 +1,6 @@
 html, body {
-	height: 100v;
+	height: 100%;
+	width: 100%
 }
 
 body {
@@ -17,6 +18,7 @@ body {
 
 .announce {
 	line-height: normal;
+	display: inline;
 	}
 
 #nav {
@@ -25,9 +27,15 @@ body {
 	width: 400px;
 }
 
-#results {
+#results_container {
 	display: inline;
 }
+
+#results {
+	display: inline;
+	overflow-x: hidden;
+}
+
 #fixed {
 	display: inline-block;
 	width: 700px;

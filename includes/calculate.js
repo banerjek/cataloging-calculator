@@ -96,6 +96,13 @@ function makeList(resultarray, header) {
 	document.getElementById('results').innerHTML = founditems;
 }
 
+function clearTable() {
+	document.getElementById('table_results').innerHTML = '';
+	document.getElementById("results").style.display = "inline";
+	document.getElementById("results").style.display = "auto";
+	document.getElementById("results").style.height = "auto";
+	document.getElementById("results").style.width = "auto";
+}
 function getStandard(obj_f, header) {
 	var results;
 	subdiv = obj_f.standard.value;
@@ -129,6 +136,12 @@ function getRDA() {
 
 function LCTableRender(table ) {
 		var found = 1;
+		var windowHeight = window.innerHeight;
+		var windowWidth = window.innerWidth;
+		document.getElementById("results").style.display = "inline-block";
+		document.getElementById("results").style.overflow = "hidden,scroll";
+		document.getElementById("results").style.height = ((windowHeight/2) + "px");
+		document.getElementById("results").style.width = ((windowWidth - 430) + "px");
 		resultarray = lctables.split("\@");
 		founditems = '<table><tr><th colspan="3">Table ' + table.replace(/-$/, "") + ' (Next search is LC Class number by default)</th></tr>\n';
 
@@ -161,7 +174,7 @@ function LCTableRender(table ) {
     if (found == 0) {
 			founditems = notfound();
 			}
-		document.getElementById('results').innerHTML = founditems;
+		document.getElementById('table_results').innerHTML = founditems;
 		}
 
 function process(obj_f) {
