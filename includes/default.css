@@ -15,6 +15,10 @@ body {
 	text-align: center;
 	}
 
+.announce {
+	line-height: normal;
+	}
+
 #nav {
 	float: left;
 	margin-right: 10px;
@@ -80,3 +84,7 @@ h1 {
 em {
 				background: yellow;
 }
+
+.accent {
+	background: #c6d6ee;
+	}
