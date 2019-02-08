@@ -26,20 +26,23 @@ fixed MARC fields (bibliographic and authority data), LC subject headings, LC Cl
 	<table class="borders" cellpadding="2">
 					<tr><th>Search Options</th></tr>
 	<tr><td valign="top">
+	<b>Descriptive</b><br />
         <input type="radio" name="searchtype" value="lc" onClick="process(document.f);">LC Cutter
 	<br /><input type="radio" name="searchtype" value="geogcutter" onClick="process(document.f);">Geo Cutter
-	<br /><input type="radio" name="searchtype" value="lctables" onClick="process(document.f);"><em>NEW!</em> LCCN Tables 
-	<br /><input type="radio" name="searchtype" value="lcschedules" onClick="process(document.f);"><em>NEW!</em> LC Class Numbers 
 	<br /><input type="radio" name="searchtype" value="gac" onClick="process(document.f);">Geo Area Codes
 	<br /><input type="radio" name="searchtype" value="country" onClick="process(document.f);">Country Codes
 	<br /><input type="radio" name="searchtype" value="lang" onClick="process(document.f);">Language Codes
 	<br /><input type="radio" name="searchtype" value="rdacontent" onClick="getRDA();">RDA Content Types
 	<br /><input type="radio" name="searchtype" value="aacr" onClick="process(document.f);">AACR2 Abbrevs.
         <br /><input type="radio" name="searchtype" value="marc" onClick="process(document.f);" checked>MARC Var. Fields 
+				<p />
+	<b>Subject analysis</b>
         <br /><input type="radio" name="searchtype" value="lcsh" onClick="process(document.f);">LCSH 
-	<br /><input type="radio" name="searchtype" value="aat" onClick="process(document.f);">Getty AAT 
+				<p />
+	<b>Classification</b>
+	<br /><input type="radio" name="searchtype" value="lctables" onClick="process(document.f);"><em>NEW!</em> LCCN Tables 
+	<br /><input type="radio" name="searchtype" value="lcschedules" onClick="process(document.f);"><em>NEW!</em> LC Class Numbers 
 	<p />
-	&nbsp;Need <a href="https://icd10-lookup.alptown.com" class="blue">SNOMED, ICD-10, MeSH, or NLM</a>?<br />&nbsp;
 	</td></tr>
 	</table>
 	<p />
