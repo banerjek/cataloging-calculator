@@ -198,7 +198,7 @@ function process(obj_f) {
 	userinput.trim();
 	userinput = userinput.toUpperCase();
 
-	if (search == "lcsh" || search == "mesh" || search == "aat" || search == "lctables" || search == "lcschedules") {
+	if (search == "lcsh" || search == "nlm" || search == "mesh" || search == "aat" || search == "lctables" || search == "lcschedules") {
 		if (userinput.length > 2) {
 			if (lastuserinput.length > 2) {
 				if (checksearch == 1) {
@@ -665,6 +665,68 @@ switch (search) {
 			lastarray = [];
 			} else {
 			resultarray = mesh.split("\@");
+			}
+		founditems += '<table><tr><th>Results</th></tr>\n';
+
+		for (x=0; x<=resultarray.length-1; x++) {
+			if (searchEntry(userinput, resultarray[x]) == 1) {
+				lastarray[found] = resultarray[x];
+				found += 1;
+				cellarray = resultarray[x].split("\t");	
+				webbase = 'https://meshb.nlm.nih.gov/record/ui?ui=';
+
+				if (found < 500) {
+					if (found % 2 == 0) {
+
+						founditems += '<tr class="accent"><td>'
+						+'<a href="javascript:getPage(\'' + webbase
+						+ cellarray[1]
+						+ '\');">'
+						+ cellarray[0]
+						+ '</a></td></tr>'
+						+ '\n';
+
+						}
+					else
+						{
+						founditems += '<tr><td>'
+						+'<a href="javascript:getPage(\'' + webbase
+						+ cellarray[1]
+						+ '\');">'
+						+ cellarray[0]
+						+ '</td></tr>'
+						+ '\n';
+						}
+					}
+				}
+			}
+		if (found >= 500) {
+			founditems += '<tr><td></center><h2>' + found + ' retrievals. Displaying first 500</h2></center></td></tr>';
+		}
+		founditems += '</table><p />'
+		+'<center class="red"><b>Click on any field above for '
+		+'detailed information from National Library of Medicine</b>';
+
+    if (found == 0) {
+			founditems = notfound();
+			}
+		pastarrays[userinput] = lastarray;
+		return founditems;
+		break;
+		}
+	case "nlm":
+		{
+		if (userinput.length == 3) {
+			if (regmarcsearch.exec(userinput)) {
+				found = 0;
+				break;
+				}
+		}
+		if (lastarray.length > 0) {
+			resultarray = lastarray;
+			lastarray = [];
+			} else {
+			resultarray = nlm.split("\@");
 			}
 		founditems += '<table><tr><th>Results</th></tr>\n';
 
