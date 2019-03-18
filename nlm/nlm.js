@@ -1133,7 +1133,7 @@ W49	General Medicine. Health Professions--Law. Ethics. Professional-Patient Rela
 W50	General Medicine. Health Professions--Law. Ethics. Professional-Patient Relations--Medical ethics
 W58	General Medicine. Health Professions--Law. Ethics. Professional-Patient Relations--Advertising
 W61	General Medicine. Health Professions--Law. Ethics. Professional-Patient Relations--Medical philosophy and logic
-W62	General Medicine. Health Professions--Law. Ethics. Professional-Patient Relations--Health professionals' interpersonal relations. Attitude (General)
+W62	General Medicine. Health Professions--Law. Ethics. Professional-Patient Relations--Health professionals\' interpersonal relations. Attitude (General)
 W64	General Medicine. Health Professions--Law. Ethics. Professional-Patient Relations--Referral and consultation (General)
 W70	General Medicine. Health Professions--Access to Health Information and Health Care. Medical Economics--Health information
 W74	General Medicine. Health Professions--Access to Health Information and Health Care. Medical Economics--Medical economics. Health care costs (General)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
@@ -1302,9 +1302,9 @@ WA300	Public Health--Health issues of special population groups(<a href="http://
 WA300.1	Public Health--General coverage(Not Table G)
 WA305	Public Health--Mental health issues of special population groups(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
 WA305.1	Public Health--General coverage(Not Table G)
-WA306	Public Health--Men's health
+WA306	Public Health--Men\'s health
 WA308	Public Health--Family health
-WA309	Public Health--Women's health(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WA309	Public Health--Women\'s health(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
 WA309.1	Public Health--General coverage(Not Table G)
 WA310	Public Health--Maternal welfare. Maternal and child welfare. Maternal health services(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
 WA310.1	Public Health--General coverage(Not Table G)
@@ -1340,7 +1340,7 @@ WA487.5.E6	Public Health--Emergency responders
 WA487.5.F4	Public Health--Firefighters
 WA487.5.H4	Public Health--Health personnel
 WA487.5.S5	Public Health--Singers
-WA491	Public Health--Women's occupational health
+WA491	Public Health--Women\'s occupational health
 WA495	Public Health--Occupational mental health and mental health services
 WA525	Public Health--General works
 WA530	Public Health--International health administration(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
@@ -1756,1954 +1756,1954 @@ WC885	Communicable Diseases--Tropical and Parasitic Diseases--Onchocerciasis
 WC890	Communicable Diseases--Tropical and Parasitic Diseases--Hookworm infections (General or not elsewhere classified)
 WC900	Communicable Diseases--Tropical and Parasitic Diseases--Ectoparasitic infestations, disinfestation (General or not elsewhere classified)
 WC950	Communicable Diseases--Tropical and Parasitic Diseases--Zoonoses (General)
-WD100	General works
-WD101	Handbooks. Resource guides
-WD105	Deficiency diseases (General or not elsewhere classified)
-WD110	Vitamin A deficiency(<i>e.g., Night blindness</i>)
-WD120	Vitamin B deficiency
-WD122	Thiamine deficiency(<i>e.g., Beriberi</i>)
-WD124	Riboflavin deficiency
-WD126	Pellagra
-WD140	Ascorbic acid deficiency(<i>e.g., Scurvy</i>)
-WD145	Vitamin D deficiency(<i>e.g., Rickets</i>)
-WD150	Vitamin E deficiency
-WD155	Vitamin K deficiency
-WD175	Celiac disease. Sprue
-WD200	General works
-WD200.1	Handbooks. Resource guides
-WD200.5	Specific diseases or groups of diseases not classified elsewhere, A-Z
-WD200.5.C2	Calcium metabolism disorders
-WD200.5.G6	Glucose metabolism disorders
-WD200.5.H5	Hyperammonemia
-WD200.5.H8	Lipid metabolism disorders
-WD200.5.H9	Hyperprolactinemia
-WD200.5.I7	Iron metabolism disorders
-WD200.5.M2	Malabsorption syndromes
-WD200.5.M6	Mitochondrial diseases
-WD200.5.P4	Phosphorus metabolism disorders
-WD205	Inborn errors of metabolism (General)
-WD205.5	Specific errors or groups of errors not elsewhere classified, A-Z
-WD205.5.A5	Amino acid metabolism
-WD205.5.A6	Amyloidosis
-WD205.5.C2	Carbohydrate metabolism
-WD205.5.H9	Hyperbilirubinemia, Hereditary
-WD205.5.L5	Lipid metabolism
-WD205.5.M3	Metal metabolism (General)
-WD205.5.M4	Minerals
-WD205.5.P2	Paralyses, Familial periodic
-WD205.5.P6	Porphyrias
-WD205.5.P8	Purine-pyrimidine metabolism
-WD205.5.X2	Xanthomatosis
-WD210	Overweight. Obesity
-WD212	Popular works
-WD214	Adiposis dolorosa. Lipomatosis. Lipodystrophy
-WD220	Water-electrolyte imbalance. Acid-base imbalance
-WD222	Acidosis
-WD226	Alkalosis
-WD300	General works
-WD301	Handbooks. Resource guides
-WD305	Autoimmune diseases (General)
-WD308	Immune complex disease. Immunologic deficiency syndromes (General or not elsewhere classified)
-WD310	Food hypersensitivity
-WD320	Drug hypersensitivity
-WD330	Serum sickness
-WD375	Collagen diseases and other connective tissue diseases (General)
-WD380	Systemic lupus erythematosus
-WD400	General works
-WD401	Handbooks. Resource guides
-WD405	Marine forms
-WD410	Reptiles
-WD420	Spiders. Scorpions. Centipedes. Leeches
-WD430	Insects
-WD500	General works
-WD501	Handbooks. Resource guides
-WD505	Ergotism
-WD515	Favism
-WD520	Mushroom poisoning
-WD530	Milk sickness
-WD600	General works
-WD601	Handbooks. Resource guides
-WD602	Electric injuries
-WD605	Non-ionizing radiation injuries (General)
-WD610	Heat stress disorders
-WD630	Motion sickness(<i>e.g., Seasickness. Airsickness</i>)
-WD640	Vibration disorders (General)
-WD650	High air pressure. Submarine medicine
-WD655	Hypoxia
-WD670	Hypothermia. Cold injury
-WD700	General works
-WD701	Handbooks. Resource guides
-WD703	Dictionaries. Encyclopedias
-WD704	Research (General)
-WD705	Personnel selection and fitness. Physical standards
-WD710	Altitude effects
-WD712	Decompression sickness
-WD715	Hypoxia. Inert gas narcosis
-WD720	Speed. Acceleration. Deceleration. Gravitation. Rotation(<i>e.g., G force</i>)
-WD730	Psychological aspects
-WD735	Fatigue. Effect of noise. Effect of vibration
-WD740	Aviation accidents. Protective devices
-WD745	Aviation dentistry
-WD750	General works (including works on broad aspects of space flight)
-WD751	Research (General)
-WD751.6	Informatics. Electronic data processing. Computers (General)
-WD752	Physiological aspects
-WD754	Psychological aspects
-WD756	Closed ecological systems
-WD758	Extraterrestrial environment
-WD760	Cosmic radiation
-WD800	General works
-WE1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WE5	General works--By several authors
-WE7	General works--By individual authors
-WE9	Addresses. Essays. Lectures
-WE11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WE11.1	General coverage(Not Table G)
-WE13	Dictionaries. Encyclopedias
-WE15	Classification. Terminology
-WE16	Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WE16.1	General coverage(Not Table G)
-WE17	Atlases. Pictorial works
-WE18	Education
-WE18.2	Educational materials
-WE19	Schools, departments and faculties of orthopedics(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WE19.1	General coverage(Not Table G)
-WE20	Research (General)
-WE21	Orthopedics, osteology or rheumatology as a profession. Ethics. Peer review
-WE22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WE22.1	General coverage(Not Table G)
-WE23	Collective
-WE24	Individual(Cutter from name of institution)
-WE24.5	Bone banks(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WE24.51	General coverage(Not Table G)
-WE25	Laboratory manuals. Technique
-WE26	Equipment and supplies
-WE26.5	Informatics. Electronic data processing. Computers (General)
-WE27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WE27.1	General coverage(Not Table G)
-WE28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WE28.5	Collective
-WE28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WE32	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WE32.1	General coverage(Not Table G)
-WE33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WE33.1	General coverage(Not Table G)
-WE39	Handbooks. Resource guides
-WE100	General works
-WE101	Anatomy. Histology. Embryology (General)
-WE102	Physiology. Biochemistry
-WE103	Movement. Locomotion
-WE104	Proprioception. Psychomotor performance
-WE140	Diseases (General)
-WE141	Examination. Diagnosis. Diagnostic methods. Monitoring
-WE168	Orthopedic procedures (General or not elsewhere classified)
-WE170	Amputation
-WE172	Artificial limbs
-WE175	Dislocations. Sprains
-WE180	Fractures (General or not elsewhere classified)
-WE182	Open fractures
-WE185	Fracture fixation
-WE190	Bone transplantation
-WE200	Bone and bones (General)
-WE202	Bone physiology
-WE225	Bone diseases (General or not elsewhere classified)
-WE250	Congenital abnormalities. Disorders of metabolism, growth, or development
-WE251	Osteomyelitis and other infectious bone diseases
-WE253	Osteoarticular tuberculosis
-WE258	Neoplasms
-WE259	Osteochondritis. Osteochondrosis
-WE300	Joints. Ligaments. Synovial membranes and fluid. Cartilage
-WE304	Joint diseases
-WE312	Surgery
-WE344	Arthritis
-WE346	Rheumatoid arthritis. Ankylosis
-WE348	Degenerative joint disease. Osteoarthritis
-WE350	Gout
-WE400	Synovial bursa. Bursitis
-WE500	Muscles (General). Fascia
-WE504	Muscle physiology
-WE510	Trigger points
-WE544	Rheumatic diseases
-WE545	Contracture
-WE550	Muscular diseases. Neuromuscular diseases (General or not elsewhere classified)
-WE552	Amyotrophic lateral sclerosis
-WE555	Myasthenia gravis
-WE559	Muscular dystrophies
-WE560	Electromyography
-WE600	Tendons
-WE700	Head and neck
-WE705	Head. Face
-WE706	Head and neck injuries
-WE707	Head and neck neoplasms
-WE708	Neck
-WE710	Torso (General or not elsewhere classified)
-WE715	Thorax
-WE720	Back
-WE725	Spine. Vertebrae
-WE727	Spinal diseases
-WE730	Congenital abnormalities
-WE735	Spinal curvatures
-WE737	Spinal injuries
-WE740	Intervertebral discs
-WE750	Lumbosacral region. Sacrococcygeal region
-WE755	Low back pain. Sciatica
-WE757	Abdomen
-WE760	Pelvis
-WE800	Extremities
-WE805	Upper extremity
-WE810	Shoulder. Upper arm
-WE812	Axilla
-WE820	Elbow. Forearm
-WE830	Wrist. Hand
-WE832	Hand infections. Hand injuries
-WE833	Hand deformities
-WE835	Fingers
-WE850	Lower extremity
-WE855	Hip. Upper leg
-WE860	Hip joint
-WE862	Hip replacement
-WE865	Femur. Thigh
-WE870	Knee. Lower leg
-WE872	Knee and knee joint injuries
-WE874	Knee replacement
-WE880	Ankle. Foot. Toes
-WE882	Ankle injuries. Foot injuries. Toe injuries
-WE883	Foot deformities
-WE886	Flatfoot
-WE890	Podiatry
-WF1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WF5	General works--By several authors
-WF7	General works--By individual authors
-WF9	Addresses. Essays. Lectures
-WF11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WF11.1	General coverage(Not Table G)
-WF13	Dictionaries. Encyclopedias
-WF15	Classification. Terminology
-WF16	Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WF16.1	General coverage(Not Table G)
-WF17	Atlases. Pictorial works
-WF18	Education
-WF18.2	Educational materials
-WF19	Schools, departments, and faculties of pulmonary medicine(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WF19.1	General coverage(Not Table G)
-WF20	Research (General)
-WF21	Pneumology as a profession. Ethics. Peer review
-WF22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WF22.1	General coverage(Not Table G)
-WF23	Collective
-WF24	Individual(Cutter from name of institution)
-WF25	Laboratory manuals. Technique
-WF26	Equipment and supplies
-WF26.5	Informatics. Electronic data processing. Computers (General)
-WF27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WF27.1	General coverage(Not Table G)
-WF28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WF28.5	Collective
-WF28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WF32	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WF32.1	General coverage(Not Table G)
-WF33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WF33.1	General coverage(Not Table G)
-WF39	Handbooks. Resource guides
-WF100	General works
-WF101	Anatomy. Histology. Embryology. Abnormalities
-WF102	Physiology of respiration
-WF110	Biochemistry of respiration and the respiratory system
-WF140	Diseases of the respiratory system (General)
-WF141	Examination. Diagnosis. Diagnostic methods. Monitoring
-WF141.5	Specific techniques, A-Z
-WF141.5.B8	Bronchial provocation tests
-WF141.5.C2	Capnography
-WF141.5.P7	Plethysmography, Whole body
-WF143	Signs and symptoms
-WF145	Therapeutics
-WF150	Respiratory hypersensitivity (General)
-WF200	Tuberculosis (General)
-WF205	Epidemiology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WF205.1	General coverage(Not Table G)
-WF215	Pathology
-WF220	Diagnosis. Prognosis
-WF225	Mass chest X-ray
-WF250	Immunological aspects(<i>e.g., BCG vaccine</i>)
-WF290	Lymph node tuberculosis. Scrofula
-WF300	Pulmonary tuberculosis
-WF310	Therapy
-WF315	Diet. Rest. Exercise. Home care
-WF330	Hospitalization. Climatotherapy. Heliotherapy
-WF350	Surgery
-WF360	Drug therapy
-WF380	Miliary tuberculosis
-WF390	Pleural tuberculosis
-WF405	Tuberculosis in the workplace
-WF415	Tuberculosis in childhood
-WF450	Neoplasms (General)
-WF490	Pharynx. Trachea
-WF500	Bronchi
-WF544	Bronchiectasis
-WF546	Bronchitis. Tracheitis
-WF553	Asthma
-WF600	Lungs
-WF645	Pulmonary Atelectasis
-WF648	Emphysema
-WF651	Lung abscess
-WF652	Fungal lung diseases
-WF653	Lung injury
-WF654	Pneumoconiosis
-WF658	Neoplasms
-WF668	Surgery(<i>e.g., Pneumonectomy</i>)
-WF700	Pleura. Pleural cavity
-WF744	Pleurisy. Pleuritis
-WF745	Empyema
-WF746	Pneumothorax. Hemothorax
-WF768	Artificial pneumothorax
-WF800	Diaphragm
-WF805	Functional disorders(<i>e.g., Hiccup</i>)
-WF810	Diaphragmatic hernia
-WF900	Mediastinum
-WF970	General works
-WF975	Diagnosis. Diagnostic imaging
-WF980	Surgery
-WF985	Injuries
-WG1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WG5	General works--By several authors
-WG7	General works--By individual authors
-WG9	Addresses. Essays. Lectures
-WG11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WG11.1	General coverage(Not Table G)
-WG13	Dictionaries. Encyclopedias
-WG15	Classification. Terminology
-WG16	Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WG16.1	General coverage(Not Table G)
-WG17	Atlases. Pictorial works
-WG18	Education
-WG18.2	Educational materials
-WG19	Schools, departments, and faculties of cardiology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WG19.1	General coverage(Not Table G)
-WG20	Research (General)
-WG21	Cardiology as a profession. Ethics. Peer review
-WG21.5	Allied health personnel. Allied health occupations
-WG22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WG22.1	General coverage(Not Table G)
-WG23	Collective
-WG24	Individual(Cutter from name of institution)
-WG25	Laboratory manuals. Technique
-WG26	Equipment and supplies
-WG26.5	Informatics. Electronic data processing. Computers (General)
-WG27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WG27.1	General coverage(Not Table G)
-WG28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WG28.5	Collective
-WG28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WG32	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WG32.1	General coverage(Not Table G)
-WG33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WG33.1	General coverage(Not Table G)
-WG39	Handbooks. Resource guides
-WG100	General works
-WG101	Anatomy. Histology. Embryology
-WG102	Physiology. Biochemistry
-WG103	Blood circulation (General)
-WG104	Microcirculation (General)
-WG106	Hemodynamics
-WG108	Blood pressure
-WG113	Popular works
-WG120	Cardiovascular diseases (General or not elsewhere classified)
-WG140	Electrocardiography. Vectorcardiography. Monitoring (General)
-WG141	Examination. Diagnosis. Diagnostic methods (General and heart specifically)
-WG141.5	Specific diagnostic methods, A-Z
-WG141.5.A3	Angiography. Angioscopy
-WG141.5.A9	Heart auscultation
-WG141.5.B2	Ballistocardiography
-WG141.5.C15	Impedance cardiography
-WG141.5.C2	Cardiac catheterization
-WG141.5.E2	Echocardiography
-WG141.5.F9	Heart function tests (General or not else classified)
-WG141.5.H3	Hemodynamic monitoring
-WG141.5.K5	Kinetocardiography
-WG141.5.K9	Kymography
-WG141.5.M2	Magnetic resonance imaging
-WG141.5.P4	Phonocardiography
-WG141.5.P7	Plethysmography
-WG141.5.R2	Radiography
-WG141.5.R3	Radionuclide imaging
-WG141.5.T6	Tomography
-WG142	Pathology
-WG166	Therapeutics
-WG166.5	Specific therapeutic methods, A-Z
-WG166.5.A3	Angioplasty
-WG166.5.A5	Angioplasty, Laser
-WG166.5.B2	Balloon angioplasty. Balloon occlusion
-WG166.5.C2	Artificial cardiac pacing
-WG166.5.E5	Electric countershock
-WG166.5.I7	Ischemic preconditioning. Ischemic postconditioning
-WG168	Cardiovascular surgical procedures
-WG168.5	Extracorporeal circulation
-WG169	Heart surgery. Heart transplantation
-WG169.5	Artificial heart. Heart-lung machine
-WG170	Vascular surgical procedures
-WG180	Cardiac rehabilitation
-WG200	General works
-WG201	Anatomy. Histology. Embryology
-WG202	Physiology
-WG205	Cardiac emergency treatment
-WG210	Heart diseases (General or not elsewhere classified)
-WG214	Heart arrest
-WG220	Congenital heart disease. Abnormalities of the heart and the cardiovascular system (General)
-WG226	Heart neoplasms
-WG240	Rheumatic heart disease
-WG260	Valves
-WG262	Mitral
-WG265	Aortic
-WG268	Tricuspid
-WG269	Pulmonary
-WG275	Pericardium
-WG280	Myocardium
-WG282	Myocardial ischemia
-WG285	Endocardium
-WG298	Angina pectoris
-WG299	Coronary vessels
-WG300	Coronary disease
-WG310	Myocardial infarction
-WG320	Neurocirculatory asthenia
-WG330	Cardiac arrhythmias (General)
-WG330.5	Specific arrhythmias, A-Z
-WG330.5.A5	Atrial fibrillation
-WG330.5.A6	Atrial flutter
-WG330.5.B7	Bradycardia
-WG330.5.H4	Heart block
-WG330.5.L6	Long QT syndrome
-WG330.5.P7	Pre-excitation syndromes
-WG330.5.S5	Sinus arrhythmia
-WG330.5.T2	Tachycardia
-WG330.5.V4	Ventricular fibrillation
-WG340	Hypertension (General)
-WG343	Pulmonary hypertension
-WG345	Renal hypertension
-WG350	Hypotension
-WG370	Heart failure
-WG410	Aorta
-WG420	Pulmonary embolism and related disorders. Pulmonary heart disease
-WG460	Special cardiac problems in anesthesia, dentistry, general surgery. Cardiac anesthesia
-WG500	General works
-WG505	Vascular diseases (General or not elsewhere classified)
-WG510	Arteries (General or not elsewhere classified)
-WG515	Inflammation
-WG518	Polyarteritis nodosa
-WG520	Thromboangiitis obliterans
-WG540	Arterial embolism. Arterial thrombosis
-WG550	Arteriosclerosis and related disorders
-WG560	Vasomotor disorders
-WG570	Raynaud disease
-WG578	Vasodilator disorders
-WG580	Aneurysms
-WG590	Arteriovenous anastomosis. Arteriovenous fistula
-WG595	Specific arteries, A-Z
-WG595.A9	Axillary artery
-WG595.B2	Basilar artery
-WG595.B7	Brachial artery
-WG595.B72	Brachiocephalic trunk
-WG595.B76	Bronchial arteries
-WG595.C2	Carotid arteries
-WG595.C3	Celiac artery
-WG595.C37	Cerebral arteries
-WG595.F3	Femoral artery
-WG595.H3	Hepatic artery
-WG595.I5	Iliac artery
-WG595.M2	Maxillary artery
-WG595.M3	Meningeal arteries
-WG595.M38	Mesenteric arteries
-WG595.O7	Ophthalmic artery
-WG595.P6	Popliteal artery
-WG595.P8	Pulmonary artery
-WG595.R3	Renal artery
-WG595.R38	Retinal artery
-WG595.S7	Splenic artery
-WG595.S8	Subclavian artery
-WG595.T3	Temporal arteries
-WG595.T4	Thoracic arteries
-WG595.U6	Umbilical arteries
-WG595.V3	Vertebral artery
-WG600	Veins
-WG610	Venous thrombosis and related disorders
-WG620	Varicose veins
-WG625	Specific veins, A-Z
-WG625.A9	Axillary vein
-WG625.A99	Azygos vein
-WG625.B7	Brachiocephalic veins
-WG625.C3	Cerebral veins
-WG625.C7	Cranial sinuses
-WG625.F3	Femoral vein
-WG625.H3	Hepatic veins
-WG625.I5	Iliac vein
-WG625.J8	Jugular veins
-WG625.P6	Popliteal vein
-WG625.P8	Pulmonary veins
-WG625.R3	Renal veins
-WG625.R38	Retinal vein
-WG625.S2	Saphenous vein
-WG625.S8	Subclavian vein
-WG625.V3	Venae cavae
-WG700	Capillaries
-WH1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WH5	General works--By several authors
-WH7	General works--By individual authors
-WH9	Addresses. Essays. Lectures
-WH11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WH11.1	General coverage(Not Table G)
-WH13	Dictionaries. Encyclopedias
-WH15	Classification. Terminology
-WH16	Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WH16.1	General coverage(Not Table G)
-WH17	Atlases. Pictorial works
-WH18	Education
-WH18.2	Educational materials
-WH19	Schools, departments and faculties of hematology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WH19.1	General coverage(Not Table G)
-WH20	Research (General)
-WH21	Hematology as a profession. Ethics. Peer review
-WH22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WH22.1	General coverage(Not Table G)
-WH23	Collective
-WH24	Individual(Cutter from name of institution)
-WH24.5	Blood banks(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WH24.51	General coverage(Not Table G)
-WH25	Laboratory manuals. Technique
-WH26	Equipment and supplies
-WH26.5	Informatics. Electronic data processing. Computers (General)
-WH27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WH27.1	General coverage(Not Table G)
-WH28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WH28.5	Collective
-WH28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WH32	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WH32.1	General coverage(Not Table G)
-WH33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WH33.1	General coverage(Not Table G)
-WH39	Handbooks. Resource guides
-WH100	General works
-WH120	Hematologic diseases (General or not elsewhere classified)
-WH140	Hematopoietic system and hematopoiesis. Developmental theories. Blood cells (General)
-WH150	Erythrocytes
-WH155	Anemia
-WH160	Hypochromic anemia
-WH165	Macrocytic anemia. Pernicious anemia
-WH170	Hemolytic anemia(<i>e.g., Sickle cell anemia</i>)
-WH175	Anemias of bone marrow dysfunction(<i>e.g., Aplastic anemia</i>)
-WH180	Polycythemia. Polycythemia vera
-WH190	Hemoglobin and other hemeproteins. Porphyrins (Associated with hemoglobin)
-WH200	Leukocytes. Leukocyte disorders (General)
-WH250	Leukemia
-WH300	Blood platelets
-WH310	Mechanism of blood coagulation. Hemostasis
-WH312	Hemorrhagic disorders (General)
-WH314	Purpura (General)
-WH315	Thrombocytopenic purpura
-WH320	Non-thrombopenic purpuras
-WH322	Blood coagulation disorders (General)
-WH325	Hemophilia. Hemarthrosis
-WH380	Bone marrow. Bone marrow diseases (General or not elsewhere classified)
-WH400	Fluid elements. Plasma. Serum. Blood proteins. Blood protein disorders
-WH420	Blood groups. Blood group incompatibility (General)
-WH425	Rh-Hr blood group system. Fetal erythroblastosis
-WH450	Whole blood. Blood derivatives. Plasma substitutes. Blood expanders
-WH460	Blood bank procedures
-WH500	Hodgkin's disease
-WH525	Hematologic neoplasms (General). Lymphoma
-WH540	Plasma cell neoplasms
-WH600	Spleen
-WH650	Reticuloendothelial system
-WH700	Lymphatic system. Lymphatic diseases (General)
-WI1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WI5	General works--By several authors
-WI7	General works--By individual authors
-WI9	Addresses. Essays. Lectures
-WI11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WI11.1	General coverage(Not Table G)
-WI13	Dictionaries. Encyclopedias
-WI15	Classification. Terminology
-WI16	Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WI16.1	General coverage(Not Table G)
-WI17	Atlases. Pictorial works
-WI18	Education
-WI18.2	Educational materials
-WI19	Schools, departments, and faculties of gastroenterology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WI19.1	General coverage(Not Table G)
-WI20	Research (General)
-WI21	Gastroenterology as a profession. Ethics. Peer review
-WI22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WI22.1	General coverage(Not Table G)
-WI23	Collective
-WI24	Individual(Cutter from name of institution)
-WI25	Laboratory manuals. Technique
-WI26	Equipment and supplies
-WI26.5	Informatics. Electronic data processing. Computers (General)
-WI27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WI27.1	General coverage(Not Table G)
-WI28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WI28.5	Collective
-WI28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WI32	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WI32.1	General coverage(Not Table G)
-WI33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WI33.1	General coverage(Not Table G)
-WI39	Handbooks. Resource guides
-WI100	General works
-WI101	Anatomy. Histology. Embryology. Congenital abnormalities (General or not elsewhere classified)
-WI102	Physiology. Biochemistry. Digestion
-WI140	Diseases (General)
-WI141	Examination. Diagnosis. Diagnostic methods. Monitoring (General)
-WI143	Signs and symptoms
-WI145	Dyspepsia and related conditions
-WI146	Nausea. Vomiting
-WI147	Abdominal pain
-WI149	Neoplasms
-WI190	Gastrointestinal tract
-WI195	Gastrointestinal diseases (General)
-WI200	Mouth
-WI210	Tongue
-WI212	Taste. Taste Buds. Taste Perception
-WI230	Salivary glands
-WI250	Esophagus
-WI255	Esophageal diseases (General)
-WI258	Deglutition disorders
-WI260	Esophageal neoplasms
-WI300	General works
-WI301	Anatomy. Histology. Embryology. Congenital abnormalities
-WI302	Physiology
-WI306	Stomach diseases (General)
-WI308	Achlorhydria
-WI310	Gastritis
-WI320	Stomach neoplasms
-WI350	Peptic ulcer
-WI360	Stomach ulcer
-WI370	Duodenal ulcer
-WI380	Stomach surgery. Postgastrectomy syndromes
-WI387	Pylorus. Pyloric antrum. Pyloric stenosis
-WI400	General works
-WI402	Physiology
-WI405	Signs and symptoms
-WI407	Diarrhea
-WI409	Constipation
-WI412	Congenital abnormalities
-WI418	Intestinal diseases (General)
-WI420	Inflammation
-WI422	Crohn disease
-WI425	Diverticulitis. Diverticulum
-WI430	Intestinal polyps. Polyposis
-WI435	Intestinal neoplasms
-WI450	Intussusception. Volvulus
-WI460	Intestinal obstruction. Ileus
-WI480	Intestinal surgery
-WI500	Small intestine. Mesentery
-WI505	Duodenum
-WI510	Jejunum
-WI512	Ileum
-WI518	Large intestine
-WI520	Colon
-WI521	Colonic diseases (General)
-WI522	Inflammation
-WI528	Megacolon
-WI529	Colonic neoplasms. Polyps
-WI530	Cecum
-WI535	Appendix
-WI560	Sigmoid
-WI575	Peritoneum. Retroperitoneal space
-WI600	General works
-WI603	Rectal diseases (General)
-WI605	Hemorrhoids. Fissure in ano. Rectal fistula
-WI610	Rectal neoplasms
-WI620	Proctoscopy. Sigmoidoscopy
-WI650	Colorectal surgery
-WI700	General works
-WI702	Physiology. Liver circulation
-WI703	Bile. Bile acids, alcohols, and salts. Jaundice (General or not elsewhere classified)
-WI710	Liver diseases (General)
-WI712	Hepatic insufficiency
-WI715	Hepatitis (General or not elsewhere classified)
-WI720	Liver circulation disorders. Portal system. Portal hypertension
-WI725	Liver cirrhosis
-WI730	Liver abscess
-WI735	Liver neoplasms
-WI740	Degenerative diseases. Hepatolenticular degeneration
-WI750	Biliary tract. Cholecystography
-WI753	Biliary tract diseases (General)
-WI755	Cholecystitis. Cholelithiasis
-WI765	Biliary tract neoplasms
-WI770	Liver and biliary tract surgery
-WI800	General works
-WI802	Physiology. Secretions
-WI803	Pancreatic diseases (General)
-WI805	Pancreatitis
-WI810	Pancreatic neoplasms
-WI820	Cystic fibrosis
-WI830	Pancreatic surgery
-WI900	General works
-WI950	Hernia
-WI955	Ventral
-WI960	Inguinal
-WI965	Femoral
-WI970	Abdominal neoplasms
-WI980	Digestive system surgical procedures (General or not elsewhere classified)
-WJ1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WJ5	General works--By several authors
-WJ7	General works--By individual authors
-WJ9	Addresses. Essays. Lectures
-WJ11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WJ11.1	General coverage(Not Table G)
-WJ13	Dictionaries. Encyclopedias
-WJ15	Classification. Terminology
-WJ16	Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WJ16.1	General coverage(Not Table G)
-WJ17	Atlases. Pictorial works
-WJ18	Education
-WJ18.2	Educational materials
-WJ19	Schools, departments, and faculties of urology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WJ19.1	General coverage(Not Table G)
-WJ20	Research (General)
-WJ21	Urology as a profession. Nephrology as a profession. Ethics. Peer review
-WJ22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WJ22.1	General coverage(Not Table G)
-WJ23	Collective
-WJ24	Individual(Cutter from name of institution)
-WJ24.5	Sperm banks(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WJ24.51	General coverage(Not Table G)
-WJ25	Laboratory manuals. Technique
-WJ26	Equipment and supplies
-WJ26.5	Informatics. Electronic data processing. Computers (General)
-WJ27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WJ27.1	General coverage(Not Table G)
-WJ28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WJ28.5	Collective
-WJ28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WJ32	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WJ32.1	General coverage(Not Table G)
-WJ33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WJ33.1	General coverage(Not Table G)
-WJ39	Handbooks. Resource guides
-WJ100	General works
-WJ101	Anatomy. Histology. Embryology. Abnormalities
-WJ102	Physiology. Biochemistry
-WJ140	Urologic diseases (General)
-WJ141	Examination. Diagnosis. Diagnostic methods. Monitoring(General)
-WJ146	Urination and urination disorders
-WJ151	Urinary tract infections
-WJ160	Neoplasms (General)
-WJ166	Urologic therapeutics
-WJ168	Urologic surgery
-WJ190	Gynecologic urology
-WJ300	General works
-WJ301	Anatomy. Histology. Embryology. Physiology. Abnormalities
-WJ302	Diagnosis. Radiography. Pyelography. Monitoring
-WJ303	Urinary secretion. Anuria (General)
-WJ340	Nephrosis
-WJ342	Kidney failure. Crush syndrome
-WJ343	Proteinuria. Albuminuria. Renal aminoacidurias
-WJ344	Hemoglobinuria. Hematuria. Myoglobinuria
-WJ348	Uremia
-WJ351	Infections(<i>e.g., Pyelitis, Pyelonephritis</i>)
-WJ353	Nephritis
-WJ356	Kidney calculi. Nephrocalcinosis
-WJ358	Neoplasms. Cystic kidney
-WJ368	Surgery. Kidney transplantation
-WJ378	Artificial kidney. Renal dialysis. Peritoneal dialysis
-WJ400	Ureter
-WJ500	Bladder. Cystoscopy. Cystoscopic surgery
-WJ504	Neoplasms
-WJ600	Urethra
-WJ700	General works
-WJ701	Anatomy. Histology. Embryology
-WJ702	Physiology
-WJ706	Neoplasms (General)
-WJ709	Physiological sexual dysfunctions. Infertility
-WJ710	Male contraception
-WJ712	Disorders of sex development
-WJ750	Prostate. Seminal vesicles. Ejaculatory ducts
-WJ752	Prostate diseases
-WJ762	Neoplasms
-WJ768	Surgery (General)
-WJ780	Vas deferens. Spermatic cord
-WJ790	Penis. Foreskin. Circumcision
-WJ800	Scrotum. Scrotal contents. Epididymis. Tunica vaginalis
-WJ830	Testis
-WJ834	Spermatogenesis. Spermatozoa
-WJ840	Cryptorchidism. Eunuchism and related disorders
-WJ858	Neoplasms
-WJ868	Surgery. Castration
-WJ875	Testicular hormones and antagonists
-WK1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WK5	General works--By several authors
-WK7	General works--By individual authors
-WK9	Addresses. Essays. Lectures
-WK11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WK11.1	General coverage(Not Table G)
-WK13	Dictionaries. Encyclopedias
-WK15	Classification. Terminology
-WK16	Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WK16.1	General coverage(Not Table G)
-WK17	Atlas. Pictorial works
-WK18	Education
-WK18.2	Educational materials
-WK19	Schools, departments and faculties of endocrinology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WK19.1	General coverage(Not Table G)
-WK20	Research (General)
-WK21	Endocrinology as a profession. Ethics. Peer review
-WK22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WK22.1	General coverage(Not Table G)
-WK23	Collective
-WK24	Individual(Cutter from name of institution)
-WK25	Laboratory manuals. Technique. Experimental studies (General)
-WK26	Equipment and supplies
-WK26.5	Informatics. Electronic data processing. Computers (General)
-WK27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WK27.1	General coverage(Not Table G)
-WK28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WK28.5	Collective
-WK28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WK32	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WK32.1	General coverage(Not Table G)
-WK33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WK33.1	General coverage(Not Table G)
-WK39	Handbooks. Resource guides
-WK100	Endocrine glands (General)
-WK102	Physiology. Biochemistry. Hormones and antagonists (General)
-WK140	Endocrine diseases (General)
-WK145	Neoplasms (General or not elsewhere classified)
-WK148	Surgery (General)
-WK150	Steroid hormones (General or not elsewhere classified)
-WK170	Gastrointestinal hormones(<i>e.g., Secretin. Enterogastrone</i>)
-WK180	Renal hormones
-WK185	Other hormones(<i>e.g., Peptide hormones</i>)
-WK190	Hormone therapy (General)
-WK200	General works
-WK201	Anatomy. Histology. Embryology. Abnormalities
-WK202	Physiology. Biochemistry (including iodine metabolism). Thyroid hormones and antagonists
-WK250	Hypothyroidism and related disorders (General or not elsewhere classified)
-WK252	Congenital hypothyroidism. Myxedema
-WK259	Goiter
-WK265	Hyperthyroidism. Thyrotoxicosis. Exophthalmic goiter
-WK267	Medical therapy
-WK270	Neoplasms
-WK280	Surgery
-WK300	Parathyroid glands
-WK350	Pineal gland
-WK400	Thymus gland
-WK500	General works
-WK501	Anatomy. Histology. Embryology
-WK502	Physiology. Biochemistry
-WK510	Anterior pituitary gland (Adenohypophysis)
-WK515	Hormones and antagonists
-WK520	Posterior pituitary gland (Neurohypophysis). Hormones and antagonists
-WK550	Diseases(<i>e.g., Diabetes insipidus. Pituitary dwarfism. Gigantism. Acromegaly. Hypopituitarism. Froehlich's syndrome, etc.</i>)
-WK585	Neoplasms
-WK590	Surgery
-WK700	General works
-WK701	Anatomy. Histology. Embryology. Abnormalities
-WK702	Physiology. Biochemistry
-WK725	Adrenal medulla. Epinephrine. Norepinephrine and other catecholamines
-WK750	Adrenal cortex
-WK755	Adrenal cortex hormones. Glucocorticoids (General or not elsewhere classified)(<i>e.g., Cortisone</i>)
-WK760	Diseases of the adrenal cortex
-WK765	Adrenal cortex hypofunction(<i>e.g., Addison's disease</i>)
-WK770	Adrenal cortex hyperfunction(<i>e.g., Adrenogenital syndrome. Virilism</i>)
-WK780	Neoplasms
-WK790	Surgery
-WK800	General works
-WK801	Anatomy. Histology. Embryology
-WK802	Physiology. Biochemistry
-WK810	Diabetes mellitus
-WK815	Therapy
-WK818	Diet
-WK819	Diet lists. Diabetic cooking
-WK820	Insulins
-WK825	Other hypoglycemic agents
-WK830	Diabetic ketoacidosis. Diabetic coma
-WK835	Complications of diabetes
-WK840	Diabetes as a complication in other conditions
-WK850	Diabetic patients' manuals. Self care
-WK870	Glycosurias
-WK880	Hyperinsulinism. Hyperglycemia. Hypoglycemia
-WK885	Neoplasms
-WK900	Gonads. Gonadal hormones (General)
-WK920	Placental hormones
-WL1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WL5	General works--By several authors
-WL7	General works--By individual authors
-WL9	Addresses. Essays. Lectures
-WL11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WL11.1	General coverage(Not Table G)
-WL13	Dictionaries. Encyclopedias
-WL15	Classification. Terminology
-WL16	Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WL16.1	General coverage(Not Table G)
-WL17	Atlases. Pictorial works
-WL18	Education
-WL18.2	Educational materials
-WL19	Schools, departments, and faculties of neurology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WL19.1	General coverage(Not Table G)
-WL20	Research (General)
-WL21	Neurology as a profession. Ethics. Peer review
-WL22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WL22.1	General coverage(Not Table G)
-WL23	Collective
-WL24	Individual(Cutter from name of institution)
-WL25	Laboratory manuals. Technique
-WL26	Equipment and supplies(<i>e.g., For electroencephalography</i>)
-WL26.5	Informatics. Electronic data processing. Computers (General)
-WL27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WL27.1	General coverage(Not Table G)
-WL28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WL28.5	Collective
-WL28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WL32	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WL32.1	General coverage(Not Table G)
-WL33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WL33.1	General coverage(Not Table G)
-WL39	Handbooks. Resource guides
-WL100	General works
-WL101	Anatomy. Histology. Embryology. Abnormalities (General)
-WL102	Physiology (General)
-WL102.3	Neural stem cells
-WL102.5	Neurons
-WL102.7	Motor neurons
-WL102.8	Synapses
-WL102.9	Nerve endings
-WL103	Psychophysiology (General)
-WL103.3	Biofeedback
-WL103.4	Cognitive neuroscience
-WL103.5	Neuropsychology
-WL103.7	Psychoneuroimmunology
-WL104	Neurochemistry
-WL105	Neuroendocrinology
-WL106	Reflexes
-WL108	Physiology of sleep. Sleep disorders
-WL140	Nervous system diseases (General)
-WL141	Neurologic examination. Diagnosis. Diagnostic methods (General or not elsewhere classified)
-WL141.5	Specific diagnostic methods, A-Z
-WL141.5.B6	Brain mapping
-WL141.5.C4	Cerebral angiography
-WL141.5.C48	Cerebral ventriculography
-WL141.5.M2	Magnetic resonance imaging
-WL141.5.M22	Magnetic resonance spectroscopy
-WL141.5.M24	Magnetoencephalography
-WL141.5.N4	Neuroendoscopy
-WL141.5.N46	Neuropsychological tests
-WL141.5.N47	Neuroimaging
-WL141.5.P8	Pneumoencephalography
-WL141.5.T7	Transcranial magnetic stimulation
-WL150	Electroencephalography. Monitoring (General)
-WL154	Echoencephalography
-WL160	Nervous system neoplasms (General)
-WL200	Meninges. Blood-brain barrier
-WL203	Cerebrospinal fluid
-WL300	Central nervous system including works on brain alone (General or not elsewhere classified)
-WL301	Central nervous system diseases
-WL302	Cerebrovascular circulation
-WL307	Telencephalon. Cerebrum.
-WL310	Brain stem
-WL312	Diencephalon. Thalamus
-WL314	Limbic system
-WL320	Cerebellum
-WL330	Cranial nerves (General or not elsewhere classified)
-WL335	Localization of function. Cerebral dominance
-WL337	Physiology of mental processes
-WL340	Neurologic manifestations (General or not elsewhere classified)
-WL340.2	Communication disorders. Speech-language pathology
-WL340.3	Speech therapy. Language therapy
-WL340.5	Aphasia
-WL340.6	Dyslexia
-WL341	Consciousness disorders
-WL342	Headache. Headache disorders (General)
-WL344	Migraine. Vascular headache
-WL346	Paralysis (General or not elsewhere classified)
-WL348	Brain diseases (General or not elsewhere classified)
-WL350	Congenital (General or not elsewhere classified)
-WL351	Inflammatory(<i>e.g., Abscess. Encephalitis. Encephalomyelitis</i>)
-WL354	Traumatic(<i>e.g., Concussion. Brain damage</i>)
-WL355	Cerebrovascular disorders (General or not elsewhere classified)(<i>e.g., Cerebral hemorrhage</i>)
-WL356	Brain ischemia. Stroke
-WL357	Carotid artery diseases
-WL358	Brain neoplasms. Central nervous system neoplasms (General)
-WL358.5	Neurodegenerative diseases (General or not elsewhere classified)
-WL359	Parkinsonian disorders
-WL359.5	Huntington disease
-WL360	Multiple sclerosis
-WL362	Kernicterus
-WL368	Brain surgery. Neurosurgery (General)
-WL370	Psychosurgery
-WL385	Epilepsy
-WL390	Movement disorders (General or not elsewhere classified)
-WL400	Spinal cord. Spinal nerves (General or not elsewhere classified)
-WL402	Spinal cord diseases
-WL403	Spinal cord injuries
-WL405	Myelography
-WL500	General works
-WL520	Peripheral nervous system diseases
-WL530	Peripheral nerve injuries
-WL544	Neuritis. Neuralgia
-WL600	General works
-WL610	Sympathetic nervous system. Parasympathetic nervous system
-WL700	General works
-WL702	Psychophysics. Sensation (General)
-WL704	Pain
-WL704.6	Pain management
-WL705	Perception. Perceptual distortion
-WL710	Sensation disorders (General or not elsewhere classified)
-WM1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WM5	General works--By several authors
-WM7	General works--By individual authors
-WM9	Addresses. Essays. Lectures
-WM11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WM11.1	General coverage(Not Table G)
-WM13	Dictionaries. Encyclopedias
-WM15	Classification. Terminology
-WM16	Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WM16.1	General coverage(Not Table G)
-WM17	Atlases. Pictorial works
-WM18	Education
-WM18.2	Educational materials
-WM19	Schools, departments, and faculties of psychiatry(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WM19.1	General coverage(Not Table G)
-WM19.5	Graduate and continuing education in psychiatry (including fellowships, internships, residencies, etc.)
-WM20	Research (General)
-WM21	Mental health careers and professions. Types of practice. Peer review. Ethics
-WM21.5	Allied health personnel. Allied health occupations
-WM22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WM22.1	General coverage(Not Table G)
-WM23	Collective
-WM24	Individual(Cutter form name of institution)
-WM25	Experimental psychiatric techniques
-WM26	Equipment and supplies
-WM26.5	Informatics. Electronic data processing. Computers (General)
-WM27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WM27.1	General coverage(Not Table G)
-WM28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WM28.5	Collective
-WM28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WM29	Community mental health centers. Rehabilitation centers. Treatment facilities and programs, etc.(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WM29.1	General coverage(Not Table G)
-WM29.5	Patients. Attitude and compliance. Satisfaction
-WM30	Mental health services(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WM30.1	General coverage(Not Table G)
-WM30.2	Administration of services and health personnel
-WM30.5	Psychiatric social work
-WM30.6	Community psychiatry. Community mental health services (General)
-WM31	Socioeconomic and environmental factors in mental illness
-WM31.5	Preventive measures in psychiatry
-WM32	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)(<i>e.g., Commitment</i>)
-WM32.1	General coverage(Not Table G)
-WM33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WM33.1	General coverage(Not Table G)
-WM34	Handbooks. Resource guides
-WM35	Practices in the care of the mentally ill
-WM40	Case reports (General)
-WM49	Art and literature as related to psychiatry. Symbolic case reports(<i>e.g., Electra, Hamlet, Oedipus, Don Juan, etc.</i>)
-WM55	Psychological counseling
-WM61	Pastoral care
-WM62	Interpersonal relations of mental health professionals. Attitude
-WM64	Referral and consultation (General)
-WM75	Popular works (General)
-WM90	Psychophysiologic disorders. Psychosomatic medicine (General)
-WM100	General works
-WM101	Mental health (General)
-WM102	Biological psychiatry. Neuropsychiatry
-WM105	Clinical psychology
-WM110	Military psychiatry
-WM140	Mental disorders. Behavioral symptoms (General)
-WM141	Psychiatric examination. Diagnosis
-WM143	Psychological interview
-WM145	Psychological tests (General or not elsewhere classified)
-WM145.5	Specific tests, A-Z
-WM145.5.B4	Bender-Gestalt test
-WM145.5.I5	Ink blot tests
-WM145.5.M6	Personality inventory
-WM145.5.N4	Neuropsychological tests
-WM145.5.P8	Projective techniques
-WM145.5.R7	Rorschach test
-WM145.5.T3	Thematic apperception test
-WM145.5.W9	Word association tests
-WM165	Self-injurious behavior. Dangerous behavior
-WM167	Psychological aspects of survivors and survivorship
-WM168	Neurodevelopmental disorders (General or not elsewhere classified)
-WM169	Attention deficit and disruptive behavior disorders
-WM170	Neurotic disorders
-WM171	Affective symptoms. Mood disorders
-WM171.5	Depression. Depressive disorder
-WM171.7	Bipolar disorder
-WM172	Anxiety. Anxiety disorders (General or not elsewhere classified)
-WM172.4	Psychological stress
-WM172.5	Stress disorders
-WM173	Hysteria
-WM173.5	Somatoform disorders (General or not elsewhere classified)
-WM173.6	Dissociative disorders
-WM173.7	Amnesia and other memory disorders
-WM174	Neurasthenia. Mental fatigue
-WM175	Feeding and eating disorders
-WM176	Obsessive-compulsive disorder. Compulsive behavior. Obsessive behavior
-WM178	Phobic disorders. Hypochondriasis. Sick role. Factitious disorders
-WM184	Combat disorders
-WM188	Sleep disorders and associated conditions
-WM190	Personality disorders (General or not elsewhere classified)
-WM190.5	Special topics, A-Z
-WM190.5.A2	Antisocial personality disorder
-WM190.5.B5	Borderline personality disorder
-WM190.5.C5	Compulsive personality disorder
-WM190.5.D3	Dependent personality disorder. Codependency
-WM190.5.P2	Paranoid personality disorder
-WM190.5.P3	Passive-aggressive personality disorder
-WM190.5.S3	Schizoid personality disorder
-WM190.5.S4	Schizotypal personality disorder
-WM190.5.S8	Stereotyped behavior
-WM192	Disruptive, impulse control, and conduct disorders
-WM193	Defense mechanisms
-WM193.5	Special topics, A-Z
-WM193.5.A2	Acting out
-WM193.5.D3	Denial (Psychology)
-WM193.5.D5	Displacement (Psychology)
-WM193.5.P3	Perceptual defense
-WM193.5.P7	Projection
-WM193.5.R1	Rationalization
-WM193.5.R2	Regression
-WM193.5.R4	Repression
-WM193.5.S8	Sublimation. Fantasy
-WM197	Psychomotor disorders (General or not elsewhere classified)
-WM200	Psychotic disorders (General or not elsewhere classified)
-WM203	Schizophrenia
-WM203.5	Pervasive child development disorders
-WM204	Neurocognitive disorders. Perceptual disorders
-WM205	Paranoid disorders
-WM207	Psychotic affective disorders
-WM220	Dementia
-WM270	Substance-related disorders (General or not elsewhere classified)
-WM273	Alcohol drinking
-WM274	Alcohol-related disorders (General or not elsewhere classified)
-WM275	Amphetamine-related disorders
-WM276	Marijuana use. Marijuana abuse
-WM280	Cocaine-related disorders
-WM284	Opioid-related disorders
-WM286	Opium dependence. Morphine dependence
-WM288	Heroin dependence
-WM290	Tobacco use. Tobacco use disorder
-WM295	Smoking (General or not elsewhere classified)
-WM300	Intellectual disability
-WM302	Case studies. Biographical accounts
-WM304	Diagnosis. Evaluation. Prognosis
-WM307	Special issues, A-Z
-WM307.C6	Communication
-WM307.M5	Mental disorders
-WM307.S3	Sexual behavior
-WM307.S6	Social problems (General)
-WM308	Rehabilitation and training (General)
-WM400	Therapy of mental disorders (General or not elsewhere classified)
-WM401	Emergency psychiatric services. Crisis intervention
-WM402	Drug therapy
-WM405	Physical therapy (General or not elsewhere classified)(<i>e.g., Induced hyperthermia</i>)
-WM410	Convulsive therapy. Insulin shock therapy
-WM412	Electroconvulsive therapy. Electronarcosis
-WM415	Hypnosis
-WM420	Psychotherapy (General or not elsewhere classified)
-WM420.5	Special types, A-Z
-WM420.5.A2	Abreaction. Catharsis
-WM420.5.E3	Emotion-focused therapy
-WM420.5.G3	Gestalt therapy
-WM420.5.I3	Imagery (Psychotherapy)
-WM420.5.N3	Narrative therapy
-WM420.5.N4	Neurolinguistic programming
-WM420.5.N8	Person-centered psychotherapy
-WM420.5.P3	Personal construct therapy
-WM420.5.P5	Psychotherapy, Brief
-WM420.5.P7	Psychotherapy, Multiple
-WM420.5.P75	Psychotherapy, Psychodynamic
-WM420.5.P8	Psychotherapy, Rational-Emotive
-WM425	Behavior therapy
-WM425.5	Special types, A-Z
-WM425.5.A5	Anger management therapy
-WM425.5.A7	Applied behavior analysis
-WM425.5.A9	Aversive therapy
-WM425.5.B6	Biofeedback (Psychology)
-WM425.5.C6	Cognitive behavioral therapy
-WM425.5.D4	Psychologic desensitization. Implosive therapy
-WM425.5.R3	Relaxation therapy
-WM426	Self-help groups
-WM427	Spiritual and religious therapy
-WM428	Socioenvironmental therapy
-WM430	Group psychotherapy
-WM430.5	Special types, A-Z
-WM430.5.F2	Family therapy
-WM430.5.H2	Disabled
-WM430.5.M3	Marital therapy
-WM430.5.P8	Psychodrama
-WM430.5.S3	Sensitivity training groups. Encounter groups
-WM440	Milieu therapy. Therapeutic community
-WM445	Residential treatment (General)
-WM450	Activity therapy. Sensory art therapies
-WM450.5	Special types, A-Z
-WM450.5.A6	Animal assisted therapy
-WM450.5.A8	Art therapy
-WM450.5.B5	Bibliotherapy
-WM450.5.D2	Dance therapy
-WM450.5.M8	Music therapy
-WM450.5.O2	Occupational therapy
-WM450.5.P5	Photography
-WM450.5.P7	Play therapy
-WM450.5.R4	Recreation therapy
-WM450.5.V5	Videotherapy
-WM450.5.V6	Virtual reality exposure therapy
-WM450.5.W9	Writing
-WM460	Psychoanalysis
-WM460.2	Psychoanalytic theory (General or not elsewhere classified)
-WM460.5	Special topics associated with psychoanalysis, psychoanalytic theory, therapy or interpretation, A-Z
-WM460.5.B7	Bonding, Human-Pet
-WM460.5.C5	Communication
-WM460.5.C7	Creativity
-WM460.5.D8	Dreams. Symbolism
-WM460.5.E3	Ego. Self
-WM460.5.E8	Existentialism. Logotherapy
-WM460.5.E9	Extraversion. Introversion
-WM460.5.F8	Free association
-WM460.5.F9	Freudian theory
-WM460.5.I4	Identification
-WM460.5.I5	Individuation
-WM460.5.J9	Jungian theory
-WM460.5.L2	Language
-WM460.5.M5	Memory
-WM460.5.M6	Motivation
-WM460.5.O2	Object attachment
-WM460.5.P3	Personality
-WM460.5.P5	Pleasure-pain principle
-WM460.5.P7	Political systems
-WM460.5.R2	Reinforcement
-WM460.5.R3	Religion. Church
-WM460.5.S3	Sex
-WM460.5.S8	Superego. Morals
-WM460.5.T7	Transactional analysis
-WM460.5.U6	Unconscious. Id
-WM460.5.W6	Women
-WM460.6	Psychoanalytic therapy
-WM460.7	Psychoanalytic interpretation
-WM475	Communication disorders. Speech-language pathology
-WM475.3	Speech therapy. Language therapy
-WM475.5	Aphasia
-WM475.6	Dyslexia
-WM475.7	Stuttering
-WM600	Aggression. Violence
-WM605	Criminal psychology and psychiatry
-WM607	Incest
-WM610	Paraphilic disorders
-WM611	Psychological sexual dysfunctions (General or not elsewhere classified)
-WM617	Gender identity. Transsexualism. Transgender persons
-WM620	Sexuality. Sexual behavior (General or not elsewhere classified)
-WM620.5	Specific topics, A-Z
-WM620.5.B5	Bisexuality. Bisexual persons
-WM620.5.H4	Heterosexuality. Heterosexual persons
-WM620.5.H6	Homosexuality. Homosexual persons
-WN1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WN5	General works--By several authors
-WN7	General works--By individual authors
-WN9	Addresses. Essays. Lectures
-WN11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WN11.1	General coverage(Not Table G)
-WN13	Dictionaries. Encyclopedias
-WN15	Classification. Terminology
-WN16	Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WN16.1	General coverage(Not Table G)
-WN17	Atlases. Pictorial works
-WN18	Education
-WN18.2	Educational materials
-WN19	Schools, departments, and faculties of radiology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WN19.1	General coverage(Not Table G)
-WN20	Research (General)
-WN21	Radiology as a profession. Ethics. Peer review
-WN21.5	Allied health personnel. Allied health occupations
-WN22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WN22.1	General coverage(Not Table G)
-WN23	Collective
-WN24	Individual(Cutter from name of institution)
-WN25	Laboratory manuals. Technique
-WN26.5	Informatics. Electronic data processing. Computers (General)
-WN27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WN27.1	General coverage(Not Table G)
-WN28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WN28.5	Collective
-WN28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WN32	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WN32.1	General coverage(Not Table G)
-WN33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WN33.1	General coverage(Not Table G)
-WN39	Handbooks. Resource guides
-WN100	Radiation (General or not elsewhere classified)
-WN105	Ionizing radiation
-WN110	Health physics
-WN150	Equipment and supplies
-WN160	Technology. Contrast media (General or not elsewhere classified)
-WN180	Diagnostic imaging (General or not elsewhere classified)
-WN182	Computer-assisted image interpretation
-WN185	Magnetic resonance imaging
-WN190	Molecular imaging
-WN195	Optical imaging
-WN200	Radiography (General or not elsewhere classified)
-WN202	Interventional radiography
-WN203	Radionuclide imaging
-WN205	Thermography
-WN206	Tomography
-WN208	Ultrasonography
-WN210	Foreign body imaging
-WN220	Fluoroscopy
-WN230	Dental diagnostic imaging (General or not elsewhere classified)
-WN240	Pediatric diagnostic imaging (General or not elsewhere classified)
-WN250	General works
-WN250.5	Special types, A-Z
-WN250.5.B7	Brachytherapy
-WN250.5.H4	Heavy ion radiotherapy
-WN250.5.P7	Proton therapy
-WN250.5.R15	Radiosurgery
-WN250.5.R2	Radiotherapy, Computer-assisted
-WN250.5.R3	Radiotherapy, High-energy
-WN250.5.X7	X-ray therapy
-WN250.6	Radiotherapy dosage
-WN440	Nuclear medicine
-WN445	Diagnostic methods
-WN450	Therapeutics
-WN600	Radiologic health (General or not elsewhere classified)
-WN610	Radiation injuries
-WN612	Radioactive food contamination
-WN615	Radioactive pollution and pollutants (General)
-WN620	Experimental radiation injuries
-WN650	Radiation protection
-WN660	Radiometry
-WN665	Radiation dosage
-WO1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WO5	By authors
-WO7	General works--By individual authors
-WO9	Addresses. Essays. Lectures
-WO11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WO11.1	General coverage(Not Table G)
-WO13	Dictionaries. Encyclopedias
-WO15	Classification. Terminology
-WO16	Tables. Statistics. Case reports (General). Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WO16.1	General coverage(Not Table G)
-WO18	Education
-WO18.2	Educational materials
-WO19	Schools, departments, and faculties of surgery(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WO19.1	General coverage(Not Table G)
-WO20	Research (General)
-WO21	Surgery as a profession. Ethics. Peer review
-WO21.5	Allied health personnel. Allied health occupations
-WO22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WO22.1	General coverage(Not Table G)
-WO23	Collective
-WO24	Individual(Cutter from name of institution)
-WO27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WO27.1	General coverage(Not Table G)
-WO28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WO28.5	Collective
-WO28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WO32	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WO32.1	General coverage(Not Table G)
-WO33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WO33.1	General coverage(Not Table G)
-WO39	Handbooks. Resource guides
-WO50	Experimental surgery (General)
-WO62	Interpersonal relations of the surgeon and anesthesiologist (including relations with patients and other professionals). Attitude
-WO64	Referral and consultation (General)
-WO100	General works
-WO101	Surgical anatomy
-WO102	Physiology
-WO113	Antisepsis. Sterilization. Asepsis
-WO140	Surgical diseases (General)
-WO141	Surgical examination. Surgical diagnosis. Exploratory surgery
-WO142	Surgical pathology
-WO149	Surgical shock
-WO162	Surgical equipment, instruments and other supplies
-WO166	Sutures. Ligatures. Tissue adhesives
-WO167	Surgical dressing. Bandaging technique. Adhesive plaster
-WO170	Surgical casts
-WO176	Artificial organs
-WO178	Principles of surgical care. Perioperative care
-WO179	Preoperative care
-WO181	Intraoperative care
-WO183	Postoperative care
-WO184	Postoperative complications and treatment
-WO185	Surgical wounds. Surgical wound infection. Wound healing (including healing of non-surgical wounds)
-WO188	Closure of wounds. Drainage
-WO192	Minor surgery. Ambulatory surgery (General)
-WO198	Electrosurgery. Cautery. Laser and electrocoagulation (General)
-WO200	Surgical anesthesia. Analgesia (General)
-WO201	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WO205	General works--By several authors
-WO207	General works--By individual authors
-WO209	Addresses. Essays. Lectures
-WO211	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WO211.1	General coverage(Not Table G)
-WO213	Dictionaries. Encyclopedias
-WO215	Classification. Terminology
-WO218	Education
-WO218.2	Educational materials
-WO219	Schools, departments, and faculties of anesthesiology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WO219.1	General coverage(Not Table G)
-WO220	Research (General)
-WO221	Anesthesiology as a profession. Ethics. Peer review
-WO222	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WO222.1	General coverage(Not Table G)
-WO231	Handbooks. Resource guides
-WO232	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WO232.1	General coverage(Not Table G)
-WO233	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WO233.1	General coverage(Not Table G)
-WO234	Preanesthetic medication. Preparation of patient
-WO235	Choice of anesthesia
-WO240	Equipment and supplies
-WO245	Accidents. Complications(<i>e.g., Laryngospasm. Cardiac failure. Vomiting</i>)
-WO250	Asphyxia. Methods of resuscitation
-WO275	General anesthesia
-WO277	Inhalation anesthesia
-WO280	Endotracheal anesthesia. Technique of intubation
-WO285	Intravenous
-WO290	Rectal
-WO297	Muscle relaxants and tranquilizing agents in conjunction with anesthesia and analgesia
-WO300	Conduction anesthesia(<i>e.g., Regional anesthesia or local anesthesia</i>)
-WO305	Spinal. Epidural
-WO340	Infiltration and topical
-WO350	Induced hypothermia and related topics
-WO375	Diagnostic and therapeutic anesthetic procedures(<i>e.g., Nerve block</i>)
-WO440	Pediatric anesthesia
-WO445	Geriatric anesthesia
-WO450	Obstetrical anesthesia
-WO460	Anesthesia in dentistry. Dental hypnosis
-WO500	General works on surgical procedures
-WO505	Endoscopic surgery. Computer-assisted surgery
-WO510	Cryosurgery
-WO511	Laser therapy
-WO512	Microsurgery
-WO515	Regenerative medicine
-WO517	Atlases. Pictorial works
-WO600	General works
-WO610	Skin transplantation, tube grafts, etc.
-WO620	Sex reassignment surgery
-WO640	Prosthesis in plastic surgery
-WO660	General works
-WO665	Tissue preservation
-WO680	Immunology
-WO690	Legal, ethical, and religious aspects
-WO700	General works
-WO704	Burns
-WO800	Military surgery
-WO807	Gunshot wounds
-WO820	Blast injuries
-WO925	Pediatric surgery (General or not elsewhere classified)
-WO950	Geriatric surgery
-WP1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WP5	General works--By several authors
-WP7	General works--By individual authors
-WP9	Addresses. Essays. Lectures
-WP11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WP11.1	General coverage(Not Table G)
-WP13	Dictionaries. Encyclopedias
-WP15	Classification. Terminology
-WP16	Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WP16.1	General coverage(Not Table G)
-WP17	Atlases. Pictorial works
-WP18	Education
-WP18.2	Educational materials
-WP19	Schools, departments, and faculties of gynecology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WP19.1	General coverage(Not Table G)
-WP20	Research (General)
-WP21	Gynecology as a profession. Ethics. Peer review
-WP22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WP22.1	General coverage(Not Table G)
-WP23	Collective
-WP24	Individual(Cutter from name of institution)
-WP25	Laboratory manuals. Technique
-WP26	Equipment and supplies
-WP26.5	Informatics. Electronic data processing. Computers (General)
-WP27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WP27.1	General coverage(Not Table G)
-WP28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WP28.5	Collective
-WP28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WP32	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WP32.1	General coverage(Not Table G)
-WP33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WP33.1	General coverage(Not Table G)
-WP34	Malpractice(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WP34.1	General coverage(Not Table G)
-WP39	Handbooks. Resource guides
-WP100	General works
-WP101	Anatomy. Histology. Embryology
-WP120	Popular works (General)
-WP140	Diseases (General)
-WP141	Examination. Diagnosis. Diagnostic methods. Monitoring
-WP145	Neoplasms
-WP150	Congenital abnormalities
-WP155	Pelvis. Pelvic infection
-WP157	Gonorrhea in the female
-WP160	Genital tuberculosis
-WP170	Perineal injuries
-WP180	Rectovaginal fistula. Vesicovaginal fistula
-WP200	Vulva
-WP250	Vagina
-WP255	Vaginitis. Leukorrhea
-WP258	Trichomonas vaginitis
-WP275	Ovary. Fallopian tubes. Broad ligament. Round ligament
-WP300	Fallopian tubes
-WP320	Ovary
-WP322	Neoplasms
-WP390	Endometriosis
-WP400	General works
-WP440	Uterine diseases (General)
-WP451	Inflammations
-WP454	Displacements. Prolapse
-WP458	Neoplasms
-WP459	Leiomyoma
-WP460	Carcinoma. Sarcoma
-WP465	Trophoblastic neoplasms(<i>e.g., Chorioadenoma. Hydatidiform mole</i>)
-WP468	Surgery (General)
-WP470	Cervix uteri
-WP475	Cervicitis
-WP480	Neoplasms
-WP505	Physiology (General)
-WP520	Endocrine functions of the ovaries
-WP522	Estrogenic hormones and antagonists
-WP530	Corpus luteum hormones and related compounds
-WP540	Ovulation. Ovarian function. Menstrual cycle
-WP550	Menstruation and its disorders
-WP552	Amenorrhea. Hypomenorrhea. Oligomenorrhea
-WP555	Menorrhagia. Metrorrhagia
-WP560	Dysmenorrhea. Premenstrual syndrome
-WP565	Fertility
-WP570	Infertility (General). Infertility in the female
-WP580	Menopause
-WP610	Female sexual dysfunction(<i>e.g., Dyspareunia. Frigidity</i>)
-WP630	Contraception
-WP640	Contraceptive devices (General and female)
-WP650	Gynecological therapy
-WP660	Gynecological surgery
-WP800	General works
-WP815	Examination. Diagnosis. Diagnostic methods. Monitoring
-WP825	Functional changes(<i>e.g., In pregnancy and lactation</i>)
-WP840	Breast diseases
-WP870	Neoplasms
-WP900	Therapy
-WP910	Surgery
-WQ1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WQ5	General works--By several authors
-WQ7	General works--By individual authors
-WQ9	Addresses. Essays. Lectures
-WQ11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WQ11.1	General coverage(Not Table G)
-WQ13	Dictionaries. Encyclopedias
-WQ15	Classification. Terminology
-WQ16	Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WQ16.1	General coverage(Not Table G)
-WQ17	Atlases. Pictorial works
-WQ18	Education
-WQ18.2	Educational materials
-WQ19	Schools, departments, and faculties of obstetrics(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WQ19.1	General coverage(Not Table G)
-WQ20	Research (General)
-WQ21	Obstetrics as a profession. Ethics. Peer review
-WQ22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WQ22.1	General coverage(Not Table G)
-WQ23	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WQ23.1	General coverage(Not Table G)
-WQ24	Individual(Cutter from name of clinic)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WQ25	Laboratory manuals. Technique
-WQ26	Equipment and supplies
-WQ26.5	Informatics. Electronic data processing. Computers (General)
-WQ27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WQ27.1	General coverage(Not Table G)
-WQ28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WQ28.5	Collective
-WQ28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WQ32	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WQ32.1	General coverage(Not Table G)
-WQ33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WQ33.1	General coverage(Not Table G)
-WQ34	Malpractice(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WQ34.1	General coverage(Not Table G)
-WQ39	Handbooks. Resource guides
-WQ90	Reproductive health surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WQ90.1	General coverage(Not Table G)
-WQ100	General works
-WQ105	Maternal health
-WQ150	Popular works on pregnancy and childbirth
-WQ152	Natural childbirth
-WQ155	Home childbirth
-WQ160	Midwifery
-WQ165	Manuals for midwives. Handbooks
-WQ175	Prenatal care. Prenatal education for the health professional
-WQ200	General works(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WQ200.1	General coverage(Not Table G)
-WQ202	Pregnancy determination
-WQ203	Preimplantation diagnosis
-WQ205	Fertilization. Development of ovum. General physiology of reproduction
-WQ206	Sex determination analysis
-WQ208	Reproductive techniques(<i>e.g., Artificial insemination. Embryo transfer. Fertilization in vitro</i>)
-WQ209	Prenatal diagnosis. Fetal monitoring
-WQ210	Fetus. Extraembryonic membranes. Umbilical cord. Perinatology (General)
-WQ210.5	Fetal anatomy, physiology, and biochemistry
-WQ211	Fetal diseases (General or not elsewhere classified)
-WQ212	Placenta
-WQ215	Toxemias(<i>e.g., Eclampsia</i>)
-WQ220	Ectopic pregnancy
-WQ225	Spontaneous abortion. Fetal death. Perinatal death
-WQ235	Multiple pregnancy
-WQ240	Pregnancy complications (General or not elsewhere classified)
-WQ244	Cardiovascular complications
-WQ248	Diabetes
-WQ252	Hematologic complications
-WQ256	Infectious diseases
-WQ260	Urologic complications
-WQ270	Maternal death
-WQ300	General works
-WQ305	Physiology. Clinical course
-WQ307	Presentation
-WQ310	Dystocia
-WQ320	Disproportions of the pelvis
-WQ330	Complications of labor(<i>e.g., Postpartum hemorrhage</i>)
-WQ400	General works
-WQ415	Delivery (including preparatory manipulation)
-WQ425	Use of forceps
-WQ430	Cesarean section. Symphysiotomy and similar techniques
-WQ440	Induction of labor. Therapeutic abortion. Techniques of induced abortion
-WQ450	Resuscitation of the newborn
-WQ500	General works. Postnatal care
-WQ505	Puerperal infection
-WR1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WR5	General works--By several authors
-WR7	General works--By individual authors
-WR9	Addresses. Essays. Lectures
-WR11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WR11.1	General coverage(Not Table G)
-WR13	Dictionaries. Encyclopedias
-WR15	Classification. Terminology
-WR16	Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WR16.1	General coverage(Not Table G)
-WR17	Atlases. Pictorial works
-WR18	Education
-WR18.2	Educational materials
-WR19	Schools, departments, and faculties of dermatology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WR19.1	General coverage(Not Table G)
-WR20	Research (General)
-WR21	Dermatology as a profession. Ethics. Peer review
-WR22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WR22.1	General coverage(Not Table G)
-WR23	Collective
-WR24	Individual(Cutter from name of institution)
-WR25	Laboratory manuals. Technique
-WR26	Equipment and supplies
-WR26.5	Informatics. Electronic data processing. Computers (General)
-WR27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WR27.1	General coverage(Not Table G)
-WR28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WR28.5	Collective
-WR28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WR32	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WR32.1	General coverage(Not Table G)
-WR33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WR33.1	General coverage(Not Table G)
-WR39	Handbooks. Resource guides
-WR100	General works
-WR101	Anatomy. Histology. Embryology
-WR102	Physiology. Chemistry and metabolism of the skin. Sensory functions. Skin temperature
-WR105	Pathology
-WR140	Skin diseases (General)
-WR141	Examination. Diagnosis. Diagnostic methods. Monitoring
-WR143	Skin manifestations
-WR150	Erythemas(<i>e.g., E. multiforme. E. nodosum</i>)
-WR152	Cutaneous lupus erythematosus
-WR160	Diseases associated with hypersensitivity. Dermatitis
-WR165	Drug eruptions
-WR170	Urticaria. Angioedema
-WR175	Contact dermatitis
-WR180	Dermatitis exfoliativa
-WR190	Eczema
-WR200	Vesiculobullous skin diseases
-WR204	Papulosquamous dermatoses
-WR205	Psoriasis
-WR215	Lichen planus
-WR218	Genetic skin diseases (General or not elsewhere classified)
-WR220	Infectious skin diseases (General, bacterial, or not elsewhere classified)
-WR225	Impetigo. Ecthyma
-WR235	Furunculosis. Carbuncle
-WR245	Cutaneous tuberculosis(<i>e.g., Lupus</i>)
-WR260	Scleroderma
-WR265	Pigmentation disorders(<i>e.g., Lentigo. Vitiligo</i>)
-WR267	Of metabolic origin(<i>e.g., Hemochromatosis. Albinism</i>)
-WR280	Neurodermatitis and related sensory disorders
-WR282	Pruritus. Prurigo
-WR300	Dermatomycoses
-WR310	Tinea. Tinea pedis
-WR330	Tinea capitis
-WR340	Mycetoma
-WR345	Parasitic skin diseases (General or not elsewhere classified)
-WR350	Tropical diseases of the skin (General or not elsewhere classified)(<i>e.g., Leishmaniasis</i>)
-WR360	Skin diseases caused by arthropods (General or not elsewhere classified)
-WR365	Scabies
-WR375	Lice infestations
-WR390	Skin appendages
-WR400	Sweat glands. Disorders of the sweat glands
-WR410	Sebaceous glands. Disorders of the sebaceous glands
-WR415	Seborrhea
-WR420	Epidermal cyst
-WR430	Acne. Acneform lesions
-WR450	Hair. Scalp. Diseases of the hair and scalp
-WR455	Hypertrichosis
-WR460	Alopecia
-WR465	Care of the hair
-WR475	Nails. Diseases of the nails
-WR500	Neoplasms. Keratosis (General or not elsewhere classified)
-WR598	Decubitus ulcer and other skin ulcers
-WR600	Occupational dermatitis
-WR650	Therapy (General or not elsewhere classified)
-WR660	Radiotherapy
-WR670	Surgery
-WS1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WS5	General works--By several authors
-WS7	General works--By individual authors
-WS9	Addresses. Essays. Lectures
-WS11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WS11.1	General coverage(Not Table G)
-WS13	Dictionaries. Encyclopedias
-WS15	Classification. Terminology
-WS16	Growth tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WS16.1	General coverage(Not Table G)
-WS17	Atlases. Pictorial works
-WS18	Education
-WS18.2	Educational materials
-WS19	Schools, departments, and faculties of pediatrics(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WS19.1	General coverage(Not Table G)
-WS20	Research (General)
-WS21	Pediatrics as a profession. Ethics. Peer review
-WS22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WS22.1	General coverage(Not Table G)
-WS23	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WS23.1	General coverage(Not Table G)
-WS24	Individual(Cutter from name of institution)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WS25	Laboratory manuals. Technique
-WS26	Equipment and supplies(<i>e.g., Eating utensils for spastic children</i>)
-WS26.5	Informatics. Electronic data processing. Computers (General)
-WS27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WS27.1	General coverage(Not Table G)
-WS28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WS28.5	Collective
-WS28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WS29	Hospital staff manuals
-WS32	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WS32.1	General coverage(Not Table G)
-WS33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WS33.1	General coverage(Not Table G)
-WS39	Handbooks. Resource guides
-WS80	Popular works (General)
-WS100	General works
-WS103	Normal physical growth and development
-WS104	Growth disorders. Failure to thrive
-WS105	Normal mental growth and development. Child psychology
-WS105.5	Special topics, A-Z
-WS105.5.A8	Attitudes and adjustments to life change events (death, illness, divorce, etc.)
-WS105.5.C3	Child rearing. Parenting
-WS105.5.C7	Cognition. Fantasy. Imagination
-WS105.5.C8	Communication. Verbal behavior
-WS105.5.D2	Decision making. Logic. Thinking. Concept formation. Perception (Psychological)
-WS105.5.D3	Deprivation (economic, parental, etc.)
-WS105.5.D8	Dreams
-WS105.5.E5	Emotions
-WS105.5.E8	Evaluation of psychological development (General)
-WS105.5.E9	Environmental and sociological factors
-WS105.5.F2	Family relations. Only child. Parent-child relations
-WS105.5.H7	Hospitalized child. Institutionalized child
-WS105.5.I5	Interpersonal relations (doctor, peer, stranger, etc.)
-WS105.5.M2	Memory
-WS105.5.M3	Mental health
-WS105.5.M4	Morals
-WS105.5.M5	Motivation
-WS105.5.M8	Music
-WS105.5.P3	Personality development
-WS105.5.P5	Play and playthings
-WS105.5.P8	Psychological stress
-WS105.5.S3	Self
-WS105.5.S4	Sexual behavior
-WS105.5.S5	Sibling relations
-WS105.5.S6	Social behavior. Race relations
-WS105.5.T4	Technology and communications media
-WS106	Exceptional child (General)
-WS106.2	Gifted child
-WS106.4	Physically disabled child
-WS107	Intellectual disabilities in children
-WS107.5	Special topics when related to the intellectually disabled child, A-Z
-WS107.5.C2	Case reports. Biographical accounts
-WS107.5.C6	Communication
-WS107.5.D3	Development. Prognosis
-WS107.5.P7	Psychomotor disorders
-WS107.5.P8	Psychosocial problems. Social behavior
-WS107.5.R3	Rehabilitation and training (General)
-WS107.5.R4	Interpersonal relations
-WS107.5.R5	Relations with family. Family adjustment
-WS110	Learning disorders (physical, mental, and neurologic)
-WS113	Care and training (General)
-WS114	Infant care
-WS115	Nutritional requirements. Nutrition disorders (General)
-WS120	In infancy
-WS125	Breast feeding
-WS130	In childhood
-WS132	In adolescence
-WS135	Prophylactic immunizations
-WS141	Physical examination. Diagnosis. Mass screening. Monitoring
-WS200	General works
-WS205	Pediatric emergencies
-WS210	Chronic disease (General)
-WS220	Palliative care. Terminal care. Death
-WS260	Integumentary system. Connective tissue
-WS265	Skin and connective tissue diseases
-WS270	Musculoskeletal system
-WS275	Musculoskeletal diseases
-WS280	Respiratory system
-WS285	Respiratory tract diseases
-WS290	Cardiovascular system
-WS295	Cardiovascular diseases
-WS300	Hemic and immune systems
-WS305	Hemic and lymphatic diseases. Immune system diseases
-WS310	Digestive system
-WS311	Digestive system diseases
-WS312	Diarrheal disorders
-WS320	Urogenital system
-WS321	Urogenital diseases. Urologic diseases
-WS322	Enuresis
-WS330	Endocrine system
-WS335	Endocrine system diseases
-WS340	Nervous system
-WS340.5	Nervous system diseases
-WS341	Brain diseases. Brain injuries
-WS342	Chronic brain damage
-WS350	Child psychiatry. Child guidance
-WS350.2	Therapy
-WS350.3	Behavior therapy
-WS350.33	Drug therapy
-WS350.4	Play therapy
-WS350.5	Psychoanalytic therapy
-WS350.55	Socioenvironmental therapy
-WS350.6	Child mental disorders. Behavioral symptoms (General)
-WS350.7	Neurodevelopmental disorders
-WS350.8	Special topics in child psychiatry, A-Z
-WS350.8.A2	Abuse
-WS350.8.A4	Aggression. Violence. Dangerous behavior. Self-injurious behavior
-WS350.8.A8	Attention deficit and disruptive behavior disorders
-WS350.8.D3	Defense mechanisms
-WS350.8.H9	Hyperkinesis
-WS350.8.I4	Inhibition
-WS350.8.P3	Personality disorders
-WS350.8.P4	Pervasive development disorders
-WS350.8.R9	Runaway behavior
-WS350.8.S6	Social behavior disorders
-WS366	Pediatric therapeutics (General)
-WS367	Drug therapy
-WS368	Rehabilitation of physically disabled children
-WS370	Occupational therapy
-WS405	Birth injuries
-WS410	Premature infants. Diseases of premature infants
-WS420	Newborn infants. Neonatology
-WS421	Diseases of newborn infants
-WS430	Infant
-WS440	Child
-WS450	Puberty
-WS460	Adolescence (General)
-WS462	Adolescent psychology. Adolescent behavior
-WS462.5	Special topics, A-Z
-WS462.5.A8	Attitudes and adjustments to life change events (death, illness, divorce, etc.)
-WS462.5.C7	Cognition. Fantasy. Imagination
-WS462.5.C8	Communication. Verbal behavior
-WS462.5.D2	Decision making
-WS462.5.D3	Deprivation (economic, parental, etc.)
-WS462.5.D8	Dreams
-WS462.5.E5	Emotions
-WS462.5.E8	Evaluation of psychological development (General)
-WS462.5.E9	Environmental and sociological factors
-WS462.5.F2	Family relations. Only child. Parent-child relations
-WS462.5.I5	Interpersonal relations (doctor, peer, stranger, etc.)
-WS462.5.M2	Memory
-WS462.5.M3	Mental health
-WS462.5.M4	Morals
-WS462.5.M5	Motivation
-WS462.5.M8	Music
-WS462.5.P3	Personality development
-WS462.5.P7	Pregnancy. Reproductive behavior
-WS462.5.P8	Psychological stress
-WS462.5.S3	Self
-WS462.5.S4	Sexual behavior
-WS462.5.S5	Sibling relations
-WS462.5.S6	Social behavior. Race relations
-WS462.5.T4	Technology and communications media
-WS463	Adolescent psychiatry. Adolescent mental disorders. Behavioral symptoms
-WS464	Therapy
-WS465	Behavior therapy
-WS466	Psychotherapy
-WS467	Socioenvironmental therapy
-WS470.A-Z	Special topics in adolescent psychiatry
-WS470.A2	Abuse
-WS470.A4	Aggression. Violence. Dangerous behavior. Self-injurious behavior
-WS470.D3	Defense mechanisms
-WS470.I4	Inhibition
-WS470.P3	Personality disorders
-WS470.R9	Runaway behavior
-WS470.S6	Social behavior disorders
-WT1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WT5	General works--By several authors
-WT7	General works--By individual authors
-WT9	Addresses. Essays. Lectures
-WT11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WT11.1	General coverage(Not Table G)
-WT13	Dictionaries. Encyclopedias
-WT15	Classification. Terminology
-WT16	Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WT16.1	General coverage(Not Table G)
-WT17	Atlases. Pictorial works
-WT18	Education
-WT18.2	Educational materials
-WT19	Schools, departments, and faculties of geriatrics(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WT19.1	General coverage(Not Table G)
-WT20	Research (General)
-WT21	Geriatrics as a profession. Ethics. Peer review
-WT22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WT22.1	General coverage(Not Table G)
-WT23	Collective
-WT24	Individual(Cutter from name of institution)
-WT25	Laboratory manuals. Technique
-WT26	Equipment and supplies
-WT26.5	Informatics. Electronic data processing. Computers (General)
-WT27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WT27.1	General coverage(Not Table G)
-WT28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WT28.5	Collective
-WT28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WT29	Senior centers, day care centers and programs(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WT29.1	General coverage(Not Table G)
-WT30	Socioeconomic factors(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WT30.1	General coverage(Not Table G)
-WT31	Health services
-WT31.5	Medicare
-WT32	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WT32.1	General coverage(Not Table G)
-WT33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WT33.1	General coverage(Not Table G)
-WT39	Handbooks. Resource guides
-WT100	General works
-WT101	Aged. Health status. Life style (General or not elsewhere classified)
-WT104	Aging
-WT115	Nutritional requirements. Nutrition disorders
-WT116	Longevity. Life expectancy. Death
-WT120	Popular works (General)
-WT141	Physical examination. Diagnosis. Diagnostic methods. Monitoring
-WT145	Geriatric psychology. Mental health
-WT150	Geriatric psychiatry. Mental disorders
-WT152	Psychotherapy
-WT155	Dementia. Alzheimer disease
-WT156	Diagnosis
-WT157	Therapy
-WT158	Etiology
-WT159	Physiopathology
-WT160	Prevention and control
-WT161	Psychosocial aspects
-WT166	Geriatric therapeutics (General or not elsewhere classified)
-WT500	Chronic disease in the aged
+WD100	Disorders of Systemic, Metabolic or Environmental Origin--Nutrition Disorders--General works
+WD101	Disorders of Systemic, Metabolic or Environmental Origin--Nutrition Disorders--Handbooks. Resource guides
+WD105	Disorders of Systemic, Metabolic or Environmental Origin--Nutrition Disorders--Deficiency diseases (General or not elsewhere classified)
+WD110	Disorders of Systemic, Metabolic or Environmental Origin--Nutrition Disorders--Vitamin A deficiency(<i>e.g., Night blindness</i>)
+WD120	Disorders of Systemic, Metabolic or Environmental Origin--Nutrition Disorders--Vitamin B deficiency
+WD122	Disorders of Systemic, Metabolic or Environmental Origin--Nutrition Disorders--Thiamine deficiency(<i>e.g., Beriberi</i>)
+WD124	Disorders of Systemic, Metabolic or Environmental Origin--Nutrition Disorders--Riboflavin deficiency
+WD126	Disorders of Systemic, Metabolic or Environmental Origin--Nutrition Disorders--Pellagra
+WD140	Disorders of Systemic, Metabolic or Environmental Origin--Nutrition Disorders--Ascorbic acid deficiency(<i>e.g., Scurvy</i>)
+WD145	Disorders of Systemic, Metabolic or Environmental Origin--Nutrition Disorders--Vitamin D deficiency(<i>e.g., Rickets</i>)
+WD150	Disorders of Systemic, Metabolic or Environmental Origin--Nutrition Disorders--Vitamin E deficiency
+WD155	Disorders of Systemic, Metabolic or Environmental Origin--Nutrition Disorders--Vitamin K deficiency
+WD175	Disorders of Systemic, Metabolic or Environmental Origin--Nutrition Disorders--Celiac disease. Sprue
+WD200	Disorders of Systemic, Metabolic or Environmental Origin--General works
+WD200.1	Disorders of Systemic, Metabolic or Environmental Origin--Handbooks. Resource guides
+WD200.5	Disorders of Systemic, Metabolic or Environmental Origin--Specific diseases or groups of diseases not classified elsewhere, A-Z
+WD200.5.C2	Disorders of Systemic, Metabolic or Environmental Origin--Calcium metabolism disorders
+WD200.5.G6	Disorders of Systemic, Metabolic or Environmental Origin--Glucose metabolism disorders
+WD200.5.H5	Disorders of Systemic, Metabolic or Environmental Origin--Hyperammonemia
+WD200.5.H8	Disorders of Systemic, Metabolic or Environmental Origin--Lipid metabolism disorders
+WD200.5.H9	Disorders of Systemic, Metabolic or Environmental Origin--Hyperprolactinemia
+WD200.5.I7	Disorders of Systemic, Metabolic or Environmental Origin--Iron metabolism disorders
+WD200.5.M2	Disorders of Systemic, Metabolic or Environmental Origin--Malabsorption syndromes
+WD200.5.M6	Disorders of Systemic, Metabolic or Environmental Origin--Mitochondrial diseases
+WD200.5.P4	Disorders of Systemic, Metabolic or Environmental Origin--Phosphorus metabolism disorders
+WD205	Disorders of Systemic, Metabolic or Environmental Origin--Inborn errors of metabolism (General)
+WD205.5	Disorders of Systemic, Metabolic or Environmental Origin--Specific errors or groups of errors not elsewhere classified, A-Z
+WD205.5.A5	Disorders of Systemic, Metabolic or Environmental Origin--Amino acid metabolism
+WD205.5.A6	Disorders of Systemic, Metabolic or Environmental Origin--Amyloidosis
+WD205.5.C2	Disorders of Systemic, Metabolic or Environmental Origin--Carbohydrate metabolism
+WD205.5.H9	Disorders of Systemic, Metabolic or Environmental Origin--Hyperbilirubinemia, Hereditary
+WD205.5.L5	Disorders of Systemic, Metabolic or Environmental Origin--Lipid metabolism
+WD205.5.M3	Disorders of Systemic, Metabolic or Environmental Origin--Metal metabolism (General)
+WD205.5.M4	Disorders of Systemic, Metabolic or Environmental Origin--Minerals
+WD205.5.P2	Disorders of Systemic, Metabolic or Environmental Origin--Paralyses, Familial periodic
+WD205.5.P6	Disorders of Systemic, Metabolic or Environmental Origin--Porphyrias
+WD205.5.P8	Disorders of Systemic, Metabolic or Environmental Origin--Purine-pyrimidine metabolism
+WD205.5.X2	Disorders of Systemic, Metabolic or Environmental Origin--Xanthomatosis
+WD210	Disorders of Systemic, Metabolic or Environmental Origin--Metabolic Diseases--Overweight. Obesity
+WD212	Disorders of Systemic, Metabolic or Environmental Origin--Metabolic Diseases--Popular works
+WD214	Disorders of Systemic, Metabolic or Environmental Origin--Metabolic Diseases--Adiposis dolorosa. Lipomatosis. Lipodystrophy
+WD220	Disorders of Systemic, Metabolic or Environmental Origin--Metabolic Diseases--Water-electrolyte imbalance. Acid-base imbalance
+WD222	Disorders of Systemic, Metabolic or Environmental Origin--Metabolic Diseases--Acidosis
+WD226	Disorders of Systemic, Metabolic or Environmental Origin--Metabolic Diseases--Alkalosis
+WD300	Disorders of Systemic, Metabolic or Environmental Origin--Immunologic and Collagen Diseases. Hypersensitivity--General works
+WD301	Disorders of Systemic, Metabolic or Environmental Origin--Immunologic and Collagen Diseases. Hypersensitivity--Handbooks. Resource guides
+WD305	Disorders of Systemic, Metabolic or Environmental Origin--Immunologic and Collagen Diseases. Hypersensitivity--Autoimmune diseases (General)
+WD308	Disorders of Systemic, Metabolic or Environmental Origin--Immunologic and Collagen Diseases. Hypersensitivity--Immune complex disease. Immunologic deficiency syndromes (General or not elsewhere classified)
+WD310	Disorders of Systemic, Metabolic or Environmental Origin--Immunologic and Collagen Diseases. Hypersensitivity--Food hypersensitivity
+WD320	Disorders of Systemic, Metabolic or Environmental Origin--Immunologic and Collagen Diseases. Hypersensitivity--Drug hypersensitivity
+WD330	Disorders of Systemic, Metabolic or Environmental Origin--Immunologic and Collagen Diseases. Hypersensitivity--Serum sickness
+WD375	Disorders of Systemic, Metabolic or Environmental Origin--Immunologic and Collagen Diseases. Hypersensitivity--Collagen diseases and other connective tissue diseases (General)
+WD380	Disorders of Systemic, Metabolic or Environmental Origin--Immunologic and Collagen Diseases. Hypersensitivity--Systemic lupus erythematosus
+WD400	Disorders of Systemic, Metabolic or Environmental Origin--Animal Poisons--General works
+WD401	Disorders of Systemic, Metabolic or Environmental Origin--Animal Poisons--Handbooks. Resource guides
+WD405	Disorders of Systemic, Metabolic or Environmental Origin--Animal Poisons--Marine forms
+WD410	Disorders of Systemic, Metabolic or Environmental Origin--Animal Poisons--Reptiles
+WD420	Disorders of Systemic, Metabolic or Environmental Origin--Animal Poisons--Spiders. Scorpions. Centipedes. Leeches
+WD430	Disorders of Systemic, Metabolic or Environmental Origin--Animal Poisons--Insects
+WD500	Disorders of Systemic, Metabolic or Environmental Origin--Plant Poisons--General works
+WD501	Disorders of Systemic, Metabolic or Environmental Origin--Plant Poisons--Handbooks. Resource guides
+WD505	Disorders of Systemic, Metabolic or Environmental Origin--Plant Poisons--Ergotism
+WD515	Disorders of Systemic, Metabolic or Environmental Origin--Plant Poisons--Favism
+WD520	Disorders of Systemic, Metabolic or Environmental Origin--Plant Poisons--Mushroom poisoning
+WD530	Disorders of Systemic, Metabolic or Environmental Origin--Plant Poisons--Milk sickness
+WD600	Disorders of Systemic, Metabolic or Environmental Origin--Disorders and Injuries of Environmental Origin--General works
+WD601	Disorders of Systemic, Metabolic or Environmental Origin--Disorders and Injuries of Environmental Origin--Handbooks. Resource guides
+WD602	Disorders of Systemic, Metabolic or Environmental Origin--Disorders and Injuries of Environmental Origin--Electric injuries
+WD605	Disorders of Systemic, Metabolic or Environmental Origin--Disorders and Injuries of Environmental Origin--Non-ionizing radiation injuries (General)
+WD610	Disorders of Systemic, Metabolic or Environmental Origin--Disorders and Injuries of Environmental Origin--Heat stress disorders
+WD630	Disorders of Systemic, Metabolic or Environmental Origin--Disorders and Injuries of Environmental Origin--Motion sickness(<i>e.g., Seasickness. Airsickness</i>)
+WD640	Disorders of Systemic, Metabolic or Environmental Origin--Disorders and Injuries of Environmental Origin--Vibration disorders (General)
+WD650	Disorders of Systemic, Metabolic or Environmental Origin--Disorders and Injuries of Environmental Origin--High air pressure. Submarine medicine
+WD655	Disorders of Systemic, Metabolic or Environmental Origin--Disorders and Injuries of Environmental Origin--Hypoxia
+WD670	Disorders of Systemic, Metabolic or Environmental Origin--Disorders and Injuries of Environmental Origin--Hypothermia. Cold injury
+WD700	Disorders of Systemic, Metabolic or Environmental Origin--Aviation Medicine--General works
+WD701	Disorders of Systemic, Metabolic or Environmental Origin--Aviation Medicine--Handbooks. Resource guides
+WD703	Disorders of Systemic, Metabolic or Environmental Origin--Aviation Medicine--Dictionaries. Encyclopedias
+WD704	Disorders of Systemic, Metabolic or Environmental Origin--Aviation Medicine--Research (General)
+WD705	Disorders of Systemic, Metabolic or Environmental Origin--Aviation Medicine--Personnel selection and fitness. Physical standards
+WD710	Disorders of Systemic, Metabolic or Environmental Origin--Aviation Medicine--Altitude effects
+WD712	Disorders of Systemic, Metabolic or Environmental Origin--Aviation Medicine--Decompression sickness
+WD715	Disorders of Systemic, Metabolic or Environmental Origin--Aviation Medicine--Hypoxia. Inert gas narcosis
+WD720	Disorders of Systemic, Metabolic or Environmental Origin--Aviation Medicine--Speed. Acceleration. Deceleration. Gravitation. Rotation(<i>e.g., G force</i>)
+WD730	Disorders of Systemic, Metabolic or Environmental Origin--Aviation Medicine--Psychological aspects
+WD735	Disorders of Systemic, Metabolic or Environmental Origin--Aviation Medicine--Fatigue. Effect of noise. Effect of vibration
+WD740	Disorders of Systemic, Metabolic or Environmental Origin--Aviation Medicine--Aviation accidents. Protective devices
+WD745	Disorders of Systemic, Metabolic or Environmental Origin--Aviation Medicine--Aviation dentistry
+WD750	Disorders of Systemic, Metabolic or Environmental Origin--Space Medicine--General works (including works on broad aspects of space flight)
+WD751	Disorders of Systemic, Metabolic or Environmental Origin--Space Medicine--Research (General)
+WD751.6	Disorders of Systemic, Metabolic or Environmental Origin--Space Medicine--Informatics. Electronic data processing. Computers (General)
+WD752	Disorders of Systemic, Metabolic or Environmental Origin--Space Medicine--Physiological aspects
+WD754	Disorders of Systemic, Metabolic or Environmental Origin--Space Medicine--Psychological aspects
+WD756	Disorders of Systemic, Metabolic or Environmental Origin--Space Medicine--Closed ecological systems
+WD758	Disorders of Systemic, Metabolic or Environmental Origin--Space Medicine--Extraterrestrial environment
+WD760	Disorders of Systemic, Metabolic or Environmental Origin--Space Medicine--Cosmic radiation
+WD800	Disorders of Systemic, Metabolic or Environmental Origin--Naval Medicine--General works
+WE1	Musculoskeletal System--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WE5	Musculoskeletal System--General works--By several authors
+WE7	Musculoskeletal System--General works--By individual authors
+WE9	Musculoskeletal System--Addresses. Essays. Lectures
+WE11	Musculoskeletal System--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WE11.1	Musculoskeletal System--General coverage(Not Table G)
+WE13	Musculoskeletal System--Dictionaries. Encyclopedias
+WE15	Musculoskeletal System--Classification. Terminology
+WE16	Musculoskeletal System--Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WE16.1	Musculoskeletal System--General coverage(Not Table G)
+WE17	Musculoskeletal System--Atlases. Pictorial works
+WE18	Musculoskeletal System--Education
+WE18.2	Musculoskeletal System--Educational materials
+WE19	Musculoskeletal System--Schools, departments and faculties of orthopedics(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WE19.1	Musculoskeletal System--General coverage(Not Table G)
+WE20	Musculoskeletal System--Research (General)
+WE21	Musculoskeletal System--Orthopedics, osteology or rheumatology as a profession. Ethics. Peer review
+WE22	Musculoskeletal System--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WE22.1	Musculoskeletal System--General coverage(Not Table G)
+WE23	Musculoskeletal System--Collective
+WE24	Musculoskeletal System--Individual(Cutter from name of institution)
+WE24.5	Musculoskeletal System--Bone banks(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WE24.51	Musculoskeletal System--General coverage(Not Table G)
+WE25	Musculoskeletal System--Laboratory manuals. Technique
+WE26	Musculoskeletal System--Equipment and supplies
+WE26.5	Musculoskeletal System--Informatics. Electronic data processing. Computers (General)
+WE27	Musculoskeletal System--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WE27.1	Musculoskeletal System--General coverage(Not Table G)
+WE28	Musculoskeletal System--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WE28.5	Musculoskeletal System--Collective
+WE28.6	Musculoskeletal System--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WE32	Musculoskeletal System--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WE32.1	Musculoskeletal System--General coverage(Not Table G)
+WE33	Musculoskeletal System--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WE33.1	Musculoskeletal System--General coverage(Not Table G)
+WE39	Musculoskeletal System--Handbooks. Resource guides
+WE100	Musculoskeletal System--General works
+WE101	Musculoskeletal System--Anatomy. Histology. Embryology (General)
+WE102	Musculoskeletal System--Physiology. Biochemistry
+WE103	Musculoskeletal System--Movement. Locomotion
+WE104	Musculoskeletal System--Proprioception. Psychomotor performance
+WE140	Musculoskeletal System--Diseases (General)
+WE141	Musculoskeletal System--Examination. Diagnosis. Diagnostic methods. Monitoring
+WE168	Musculoskeletal System--Orthopedic Procedures--Orthopedic procedures (General or not elsewhere classified)
+WE170	Musculoskeletal System--Orthopedic Procedures--Amputation
+WE172	Musculoskeletal System--Orthopedic Procedures--Artificial limbs
+WE175	Musculoskeletal System--Orthopedic Procedures--Dislocations. Sprains
+WE180	Musculoskeletal System--Orthopedic Procedures--Fractures (General or not elsewhere classified)
+WE182	Musculoskeletal System--Orthopedic Procedures--Open fractures
+WE185	Musculoskeletal System--Orthopedic Procedures--Fracture fixation
+WE190	Musculoskeletal System--Orthopedic Procedures--Bone transplantation
+WE200	Musculoskeletal System--Bones--Bone and bones (General)
+WE202	Musculoskeletal System--Bones--Bone physiology
+WE225	Musculoskeletal System--Bones--Bone diseases (General or not elsewhere classified)
+WE250	Musculoskeletal System--Bones--Congenital abnormalities. Disorders of metabolism, growth, or development
+WE251	Musculoskeletal System--Bones--Osteomyelitis and other infectious bone diseases
+WE253	Musculoskeletal System--Bones--Osteoarticular tuberculosis
+WE258	Musculoskeletal System--Bones--Neoplasms
+WE259	Musculoskeletal System--Bones--Osteochondritis. Osteochondrosis
+WE300	Musculoskeletal System--Joint and Connective Tissues--Joints. Ligaments. Synovial membranes and fluid. Cartilage
+WE304	Musculoskeletal System--Joint and Connective Tissues--Joint diseases
+WE312	Musculoskeletal System--Joint and Connective Tissues--Surgery
+WE344	Musculoskeletal System--Joint and Connective Tissues--Arthritis
+WE346	Musculoskeletal System--Joint and Connective Tissues--Rheumatoid arthritis. Ankylosis
+WE348	Musculoskeletal System--Joint and Connective Tissues--Degenerative joint disease. Osteoarthritis
+WE350	Musculoskeletal System--Joint and Connective Tissues--Gout
+WE400	Musculoskeletal System--Joint and Connective Tissues--Synovial bursa. Bursitis
+WE500	Musculoskeletal System--Muscles and Tendons--Muscles (General). Fascia
+WE504	Musculoskeletal System--Muscles and Tendons--Muscle physiology
+WE510	Musculoskeletal System--Muscles and Tendons--Trigger points
+WE544	Musculoskeletal System--Muscles and Tendons--Rheumatic diseases
+WE545	Musculoskeletal System--Muscles and Tendons--Contracture
+WE550	Musculoskeletal System--Muscles and Tendons--Muscular diseases. Neuromuscular diseases (General or not elsewhere classified)
+WE552	Musculoskeletal System--Muscles and Tendons--Amyotrophic lateral sclerosis
+WE555	Musculoskeletal System--Muscles and Tendons--Myasthenia gravis
+WE559	Musculoskeletal System--Muscles and Tendons--Muscular dystrophies
+WE560	Musculoskeletal System--Muscles and Tendons--Electromyography
+WE600	Musculoskeletal System--Muscles and Tendons--Tendons
+WE700	Musculoskeletal System--Head and Neck--Head and neck
+WE705	Musculoskeletal System--Head and Neck--Head. Face
+WE706	Musculoskeletal System--Head and Neck--Head and neck injuries
+WE707	Musculoskeletal System--Head and Neck--Head and neck neoplasms
+WE708	Musculoskeletal System--Head and Neck--Neck
+WE710	Musculoskeletal System--Torso--Torso (General or not elsewhere classified)
+WE715	Musculoskeletal System--Torso--Thorax
+WE720	Musculoskeletal System--Torso--Back
+WE725	Musculoskeletal System--Torso--Spine. Vertebrae
+WE727	Musculoskeletal System--Torso--Spinal diseases
+WE730	Musculoskeletal System--Torso--Congenital abnormalities
+WE735	Musculoskeletal System--Torso--Spinal curvatures
+WE737	Musculoskeletal System--Torso--Spinal injuries
+WE740	Musculoskeletal System--Torso--Intervertebral discs
+WE750	Musculoskeletal System--Torso--Lumbosacral region. Sacrococcygeal region
+WE755	Musculoskeletal System--Torso--Low back pain. Sciatica
+WE757	Musculoskeletal System--Torso--Abdomen
+WE760	Musculoskeletal System--Torso--Pelvis
+WE800	Musculoskeletal System--Extremities
+WE805	Musculoskeletal System--Extremities--Upper extremity
+WE810	Musculoskeletal System--Extremities--Shoulder. Upper arm
+WE812	Musculoskeletal System--Extremities--Axilla
+WE820	Musculoskeletal System--Extremities--Elbow. Forearm
+WE830	Musculoskeletal System--Extremities--Wrist. Hand
+WE832	Musculoskeletal System--Extremities--Hand infections. Hand injuries
+WE833	Musculoskeletal System--Extremities--Hand deformities
+WE835	Musculoskeletal System--Extremities--Fingers
+WE850	Musculoskeletal System--Extremities--Lower extremity
+WE855	Musculoskeletal System--Extremities--Hip. Upper leg
+WE860	Musculoskeletal System--Extremities--Hip joint
+WE862	Musculoskeletal System--Extremities--Hip replacement
+WE865	Musculoskeletal System--Extremities--Femur. Thigh
+WE870	Musculoskeletal System--Extremities--Knee. Lower leg
+WE872	Musculoskeletal System--Extremities--Knee and knee joint injuries
+WE874	Musculoskeletal System--Extremities--Knee replacement
+WE880	Musculoskeletal System--Extremities--Ankle. Foot. Toes
+WE882	Musculoskeletal System--Extremities--Ankle injuries. Foot injuries. Toe injuries
+WE883	Musculoskeletal System--Extremities--Foot deformities
+WE886	Musculoskeletal System--Extremities--Flatfoot
+WE890	Musculoskeletal System--Podiatry
+WF1	Respiratory System--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WF5	Respiratory System--General works--By several authors
+WF7	Respiratory System--General works--By individual authors
+WF9	Respiratory System--Addresses. Essays. Lectures
+WF11	Respiratory System--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WF11.1	Respiratory System--General coverage(Not Table G)
+WF13	Respiratory System--Dictionaries. Encyclopedias
+WF15	Respiratory System--Classification. Terminology
+WF16	Respiratory System--Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WF16.1	Respiratory System--General coverage(Not Table G)
+WF17	Respiratory System--Atlases. Pictorial works
+WF18	Respiratory System--Education
+WF18.2	Respiratory System--Educational materials
+WF19	Respiratory System--Schools, departments, and faculties of pulmonary medicine(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WF19.1	Respiratory System--General coverage(Not Table G)
+WF20	Respiratory System--Research (General)
+WF21	Respiratory System--Pneumology as a profession. Ethics. Peer review
+WF22	Respiratory System--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WF22.1	Respiratory System--General coverage(Not Table G)
+WF23	Respiratory System--Collective
+WF24	Respiratory System--Individual(Cutter from name of institution)
+WF25	Respiratory System--Laboratory manuals. Technique
+WF26	Respiratory System--Equipment and supplies
+WF26.5	Respiratory System--Informatics. Electronic data processing. Computers (General)
+WF27	Respiratory System--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WF27.1	Respiratory System--General coverage(Not Table G)
+WF28	Respiratory System--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WF28.5	Respiratory System--Collective
+WF28.6	Respiratory System--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WF32	Respiratory System--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WF32.1	Respiratory System--General coverage(Not Table G)
+WF33	Respiratory System--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WF33.1	Respiratory System--General coverage(Not Table G)
+WF39	Respiratory System--Handbooks. Resource guides
+WF100	Respiratory System--General works
+WF101	Respiratory System--Anatomy. Histology. Embryology. Abnormalities
+WF102	Respiratory System--Physiology of respiration
+WF110	Respiratory System--Biochemistry of respiration and the respiratory system
+WF140	Respiratory System--Diseases of the respiratory system (General)
+WF141	Respiratory System--Diseases--Examination. Diagnosis. Diagnostic methods. Monitoring
+WF141.5	Respiratory System--Diseases--Specific techniques, A-Z
+WF141.5.B8	Respiratory System--Diseases--Diagnosis. Therapeutics--Bronchial provocation tests
+WF141.5.C2	Respiratory System--Diseases--Diagnosis. Therapeutics--Capnography
+WF141.5.P7	Respiratory System--Diseases--Diagnosis. Therapeutics--Plethysmography, Whole body
+WF143	Respiratory System--Diseases--Diagnosis. Therapeutics--Signs and symptoms
+WF145	Respiratory System--Diseases--Diagnosis. Therapeutics
+WF150	Respiratory System--Diseases--Diagnosis. Therapeutics--Respiratory hypersensitivity (General)
+WF200	Respiratory System--Diseases--Tuberculosis (General)
+WF205	Respiratory System--Diseases--Tuberculosis--Epidemiology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WF205.1	Respiratory System--Diseases--Tuberculosis--General coverage(Not Table G)
+WF215	Respiratory System--Diseases--Tuberculosis--Pathology
+WF220	Respiratory System--Diseases--Tuberculosis--Diagnosis. Prognosis
+WF225	Respiratory System--Diseases--Mass chest X-ray
+WF250	Respiratory System--Diseases--Tuberculosis--Immunological aspects(<i>e.g., BCG vaccine</i>)
+WF290	Respiratory System--Diseases--Tuberculosis--Lymph node tuberculosis. Scrofula
+WF300	Respiratory System--Diseases--Tuberculosis--Pulmonary tuberculosis
+WF310	Respiratory System--Diseases--Tuberculosis--Therapy
+WF315	Respiratory System--Diseases--Tuberculosis--Diet. Rest. Exercise. Home care
+WF330	Respiratory System--Diseases--Tuberculosis--Hospitalization. Climatotherapy. Heliotherapy
+WF350	Respiratory System--Diseases--Tuberculosis--Surgery
+WF360	Respiratory System--Diseases--Tuberculosis--Drug therapy
+WF380	Respiratory System--Diseases--Miliary tuberculosis
+WF390	Respiratory System--Diseases--Pleural tuberculosis
+WF405	Respiratory System--Diseases--Tuberculosis in the workplace
+WF415	Respiratory System--Diseases--Tuberculosis in childhood
+WF450	Respiratory System--Diseases--Neoplasms (General)
+WF490	Respiratory System--Diseases--Pharynx. Trachea
+WF500	Respiratory System--Diseases--Bronchi
+WF544	Respiratory System--Diseases--Bronchiectasis
+WF546	Respiratory System--Diseases--Bronchitis. Tracheitis
+WF553	Respiratory System--Diseases--Asthma
+WF600	Respiratory System--Diseases--Lungs
+WF645	Respiratory System--Diseases--Lungs--Pulmonary Atelectasis
+WF648	Respiratory System--Diseases--Lungs--Emphysema
+WF651	Respiratory System--Diseases--Lungs--Lung abscess
+WF652	Respiratory System--Diseases--Lungs--Fungal lung diseases
+WF653	Respiratory System--Diseases--Lungs--Lung injury
+WF654	Respiratory System--Diseases--Lungs--Pneumoconiosis
+WF658	Respiratory System--Diseases--Lungs--Neoplasms
+WF668	Respiratory System--Diseases--Lungs--Surgery(<i>e.g., Pneumonectomy</i>)
+WF700	Respiratory System--Diseases--Pleura. Pleural cavity
+WF744	Respiratory System--Diseases--Pleurisy. Pleuritis
+WF745	Respiratory System--Diseases--Pleura. Diaphragm. Mediastinum--Empyema
+WF746	Respiratory System--Diseases--Pleura. Diaphragm. Mediastinum--Pneumothorax. Hemothorax
+WF768	Respiratory System--Diseases--Pleura. Diaphragm. Mediastinum--Artificial pneumothorax
+WF800	Respiratory System--Diseases--Diaphragm
+WF805	Respiratory System--Diseases--Pleura. Diaphragm. Mediastinum--Functional disorders(<i>e.g., Hiccup</i>)
+WF810	Respiratory System--Diseases--Pleura. Diaphragm. Mediastinum--Diaphragmatic hernia
+WF900	Respiratory System--Diseases--Mediastinum
+WF970	Respiratory System--Thoracic Cavity. Thoracic Surgery--General works
+WF975	Respiratory System--Thoracic Cavity. Thoracic Surgery--Diagnosis. Diagnostic imaging
+WF980	Respiratory System--Thoracic Cavity. Thoracic Surgery--Surgery
+WF985	Respiratory System--Thoracic Cavity. Thoracic Surgery--Injuries
+WG1	Cardiovascular System--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WG5	Cardiovascular System--General works--By several authors
+WG7	Cardiovascular System--General works--By individual authors
+WG9	Cardiovascular System--Addresses. Essays. Lectures
+WG11	Cardiovascular System--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WG11.1	Cardiovascular System--General coverage(Not Table G)
+WG13	Cardiovascular System--Dictionaries. Encyclopedias
+WG15	Cardiovascular System--Classification. Terminology
+WG16	Cardiovascular System--Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WG16.1	Cardiovascular System--General coverage(Not Table G)
+WG17	Cardiovascular System--Atlases. Pictorial works
+WG18	Cardiovascular System--Education
+WG18.2	Cardiovascular System--Educational materials
+WG19	Cardiovascular System--Schools, departments, and faculties of cardiology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WG19.1	Cardiovascular System--General coverage(Not Table G)
+WG20	Cardiovascular System--Research (General)
+WG21	Cardiovascular System--Cardiology as a profession. Ethics. Peer review
+WG21.5	Cardiovascular System--Allied health personnel. Allied health occupations
+WG22	Cardiovascular System--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WG22.1	Cardiovascular System--General coverage(Not Table G)
+WG23	Cardiovascular System--Collective
+WG24	Cardiovascular System--Individual(Cutter from name of institution)
+WG25	Cardiovascular System--Laboratory manuals. Technique
+WG26	Cardiovascular System--Equipment and supplies
+WG26.5	Cardiovascular System--Informatics. Electronic data processing. Computers (General)
+WG27	Cardiovascular System--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WG27.1	Cardiovascular System--General coverage(Not Table G)
+WG28	Cardiovascular System--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WG28.5	Cardiovascular System--Collective
+WG28.6	Cardiovascular System--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WG32	Cardiovascular System--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WG32.1	Cardiovascular System--General coverage(Not Table G)
+WG33	Cardiovascular System--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WG33.1	Cardiovascular System--General coverage(Not Table G)
+WG39	Cardiovascular System--Handbooks. Resource guides
+WG100	Cardiovascular System--General works
+WG101	Cardiovascular System--Anatomy. Histology. Embryology
+WG102	Cardiovascular System--Physiology. Biochemistry
+WG103	Cardiovascular System--Blood circulation (General)
+WG104	Cardiovascular System--Microcirculation (General)
+WG106	Cardiovascular System--Hemodynamics
+WG108	Cardiovascular System--Blood pressure
+WG113	Cardiovascular System--Popular works
+WG120	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Cardiovascular diseases (General or not elsewhere classified)
+WG140	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Electrocardiography. Vectorcardiography. Monitoring (General)
+WG141	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Examination. Diagnosis. Diagnostic methods (General and heart specifically)
+WG141.5	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Specific diagnostic methods, A-Z
+WG141.5.A3	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Angiography. Angioscopy
+WG141.5.A9	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Heart auscultation
+WG141.5.B2	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Ballistocardiography
+WG141.5.C15	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Impedance cardiography
+WG141.5.C2	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Cardiac catheterization
+WG141.5.E2	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Echocardiography
+WG141.5.F9	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Heart function tests (General or not else classified)
+WG141.5.H3	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Hemodynamic monitoring
+WG141.5.K5	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Kinetocardiography
+WG141.5.K9	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Kymography
+WG141.5.M2	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Magnetic resonance imaging
+WG141.5.P4	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Phonocardiography
+WG141.5.P7	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Plethysmography
+WG141.5.R2	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Radiography
+WG141.5.R3	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Radionuclide imaging
+WG141.5.T6	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Tomography
+WG142	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Pathology
+WG166	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Therapeutics
+WG166.5	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Specific therapeutic methods, A-Z
+WG166.5.A3	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Angioplasty
+WG166.5.A5	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Angioplasty, Laser
+WG166.5.B2	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Balloon angioplasty. Balloon occlusion
+WG166.5.C2	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Artificial cardiac pacing
+WG166.5.E5	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Electric countershock
+WG166.5.I7	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Ischemic preconditioning. Ischemic postconditioning
+WG168	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Cardiovascular surgical procedures
+WG168.5	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Extracorporeal circulation
+WG169	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Heart surgery. Heart transplantation
+WG169.5	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Artificial heart. Heart-lung machine
+WG170	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Vascular surgical procedures
+WG180	Cardiovascular System--Diseases, Diagnosis, and Therapeutics--Cardiac rehabilitation
+WG200	Cardiovascular System--Heart. Heart Diseases--General works
+WG201	Cardiovascular System--Heart. Heart Diseases--Anatomy. Histology. Embryology
+WG202	Cardiovascular System--Heart. Heart Diseases--Physiology
+WG205	Cardiovascular System--Heart. Heart Diseases--Cardiac emergency treatment
+WG210	Cardiovascular System--Heart. Heart Diseases--Heart diseases (General or not elsewhere classified)
+WG214	Cardiovascular System--Heart. Heart Diseases--Heart arrest
+WG220	Cardiovascular System--Heart. Heart Diseases--Congenital heart disease. Abnormalities of the heart and the cardiovascular system (General)
+WG226	Cardiovascular System--Heart. Heart Diseases--Heart neoplasms
+WG240	Cardiovascular System--Heart. Heart Diseases--Rheumatic heart disease
+WG260	Cardiovascular System--Heart. Heart Diseases--Valves
+WG262	Cardiovascular System--Heart. Heart Diseases--Mitral
+WG265	Cardiovascular System--Heart. Heart Diseases--Aortic
+WG268	Cardiovascular System--Heart. Heart Diseases--Tricuspid
+WG269	Cardiovascular System--Heart. Heart Diseases--Pulmonary
+WG275	Cardiovascular System--Heart. Heart Diseases--Pericardium
+WG280	Cardiovascular System--Heart. Heart Diseases--Myocardium
+WG282	Cardiovascular System--Heart. Heart Diseases--Myocardial ischemia
+WG285	Cardiovascular System--Heart. Heart Diseases--Endocardium
+WG298	Cardiovascular System--Heart. Heart Diseases--Angina pectoris
+WG299	Cardiovascular System--Heart. Heart Diseases--Coronary vessels
+WG300	Cardiovascular System--Heart. Heart Diseases--Coronary disease
+WG310	Cardiovascular System--Heart. Heart Diseases--Myocardial infarction
+WG320	Cardiovascular System--Heart. Heart Diseases--Neurocirculatory asthenia
+WG330	Cardiovascular System--Heart. Heart Diseases--Cardiac arrhythmias (General)
+WG330.5	Cardiovascular System--Heart. Heart Diseases--Specific arrhythmias, A-Z
+WG330.5.A5	Cardiovascular System--Heart. Heart Diseases--Atrial fibrillation
+WG330.5.A6	Cardiovascular System--Heart. Heart Diseases--Atrial flutter
+WG330.5.B7	Cardiovascular System--Heart. Heart Diseases--Bradycardia
+WG330.5.H4	Cardiovascular System--Heart. Heart Diseases--Heart block
+WG330.5.L6	Cardiovascular System--Heart. Heart Diseases--Long QT syndrome
+WG330.5.P7	Cardiovascular System--Heart. Heart Diseases--Pre-excitation syndromes
+WG330.5.S5	Cardiovascular System--Heart. Heart Diseases--Sinus arrhythmia
+WG330.5.T2	Cardiovascular System--Heart. Heart Diseases--Tachycardia
+WG330.5.V4	Cardiovascular System--Heart. Heart Diseases--Ventricular fibrillation
+WG340	Cardiovascular System--Heart. Heart Diseases--Hypertension (General)
+WG343	Cardiovascular System--Heart. Heart Diseases--Pulmonary hypertension
+WG345	Cardiovascular System--Heart. Heart Diseases--Renal hypertension
+WG350	Cardiovascular System--Heart. Heart Diseases--Hypotension
+WG370	Cardiovascular System--Heart. Heart Diseases--Heart failure
+WG410	Cardiovascular System--Heart. Heart Diseases--Aorta
+WG420	Cardiovascular System--Heart. Heart Diseases--Pulmonary embolism and related disorders. Pulmonary heart disease
+WG460	Cardiovascular System--Heart. Heart Diseases--Special cardiac problems in anesthesia, dentistry, general surgery. Cardiac anesthesia
+WG500	Cardiovascular System--Blood Vessels. Vascular Diseases--General works
+WG505	Cardiovascular System--Blood Vessels. Vascular Diseases--Vascular diseases (General or not elsewhere classified)
+WG510	Cardiovascular System--Blood Vessels. Vascular Diseases--Arteries (General or not elsewhere classified)
+WG515	Cardiovascular System--Blood Vessels. Vascular Diseases--Inflammation
+WG518	Cardiovascular System--Blood Vessels. Vascular Diseases--Polyarteritis nodosa
+WG520	Cardiovascular System--Blood Vessels. Vascular Diseases--Thromboangiitis obliterans
+WG540	Cardiovascular System--Blood Vessels. Vascular Diseases--Arterial embolism. Arterial thrombosis
+WG550	Cardiovascular System--Blood Vessels. Vascular Diseases--Arteriosclerosis and related disorders
+WG560	Cardiovascular System--Blood Vessels. Vascular Diseases--Vasomotor disorders
+WG570	Cardiovascular System--Blood Vessels. Vascular Diseases--Raynaud disease
+WG578	Cardiovascular System--Blood Vessels. Vascular Diseases--Vasodilator disorders
+WG580	Cardiovascular System--Blood Vessels. Vascular Diseases--Aneurysms
+WG590	Cardiovascular System--Blood Vessels. Vascular Diseases--Arteriovenous anastomosis. Arteriovenous fistula
+WG595	Cardiovascular System--Blood Vessels. Vascular Diseases--Specific arteries, A-Z
+WG595.A9	Cardiovascular System--Blood Vessels. Vascular Diseases--Axillary artery
+WG595.B2	Cardiovascular System--Blood Vessels. Vascular Diseases--Basilar artery
+WG595.B7	Cardiovascular System--Blood Vessels. Vascular Diseases--Brachial artery
+WG595.B72	Cardiovascular System--Blood Vessels. Vascular Diseases--Brachiocephalic trunk
+WG595.B76	Cardiovascular System--Blood Vessels. Vascular Diseases--Bronchial arteries
+WG595.C2	Cardiovascular System--Blood Vessels. Vascular Diseases--Carotid arteries
+WG595.C3	Cardiovascular System--Blood Vessels. Vascular Diseases--Celiac artery
+WG595.C37	Cardiovascular System--Blood Vessels. Vascular Diseases--Cerebral arteries
+WG595.F3	Cardiovascular System--Blood Vessels. Vascular Diseases--Femoral artery
+WG595.H3	Cardiovascular System--Blood Vessels. Vascular Diseases--Hepatic artery
+WG595.I5	Cardiovascular System--Blood Vessels. Vascular Diseases--Iliac artery
+WG595.M2	Cardiovascular System--Blood Vessels. Vascular Diseases--Maxillary artery
+WG595.M3	Cardiovascular System--Blood Vessels. Vascular Diseases--Meningeal arteries
+WG595.M38	Cardiovascular System--Blood Vessels. Vascular Diseases--Mesenteric arteries
+WG595.O7	Cardiovascular System--Blood Vessels. Vascular Diseases--Ophthalmic artery
+WG595.P6	Cardiovascular System--Blood Vessels. Vascular Diseases--Popliteal artery
+WG595.P8	Cardiovascular System--Blood Vessels. Vascular Diseases--Pulmonary artery
+WG595.R3	Cardiovascular System--Blood Vessels. Vascular Diseases--Renal artery
+WG595.R38	Cardiovascular System--Blood Vessels. Vascular Diseases--Retinal artery
+WG595.S7	Cardiovascular System--Blood Vessels. Vascular Diseases--Splenic artery
+WG595.S8	Cardiovascular System--Blood Vessels. Vascular Diseases--Subclavian artery
+WG595.T3	Cardiovascular System--Blood Vessels. Vascular Diseases--Temporal arteries
+WG595.T4	Cardiovascular System--Blood Vessels. Vascular Diseases--Thoracic arteries
+WG595.U6	Cardiovascular System--Blood Vessels. Vascular Diseases--Umbilical arteries
+WG595.V3	Cardiovascular System--Blood Vessels. Vascular Diseases--Vertebral artery
+WG600	Cardiovascular System--Blood Vessels. Vascular Diseases--Veins
+WG610	Cardiovascular System--Blood Vessels. Vascular Diseases--Venous thrombosis and related disorders
+WG620	Cardiovascular System--Blood Vessels. Vascular Diseases--Varicose veins
+WG625	Cardiovascular System--Blood Vessels. Vascular Diseases--Specific veins, A-Z
+WG625.A9	Cardiovascular System--Blood Vessels. Vascular Diseases--Axillary vein
+WG625.A99	Cardiovascular System--Blood Vessels. Vascular Diseases--Azygos vein
+WG625.B7	Cardiovascular System--Blood Vessels. Vascular Diseases--Brachiocephalic veins
+WG625.C3	Cardiovascular System--Blood Vessels. Vascular Diseases--Cerebral veins
+WG625.C7	Cardiovascular System--Blood Vessels. Vascular Diseases--Cranial sinuses
+WG625.F3	Cardiovascular System--Blood Vessels. Vascular Diseases--Femoral vein
+WG625.H3	Cardiovascular System--Blood Vessels. Vascular Diseases--Hepatic veins
+WG625.I5	Cardiovascular System--Blood Vessels. Vascular Diseases--Iliac vein
+WG625.J8	Cardiovascular System--Blood Vessels. Vascular Diseases--Jugular veins
+WG625.P6	Cardiovascular System--Blood Vessels. Vascular Diseases--Popliteal vein
+WG625.P8	Cardiovascular System--Blood Vessels. Vascular Diseases--Pulmonary veins
+WG625.R3	Cardiovascular System--Blood Vessels. Vascular Diseases--Renal veins
+WG625.R38	Cardiovascular System--Blood Vessels. Vascular Diseases--Retinal vein
+WG625.S2	Cardiovascular System--Blood Vessels. Vascular Diseases--Saphenous vein
+WG625.S8	Cardiovascular System--Blood Vessels. Vascular Diseases--Subclavian vein
+WG625.V3	Cardiovascular System--Blood Vessels. Vascular Diseases--Venae cavae
+WG700	Cardiovascular System--Blood Vessels. Vascular Diseases--Capillaries
+WH1	Hemic and Lymphatic Systems--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WH5	Hemic and Lymphatic Systems--General works--By several authors
+WH7	Hemic and Lymphatic Systems--General works--By individual authors
+WH9	Hemic and Lymphatic Systems--Addresses. Essays. Lectures
+WH11	Hemic and Lymphatic Systems--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WH11.1	Hemic and Lymphatic Systems--General coverage(Not Table G)
+WH13	Hemic and Lymphatic Systems--Dictionaries. Encyclopedias
+WH15	Hemic and Lymphatic Systems--Classification. Terminology
+WH16	Hemic and Lymphatic Systems--Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WH16.1	Hemic and Lymphatic Systems--General coverage(Not Table G)
+WH17	Hemic and Lymphatic Systems--Atlases. Pictorial works
+WH18	Hemic and Lymphatic Systems--Education
+WH18.2	Hemic and Lymphatic Systems--Educational materials
+WH19	Hemic and Lymphatic Systems--Schools, departments and faculties of hematology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WH19.1	Hemic and Lymphatic Systems--General coverage(Not Table G)
+WH20	Hemic and Lymphatic Systems--Research (General)
+WH21	Hemic and Lymphatic Systems--Hematology as a profession. Ethics. Peer review
+WH22	Hemic and Lymphatic Systems--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WH22.1	Hemic and Lymphatic Systems--General coverage(Not Table G)
+WH23	Hemic and Lymphatic Systems--Collective
+WH24	Hemic and Lymphatic Systems--Individual(Cutter from name of institution)
+WH24.5	Hemic and Lymphatic Systems--Blood banks(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WH24.51	Hemic and Lymphatic Systems--General coverage(Not Table G)
+WH25	Hemic and Lymphatic Systems--Laboratory manuals. Technique
+WH26	Hemic and Lymphatic Systems--Equipment and supplies
+WH26.5	Hemic and Lymphatic Systems--Informatics. Electronic data processing. Computers (General)
+WH27	Hemic and Lymphatic Systems--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WH27.1	Hemic and Lymphatic Systems--General coverage(Not Table G)
+WH28	Hemic and Lymphatic Systems--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WH28.5	Hemic and Lymphatic Systems--Collective
+WH28.6	Hemic and Lymphatic Systems--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WH32	Hemic and Lymphatic Systems--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WH32.1	Hemic and Lymphatic Systems--General coverage(Not Table G)
+WH33	Hemic and Lymphatic Systems--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WH33.1	Hemic and Lymphatic Systems--General coverage(Not Table G)
+WH39	Hemic and Lymphatic Systems--Handbooks. Resource guides
+WH100	Hemic and Lymphatic Systems--General works
+WH120	Hemic and Lymphatic Systems--Hematologic diseases (General or not elsewhere classified)
+WH140	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Hematopoietic system and hematopoiesis. Developmental theories. Blood cells (General)
+WH150	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Erythrocytes
+WH155	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Anemia
+WH160	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Hypochromic anemia
+WH165	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Macrocytic anemia. Pernicious anemia
+WH170	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Hemolytic anemia(<i>e.g., Sickle cell anemia</i>)
+WH175	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Anemias of bone marrow dysfunction(<i>e.g., Aplastic anemia</i>)
+WH180	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Polycythemia. Polycythemia vera
+WH190	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Hemoglobin and other hemeproteins. Porphyrins (Associated with hemoglobin)
+WH200	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Leukocytes. Leukocyte disorders (General)
+WH250	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Leukemia
+WH300	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Blood platelets
+WH310	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Mechanism of blood coagulation. Hemostasis
+WH312	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Hemorrhagic disorders (General)
+WH314	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Purpura (General)
+WH315	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Thrombocytopenic purpura
+WH320	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Non-thrombopenic purpuras
+WH322	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Blood coagulation disorders (General)
+WH325	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Hemophilia. Hemarthrosis
+WH380	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Bone marrow. Bone marrow diseases (General or not elsewhere classified)
+WH400	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Fluid elements. Plasma. Serum. Blood proteins. Blood protein disorders
+WH420	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Blood groups. Blood group incompatibility (General)
+WH425	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Rh-Hr blood group system. Fetal erythroblastosis
+WH450	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Whole blood. Blood derivatives. Plasma substitutes. Blood expanders
+WH460	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Blood bank procedures
+WH500	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Hodgkin\'s disease
+WH525	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Hematologic neoplasms (General). Lymphoma
+WH540	Hemic and Lymphatic Systems--Diseases. Immunologic Factors. Blood Banks--Plasma cell neoplasms
+WH600	Hemic and Lymphatic Systems--Spleen
+WH650	Hemic and Lymphatic Systems--Reticuloendothelial system
+WH700	Hemic and Lymphatic Systems--Lymphatic system. Lymphatic diseases (General)
+WI1	Digestive System--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WI5	Digestive System--General works--By several authors
+WI7	Digestive System--General works--By individual authors
+WI9	Digestive System--Addresses. Essays. Lectures
+WI11	Digestive System--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WI11.1	Digestive System--General coverage(Not Table G)
+WI13	Digestive System--Dictionaries. Encyclopedias
+WI15	Digestive System--Classification. Terminology
+WI16	Digestive System--Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WI16.1	Digestive System--General coverage(Not Table G)
+WI17	Digestive System--Atlases. Pictorial works
+WI18	Digestive System--Education
+WI18.2	Digestive System--Educational materials
+WI19	Digestive System--Schools, departments, and faculties of gastroenterology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WI19.1	Digestive System--General coverage(Not Table G)
+WI20	Digestive System--Research (General)
+WI21	Digestive System--Gastroenterology as a profession. Ethics. Peer review
+WI22	Digestive System--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WI22.1	Digestive System--General coverage(Not Table G)
+WI23	Digestive System--Collective
+WI24	Digestive System--Individual(Cutter from name of institution)
+WI25	Digestive System--Laboratory manuals. Technique
+WI26	Digestive System--Equipment and supplies
+WI26.5	Digestive System--Informatics. Electronic data processing. Computers (General)
+WI27	Digestive System--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WI27.1	Digestive System--General coverage(Not Table G)
+WI28	Digestive System--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WI28.5	Digestive System--Collective
+WI28.6	Digestive System--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WI32	Digestive System--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WI32.1	Digestive System--General coverage(Not Table G)
+WI33	Digestive System--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WI33.1	Digestive System--General coverage(Not Table G)
+WI39	Digestive System--Handbooks. Resource guides
+WI100	Digestive System--General works
+WI101	Digestive System--Anatomy. Histology. Embryology. Congenital abnormalities (General or not elsewhere classified)
+WI102	Digestive System--Physiology. Biochemistry. Digestion
+WI140	Digestive System--Diseases (General)
+WI141	Digestive System--Examination. Diagnosis. Diagnostic methods. Monitoring (General)
+WI143	Digestive System--Signs and symptoms
+WI145	Digestive System--Diseases. Diagnosis. Signs and Symptoms--Dyspepsia and related conditions
+WI146	Digestive System--Diseases. Diagnosis. Signs and Symptoms--Nausea. Vomiting
+WI147	Digestive System--Diseases. Diagnosis. Signs and Symptoms--Abdominal pain
+WI149	Digestive System--Diseases. Diagnosis. Signs and Symptoms--Neoplasms
+WI190	Digestive System--Gastrointestinal tract
+WI195	Digestive System--Gastrointestinal diseases (General)
+WI200	Digestive System--Gastrointestinal Tract--Mouth
+WI210	Digestive System--Gastrointestinal Tract--Tongue
+WI212	Digestive System--Gastrointestinal Tract--Taste. Taste Buds. Taste Perception
+WI230	Digestive System--Gastrointestinal Tract--Salivary glands
+WI250	Digestive System--Gastrointestinal Tract--Esophagus
+WI255	Digestive System--Gastrointestinal Tract--Esophageal diseases (General)
+WI258	Digestive System--Gastrointestinal Tract--Deglutition disorders
+WI260	Digestive System--Gastrointestinal Tract--Esophageal neoplasms
+WI300	Digestive System--Stomach--General works
+WI301	Digestive System--Stomach--Anatomy. Histology. Embryology. Congenital abnormalities
+WI302	Digestive System--Stomach--Physiology
+WI306	Digestive System--Stomach--Stomach diseases (General)
+WI308	Digestive System--Stomach--Achlorhydria
+WI310	Digestive System--Stomach--Gastritis
+WI320	Digestive System--Stomach--Stomach neoplasms
+WI350	Digestive System--Stomach--Peptic ulcer
+WI360	Digestive System--Stomach--Stomach ulcer
+WI370	Digestive System--Stomach--Duodenal ulcer
+WI380	Digestive System--Stomach--Stomach surgery. Postgastrectomy syndromes
+WI387	Digestive System--Stomach--Pylorus. Pyloric antrum. Pyloric stenosis
+WI400	Digestive System--Intestines--General works
+WI402	Digestive System--Intestines--Physiology
+WI405	Digestive System--Intestines--Signs and symptoms
+WI407	Digestive System--Intestines--Diarrhea
+WI409	Digestive System--Intestines--Constipation
+WI412	Digestive System--Intestines--Congenital abnormalities
+WI418	Digestive System--Intestines--Intestinal diseases (General)
+WI420	Digestive System--Intestines--Inflammation
+WI422	Digestive System--Intestines--Crohn disease
+WI425	Digestive System--Intestines--Diverticulitis. Diverticulum
+WI430	Digestive System--Intestines--Intestinal polyps. Polyposis
+WI435	Digestive System--Intestines--Intestinal neoplasms
+WI450	Digestive System--Intestines--Intussusception. Volvulus
+WI460	Digestive System--Intestines--Intestinal obstruction. Ileus
+WI480	Digestive System--Intestines--Intestinal surgery
+WI500	Digestive System--Intestines--Small intestine. Mesentery
+WI505	Digestive System--Intestines--Duodenum
+WI510	Digestive System--Intestines--Jejunum
+WI512	Digestive System--Intestines--Ileum
+WI518	Digestive System--Intestines--Large intestine
+WI520	Digestive System--Intestines--Colon
+WI521	Digestive System--Intestines--Colonic diseases (General)
+WI522	Digestive System--Intestines--Inflammation
+WI528	Digestive System--Intestines--Megacolon
+WI529	Digestive System--Intestines--Colonic neoplasms. Polyps
+WI530	Digestive System--Intestines--Cecum
+WI535	Digestive System--Intestines--Appendix
+WI560	Digestive System--Intestines--Sigmoid
+WI575	Digestive System--Intestines--Peritoneum. Retroperitoneal space
+WI600	Digestive System--Anus. Rectum--General works
+WI603	Digestive System--Anus. Rectum--Rectal diseases (General)
+WI605	Digestive System--Anus. Rectum--Hemorrhoids. Fissure in ano. Rectal fistula
+WI610	Digestive System--Anus. Rectum--Rectal neoplasms
+WI620	Digestive System--Anus. Rectum--Proctoscopy. Sigmoidoscopy
+WI650	Digestive System--Anus. Rectum--Colorectal surgery
+WI700	Digestive System--Liver. Biliary Tract--General works
+WI702	Digestive System--Liver. Biliary Tract--Physiology. Liver circulation
+WI703	Digestive System--Liver. Biliary Tract--Bile. Bile acids, alcohols, and salts. Jaundice (General or not elsewhere classified)
+WI710	Digestive System--Liver. Biliary Tract--Liver diseases (General)
+WI712	Digestive System--Liver. Biliary Tract--Hepatic insufficiency
+WI715	Digestive System--Liver. Biliary Tract--Hepatitis (General or not elsewhere classified)
+WI720	Digestive System--Liver. Biliary Tract--Liver circulation disorders. Portal system. Portal hypertension
+WI725	Digestive System--Liver. Biliary Tract--Liver cirrhosis
+WI730	Digestive System--Liver. Biliary Tract--Liver abscess
+WI735	Digestive System--Liver. Biliary Tract--Liver neoplasms
+WI740	Digestive System--Liver. Biliary Tract--Degenerative diseases. Hepatolenticular degeneration
+WI750	Digestive System--Liver. Biliary Tract--Biliary tract. Cholecystography
+WI753	Digestive System--Liver. Biliary Tract--Biliary tract diseases (General)
+WI755	Digestive System--Liver. Biliary Tract--Cholecystitis. Cholelithiasis
+WI765	Digestive System--Liver. Biliary Tract--Biliary tract neoplasms
+WI770	Digestive System--Liver and biliary tract surgery
+WI800	Digestive System--Pancreas--General works
+WI802	Digestive System--Pancreas--Physiology. Secretions
+WI803	Digestive System--Pancreas--Pancreatic diseases (General)
+WI805	Digestive System--Pancreas--Pancreatitis
+WI810	Digestive System--Pancreas--Pancreatic neoplasms
+WI820	Digestive System--Pancreas--Cystic fibrosis
+WI830	Digestive System--Pancreas--Pancreatic surgery
+WI900	Digestive System--Abdominal Cavity--General works
+WI950	Digestive System--Abdominal Cavity--Hernia
+WI955	Digestive System--Abdominal Cavity--Ventral
+WI960	Digestive System--Abdominal Cavity--Inguinal
+WI965	Digestive System--Abdominal Cavity--Femoral
+WI970	Digestive System--Abdominal Cavity--Abdominal neoplasms
+WI980	Digestive System--Digestive system surgical procedures (General or not elsewhere classified)
+WJ1	Urogenital System--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WJ5	Urogenital System--General works--By several authors
+WJ7	Urogenital System--General works--By individual authors
+WJ9	Urogenital System--Addresses. Essays. Lectures
+WJ11	Urogenital System--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WJ11.1	Urogenital System--General coverage(Not Table G)
+WJ13	Urogenital System--Dictionaries. Encyclopedias
+WJ15	Urogenital System--Classification. Terminology
+WJ16	Urogenital System--Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WJ16.1	Urogenital System--General coverage(Not Table G)
+WJ17	Urogenital System--Atlases. Pictorial works
+WJ18	Urogenital System--Education
+WJ18.2	Urogenital System--Educational materials
+WJ19	Urogenital System--Schools, departments, and faculties of urology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WJ19.1	Urogenital System--General coverage(Not Table G)
+WJ20	Urogenital System--Research (General)
+WJ21	Urogenital System--Urology as a profession. Nephrology as a profession. Ethics. Peer review
+WJ22	Urogenital System--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WJ22.1	Urogenital System--General coverage(Not Table G)
+WJ23	Urogenital System--Collective
+WJ24	Urogenital System--Individual(Cutter from name of institution)
+WJ24.5	Urogenital System--Sperm banks(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WJ24.51	Urogenital System--General coverage(Not Table G)
+WJ25	Urogenital System--Laboratory manuals. Technique
+WJ26	Urogenital System--Equipment and supplies
+WJ26.5	Urogenital System--Informatics. Electronic data processing. Computers (General)
+WJ27	Urogenital System--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WJ27.1	Urogenital System--General coverage(Not Table G)
+WJ28	Urogenital System--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WJ28.5	Urogenital System--Collective
+WJ28.6	Urogenital System--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WJ32	Urogenital System--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WJ32.1	Urogenital System--General coverage(Not Table G)
+WJ33	Urogenital System--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WJ33.1	Urogenital System--General coverage(Not Table G)
+WJ39	Urogenital System--Handbooks. Resource guides
+WJ100	Urogenital System--General works
+WJ101	Urogenital System--Anatomy. Histology. Embryology. Abnormalities
+WJ102	Urogenital System--Physiology. Biochemistry
+WJ140	Urogenital System--Urologic diseases (General)
+WJ141	Urogenital System--Urologic Diseases--Examination. Diagnosis. Diagnostic methods. Monitoring(General)
+WJ146	Urogenital System--Urologic Diseases--Urination and urination disorders
+WJ151	Urogenital System--Urologic Diseases--Urinary tract infections
+WJ160	Urogenital System--Urologic Diseases--Neoplasms (General)
+WJ166	Urogenital System--Urologic therapeutics
+WJ168	Urogenital System--Urologic surgery
+WJ190	Urogenital System--Gynecologic urology
+WJ300	Urogenital System--Kidney--General works
+WJ301	Urogenital System--Kidney--Anatomy. Histology. Embryology. Physiology. Abnormalities
+WJ302	Urogenital System--Kidney--Diagnosis. Radiography. Pyelography. Monitoring
+WJ303	Urogenital System--Kidney--Urinary secretion. Anuria (General)
+WJ340	Urogenital System--Kidney--Nephrosis
+WJ342	Urogenital System--Kidney--Kidney failure. Crush syndrome
+WJ343	Urogenital System--Kidney--Proteinuria. Albuminuria. Renal aminoacidurias
+WJ344	Urogenital System--Kidney--Hemoglobinuria. Hematuria. Myoglobinuria
+WJ348	Urogenital System--Kidney--Uremia
+WJ351	Urogenital System--Kidney--Infections(<i>e.g., Pyelitis, Pyelonephritis</i>)
+WJ353	Urogenital System--Kidney--Nephritis
+WJ356	Urogenital System--Kidney--Kidney calculi. Nephrocalcinosis
+WJ358	Urogenital System--Kidney--Neoplasms. Cystic kidney
+WJ368	Urogenital System--Kidney--Surgery. Kidney transplantation
+WJ378	Urogenital System--Kidney--Artificial kidney. Renal dialysis. Peritoneal dialysis
+WJ400	Urogenital System--Ureter
+WJ500	Urogenital System--Bladder. Cystoscopy. Cystoscopic surgery
+WJ504	Urogenital System--Neoplasms
+WJ600	Urogenital System--Urethra
+WJ700	Urogenital System--Male Genitalia--General works
+WJ701	Urogenital System--Male Genitalia--Anatomy. Histology. Embryology
+WJ702	Urogenital System--Male Genitalia--Physiology
+WJ706	Urogenital System--Male Genitalia--Neoplasms (General)
+WJ709	Urogenital System--Male Genitalia--Physiological sexual dysfunctions. Infertility
+WJ710	Urogenital System--Male Genitalia--Male contraception
+WJ712	Urogenital System--Male Genitalia--Disorders of sex development
+WJ750	Urogenital System--Male Genitalia--Prostate. Seminal vesicles. Ejaculatory ducts
+WJ752	Urogenital System--Male Genitalia--Prostate diseases
+WJ762	Urogenital System--Male Genitalia--Neoplasms
+WJ768	Urogenital System--Male Genitalia--Surgery (General)
+WJ780	Urogenital System--Male Genitalia--Vas deferens. Spermatic cord
+WJ790	Urogenital System--Male Genitalia--Penis. Foreskin. Circumcision
+WJ800	Urogenital System--Male Genitalia--Scrotum. Scrotal contents. Epididymis. Tunica vaginalis
+WJ830	Urogenital System--Male Genitalia--Testis
+WJ834	Urogenital System--Male Genitalia--Spermatogenesis. Spermatozoa
+WJ840	Urogenital System--Male Genitalia--Cryptorchidism. Eunuchism and related disorders
+WJ858	Urogenital System--Male Genitalia--Neoplasms
+WJ868	Urogenital System--Male Genitalia--Surgery. Castration
+WJ875	Urogenital System--Male Genitalia--Testicular hormones and antagonists
+WK1	Endocrine System--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WK5	Endocrine System--General works--By several authors
+WK7	Endocrine System--General works--By individual authors
+WK9	Endocrine System--Addresses. Essays. Lectures
+WK11	Endocrine System--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WK11.1	Endocrine System--General coverage(Not Table G)
+WK13	Endocrine System--Dictionaries. Encyclopedias
+WK15	Endocrine System--Classification. Terminology
+WK16	Endocrine System--Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WK16.1	Endocrine System--General coverage(Not Table G)
+WK17	Endocrine System--Atlas. Pictorial works
+WK18	Endocrine System--Education
+WK18.2	Endocrine System--Educational materials
+WK19	Endocrine System--Schools, departments and faculties of endocrinology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WK19.1	Endocrine System--General coverage(Not Table G)
+WK20	Endocrine System--Research (General)
+WK21	Endocrine System--Endocrinology as a profession. Ethics. Peer review
+WK22	Endocrine System--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WK22.1	Endocrine System--General coverage(Not Table G)
+WK23	Endocrine System--Collective
+WK24	Endocrine System--Individual(Cutter from name of institution)
+WK25	Endocrine System--Laboratory manuals. Technique. Experimental studies (General)
+WK26	Endocrine System--Equipment and supplies
+WK26.5	Endocrine System--Informatics. Electronic data processing. Computers (General)
+WK27	Endocrine System--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WK27.1	Endocrine System--General coverage(Not Table G)
+WK28	Endocrine System--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WK28.5	Endocrine System--Collective
+WK28.6	Endocrine System--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WK32	Endocrine System--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WK32.1	Endocrine System--General coverage(Not Table G)
+WK33	Endocrine System--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WK33.1	Endocrine System--General coverage(Not Table G)
+WK39	Endocrine System--Handbooks. Resource guides
+WK100	Endocrine System--Endocrine glands (General)
+WK102	Endocrine System--Physiology. Biochemistry. Hormones and antagonists (General)
+WK140	Endocrine System--Endocrine diseases (General)
+WK145	Endocrine System--Neoplasms (General or not elsewhere classified)
+WK148	Endocrine System--Surgery (General)
+WK150	Endocrine System--Steroid hormones (General or not elsewhere classified)
+WK170	Endocrine System--Gastrointestinal hormones(<i>e.g., Secretin. Enterogastrone</i>)
+WK180	Endocrine System--Renal hormones
+WK185	Endocrine System--Other hormones(<i>e.g., Peptide hormones</i>)
+WK190	Endocrine System--Hormone therapy (General)
+WK200	Endocrine System--Thyroid Gland. Parathyroid Glands--General works
+WK201	Endocrine System--Thyroid Gland. Parathyroid Glands--Anatomy. Histology. Embryology. Abnormalities
+WK202	Endocrine System--Thyroid Gland. Parathyroid Glands--Physiology. Biochemistry (including iodine metabolism). Thyroid hormones and antagonists
+WK250	Endocrine System--Thyroid Gland. Parathyroid Glands--Hypothyroidism and related disorders (General or not elsewhere classified)
+WK252	Endocrine System--Thyroid Gland. Parathyroid Glands--Congenital hypothyroidism. Myxedema
+WK259	Endocrine System--Thyroid Gland. Parathyroid Glands--Goiter
+WK265	Endocrine System--Thyroid Gland. Parathyroid Glands--Hyperthyroidism. Thyrotoxicosis. Exophthalmic goiter
+WK267	Endocrine System--Thyroid Gland. Parathyroid Glands--Medical therapy
+WK270	Endocrine System--Thyroid Gland. Parathyroid Glands--Neoplasms
+WK280	Endocrine System--Thyroid Gland. Parathyroid Glands--Surgery
+WK300	Endocrine System--Thyroid Gland. Parathyroid Glands--Parathyroid glands
+WK350	Endocrine System--Pineal gland
+WK400	Endocrine System--Thymus gland
+WK500	Endocrine System--Pituitary Gland--General works
+WK501	Endocrine System--Pituitary Gland--Anatomy. Histology. Embryology
+WK502	Endocrine System--Pituitary Gland--Physiology. Biochemistry
+WK510	Endocrine System--Pituitary Gland--Anterior pituitary gland (Adenohypophysis)
+WK515	Endocrine System--Pituitary Gland--Hormones and antagonists
+WK520	Endocrine System--Pituitary Gland--Posterior pituitary gland (Neurohypophysis). Hormones and antagonists
+WK550	Endocrine System--Pituitary Gland--Diseases(<i>e.g., Diabetes insipidus. Pituitary dwarfism. Gigantism. Acromegaly. Hypopituitarism. Froehlich\'s syndrome, etc.</i>)
+WK585	Endocrine System--Pituitary Gland--Neoplasms
+WK590	Endocrine System--Pituitary Gland--Surgery
+WK700	Endocrine System--Adrenal Glands--General works
+WK701	Endocrine System--Adrenal Glands--Anatomy. Histology. Embryology. Abnormalities
+WK702	Endocrine System--Adrenal Glands--Physiology. Biochemistry
+WK725	Endocrine System--Adrenal Glands--Adrenal medulla. Epinephrine. Norepinephrine and other catecholamines
+WK750	Endocrine System--Adrenal Glands--Adrenal cortex
+WK755	Endocrine System--Adrenal Glands--Adrenal cortex hormones. Glucocorticoids (General or not elsewhere classified)(<i>e.g., Cortisone</i>)
+WK760	Endocrine System--Adrenal Glands--Diseases of the adrenal cortex
+WK765	Endocrine System--Adrenal Glands--Adrenal cortex hypofunction(<i>e.g., Addison\'s disease</i>)
+WK770	Endocrine System--Adrenal Glands--Adrenal cortex hyperfunction(<i>e.g., Adrenogenital syndrome. Virilism</i>)
+WK780	Endocrine System--Adrenal Glands--Neoplasms
+WK790	Endocrine System--Adrenal Glands--Surgery
+WK800	Endocrine System--Islets of Langerhans--General works
+WK801	Endocrine System--Islets of Langerhans--Anatomy. Histology. Embryology
+WK802	Endocrine System--Islets of Langerhans--Physiology. Biochemistry
+WK810	Endocrine System--Islets of Langerhans--Diabetes mellitus
+WK815	Endocrine System--Islets of Langerhans--Therapy
+WK818	Endocrine System--Islets of Langerhans--Diet
+WK819	Endocrine System--Islets of Langerhans--Diet lists. Diabetic cooking
+WK820	Endocrine System--Islets of Langerhans--Insulins
+WK825	Endocrine System--Islets of Langerhans--Other hypoglycemic agents
+WK830	Endocrine System--Islets of Langerhans--Diabetic ketoacidosis. Diabetic coma
+WK835	Endocrine System--Islets of Langerhans--Complications of diabetes
+WK840	Endocrine System--Islets of Langerhans--Diabetes as a complication in other conditions
+WK850	Endocrine System--Islets of Langerhans--Diabetic patients\' manuals. Self care
+WK870	Endocrine System--Islets of Langerhans--Glycosurias
+WK880	Endocrine System--Islets of Langerhans--Hyperinsulinism. Hyperglycemia. Hypoglycemia
+WK885	Endocrine System--Islets of Langerhans--Neoplasms
+WK900	Endocrine System--Gonads. Gonadal hormones (General)
+WK920	Endocrine System--Gonads--Placental hormones
+WL1	Nervous System--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WL5	Nervous System--General works--By several authors
+WL7	Nervous System--General works--By individual authors
+WL9	Nervous System--Addresses. Essays. Lectures
+WL11	Nervous System--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WL11.1	Nervous System--General coverage(Not Table G)
+WL13	Nervous System--Dictionaries. Encyclopedias
+WL15	Nervous System--Classification. Terminology
+WL16	Nervous System--Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WL16.1	Nervous System--General coverage(Not Table G)
+WL17	Nervous System--Atlases. Pictorial works
+WL18	Nervous System--Education
+WL18.2	Nervous System--Educational materials
+WL19	Nervous System--Schools, departments, and faculties of neurology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WL19.1	Nervous System--General coverage(Not Table G)
+WL20	Nervous System--Research (General)
+WL21	Nervous System--Neurology as a profession. Ethics. Peer review
+WL22	Nervous System--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WL22.1	Nervous System--General coverage(Not Table G)
+WL23	Nervous System--Collective
+WL24	Nervous System--Individual(Cutter from name of institution)
+WL25	Nervous System--Laboratory manuals. Technique
+WL26	Nervous System--Equipment and supplies(<i>e.g., For electroencephalography</i>)
+WL26.5	Nervous System--Informatics. Electronic data processing. Computers (General)
+WL27	Nervous System--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WL27.1	Nervous System--General coverage(Not Table G)
+WL28	Nervous System--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WL28.5	Nervous System--Collective
+WL28.6	Nervous System--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WL32	Nervous System--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WL32.1	Nervous System--General coverage(Not Table G)
+WL33	Nervous System--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WL33.1	Nervous System--General coverage(Not Table G)
+WL39	Nervous System--Handbooks. Resource guides
+WL100	Nervous System--General works
+WL101	Nervous System--Anatomy. Histology. Embryology. Abnormalities (General)
+WL102	Nervous System--Physiology (General)
+WL102.3	Nervous System--Neural stem cells
+WL102.5	Nervous System--Neurons
+WL102.7	Nervous System--Motor neurons
+WL102.8	Nervous System--Synapses
+WL102.9	Nervous System--Nerve endings
+WL103	Nervous System--Psychophysiology (General)
+WL103.3	Nervous System--Psychophysiology. Neuroscience Specialties--Biofeedback
+WL103.4	Nervous System--Psychophysiology. Neuroscience Specialties--Cognitive neuroscience
+WL103.5	Nervous System--Psychophysiology. Neuroscience Specialties--Neuropsychology
+WL103.7	Nervous System--Psychophysiology. Neuroscience Specialties--Psychoneuroimmunology
+WL104	Nervous System--Psychophysiology. Neuroscience Specialties--Neurochemistry
+WL105	Nervous System--Psychophysiology. Neuroscience Specialties--Neuroendocrinology
+WL106	Nervous System--Psychophysiology. Neuroscience Specialties--Reflexes
+WL108	Nervous System--Psychophysiology. Neuroscience Specialties--Physiology of sleep. Sleep disorders
+WL140	Nervous System--Diseases. Examination and Diagnosis (General)--Nervous system diseases (General)
+WL141	Nervous System--Diseases. Examination and Diagnosis (General)--Neurologic examination. Diagnosis. Diagnostic methods (General or not elsewhere classified)
+WL141.5	Nervous System--Diseases. Examination and Diagnosis (General)--Specific diagnostic methods, A-Z
+WL141.5.B6	Nervous System--Diseases. Examination and Diagnosis (General)--Brain mapping
+WL141.5.C4	Nervous System--Diseases. Examination and Diagnosis (General)--Cerebral angiography
+WL141.5.C48	Nervous System--Diseases. Examination and Diagnosis (General)--Cerebral ventriculography
+WL141.5.M2	Nervous System--Diseases. Examination and Diagnosis (General)--Magnetic resonance imaging
+WL141.5.M22	Nervous System--Diseases. Examination and Diagnosis (General)--Magnetic resonance spectroscopy
+WL141.5.M24	Nervous System--Diseases. Examination and Diagnosis (General)--Magnetoencephalography
+WL141.5.N4	Nervous System--Diseases. Examination and Diagnosis (General)--Neuroendoscopy
+WL141.5.N46	Nervous System--Diseases. Examination and Diagnosis (General)--Neuropsychological tests
+WL141.5.N47	Nervous System--Diseases. Examination and Diagnosis (General)--Neuroimaging
+WL141.5.P8	Nervous System--Diseases. Examination and Diagnosis (General)--Pneumoencephalography
+WL141.5.T7	Nervous System--Diseases. Examination and Diagnosis (General)--Transcranial magnetic stimulation
+WL150	Nervous System--Diseases. Examination and Diagnosis (General)--Electroencephalography. Monitoring (General)
+WL154	Nervous System--Diseases. Examination and Diagnosis (General)--Echoencephalography
+WL160	Nervous System--Diseases. Examination and Diagnosis (General)--Nervous system neoplasms (General)
+WL200	Nervous System--Central Nervous System. Disorders. Therapeutics--Meninges. Blood-brain barrier
+WL203	Nervous System--Central Nervous System. Disorders. Therapeutics--Cerebrospinal fluid
+WL300	Nervous System--Central Nervous System. Disorders. Therapeutics--Central nervous system including works on brain alone (General or not elsewhere classified)
+WL301	Nervous System--Central Nervous System. Disorders. Therapeutics--Central nervous system diseases
+WL302	Nervous System--Central Nervous System. Disorders. Therapeutics--Cerebrovascular circulation
+WL307	Nervous System--Central Nervous System. Disorders. Therapeutics--Telencephalon. Cerebrum.
+WL310	Nervous System--Central Nervous System. Disorders. Therapeutics--Brain stem
+WL312	Nervous System--Central Nervous System. Disorders. Therapeutics--Diencephalon. Thalamus
+WL314	Nervous System--Central Nervous System. Disorders. Therapeutics--Limbic system
+WL320	Nervous System--Central Nervous System. Disorders. Therapeutics--Cerebellum
+WL330	Nervous System--Central Nervous System. Disorders. Therapeutics--Cranial nerves (General or not elsewhere classified)
+WL335	Nervous System--Central Nervous System. Disorders. Therapeutics--Localization of function. Cerebral dominance
+WL337	Nervous System--Central Nervous System. Disorders. Therapeutics--Physiology of mental processes
+WL340	Nervous System--Central Nervous System. Disorders. Therapeutics--Neurologic manifestations (General or not elsewhere classified)
+WL340.2	Nervous System--Central Nervous System. Disorders. Therapeutics--Neurologic Manifestations--Communication disorders. Speech-language pathology
+WL340.3	Nervous System--Central Nervous System. Disorders. Therapeutics--Neurologic Manifestations--Speech therapy. Language therapy
+WL340.5	Nervous System--Central Nervous System. Disorders. Therapeutics--Neurologic Manifestations--Aphasia
+WL340.6	Nervous System--Central Nervous System. Disorders. Therapeutics--Neurologic Manifestations--Dyslexia
+WL341	Nervous System--Central Nervous System. Disorders. Therapeutics--Neurologic Manifestations--Consciousness disorders
+WL342	Nervous System--Central Nervous System. Disorders. Therapeutics--Neurologic Manifestations--Headache. Headache disorders (General)
+WL344	Nervous System--Central Nervous System. Disorders. Therapeutics--Neurologic Manifestations--Migraine. Vascular headache
+WL346	Nervous System--Central Nervous System. Disorders. Therapeutics--Neurologic Manifestations--Paralysis (General or not elsewhere classified)
+WL348	Nervous System--Central Nervous System. Disorders. Therapeutics--Brain diseases (General or not elsewhere classified)
+WL350	Nervous System--Central Nervous System. Disorders. Therapeutics--Brain Diseases--Congenital (General or not elsewhere classified)
+WL351	Nervous System--Central Nervous System. Disorders. Therapeutics--Brain Diseases--Inflammatory(<i>e.g., Abscess. Encephalitis. Encephalomyelitis</i>)
+WL354	Nervous System--Central Nervous System. Disorders. Therapeutics--Brain Diseases--Traumatic(<i>e.g., Concussion. Brain damage</i>)
+WL355	Nervous System--Central Nervous System. Disorders. Therapeutics--Brain Diseases--Cerebrovascular disorders (General or not elsewhere classified)(<i>e.g., Cerebral hemorrhage</i>)
+WL356	Nervous System--Central Nervous System. Disorders. Therapeutics--Brain Diseases--Brain ischemia. Stroke
+WL357	Nervous System--Central Nervous System. Disorders. Therapeutics--Brain Diseases--Carotid artery diseases
+WL358	Nervous System--Central Nervous System. Disorders. Therapeutics--Brain Diseases--Brain neoplasms. Central nervous system neoplasms (General)
+WL358.5	Nervous System--Central Nervous System. Disorders. Therapeutics--Brain Diseases--Neurodegenerative diseases (General or not elsewhere classified)
+WL359	Nervous System--Central Nervous System. Disorders. Therapeutics--Brain Diseases--Parkinsonian disorders
+WL359.5	Nervous System--Central Nervous System. Disorders. Therapeutics--Brain Diseases--Huntington disease
+WL360	Nervous System--Central Nervous System. Disorders. Therapeutics--Brain Diseases--Multiple sclerosis
+WL362	Nervous System--Central Nervous System. Disorders. Therapeutics--Brain Diseases--Kernicterus
+WL368	Nervous System--Central Nervous System. Disorders. Therapeutics--Brain surgery. Neurosurgery (General)
+WL370	Nervous System--Central Nervous System. Disorders. Therapeutics--Psychosurgery
+WL385	Nervous System--Central Nervous System. Disorders. Therapeutics--Epilepsy
+WL390	Nervous System--Central Nervous System. Disorders. Therapeutics--Movement disorders (General or not elsewhere classified)
+WL400	Nervous System--Central Nervous System. Disorders. Therapeutics--Spinal cord. Spinal nerves (General or not elsewhere classified)
+WL402	Nervous System--Central Nervous System. Disorders. Therapeutics--Spinal cord diseases
+WL403	Nervous System--Central Nervous System. Disorders. Therapeutics--Spinal cord injuries
+WL405	Nervous System--Central Nervous System. Disorders. Therapeutics--Myelography
+WL500	Nervous System--Peripheral Nerves--General works
+WL520	Nervous System--Peripheral Nerves--Peripheral nervous system diseases
+WL530	Nervous System--Peripheral Nerves--Peripheral nerve injuries
+WL544	Nervous System--Peripheral Nerves--Neuritis. Neuralgia
+WL600	Nervous System--Autonomic Nervous System--General works
+WL610	Nervous System--Sympathetic nervous system. Parasympathetic nervous system
+WL700	Nervous System--Sense Organs--General works
+WL702	Nervous System--Sense Organs--Psychophysics. Sensation (General)
+WL704	Nervous System--Sense Organs--Pain
+WL704.6	Nervous System--Sense Organs--Pain management
+WL705	Nervous System--Sense Organs--Perception. Perceptual distortion
+WL710	Nervous System--Sense Organs--Sensation disorders (General or not elsewhere classified)
+WM1	Psychiatry--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WM5	Psychiatry--General works--By several authors
+WM7	Psychiatry--General works--By individual authors
+WM9	Psychiatry--Addresses. Essays. Lectures
+WM11	Psychiatry--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WM11.1	Psychiatry--General coverage(Not Table G)
+WM13	Psychiatry--Dictionaries. Encyclopedias
+WM15	Psychiatry--Classification. Terminology
+WM16	Psychiatry--Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WM16.1	Psychiatry--General coverage(Not Table G)
+WM17	Psychiatry--Atlases. Pictorial works
+WM18	Psychiatry--Education
+WM18.2	Psychiatry--Educational materials
+WM19	Psychiatry--Schools, departments, and faculties of psychiatry(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WM19.1	Psychiatry--General coverage(Not Table G)
+WM19.5	Psychiatry--Graduate and continuing education in psychiatry (including fellowships, internships, residencies, etc.)
+WM20	Psychiatry--Research (General)
+WM21	Psychiatry--Mental health careers and professions. Types of practice. Peer review. Ethics
+WM21.5	Psychiatry--Allied health personnel. Allied health occupations
+WM22	Psychiatry--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WM22.1	Psychiatry--General coverage(Not Table G)
+WM23	Psychiatry--Collective
+WM24	Psychiatry--Individual(Cutter form name of institution)
+WM25	Psychiatry--Experimental psychiatric techniques
+WM26	Psychiatry--Equipment and supplies
+WM26.5	Psychiatry--Informatics. Electronic data processing. Computers (General)
+WM27	Psychiatry--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WM27.1	Psychiatry--General coverage(Not Table G)
+WM28	Psychiatry--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WM28.5	Psychiatry--Collective
+WM28.6	Psychiatry--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WM29	Psychiatry--Community mental health centers. Rehabilitation centers. Treatment facilities and programs, etc.(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WM29.1	Psychiatry--General coverage(Not Table G)
+WM29.5	Psychiatry--Patients. Attitude and compliance. Satisfaction
+WM30	Psychiatry--Mental health services(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WM30.1	Psychiatry--General coverage(Not Table G)
+WM30.2	Psychiatry--Administration of services and health personnel
+WM30.5	Psychiatry--Psychiatric social work
+WM30.6	Psychiatry--Community psychiatry. Community mental health services (General)
+WM31	Psychiatry--Socioeconomic and environmental factors in mental illness
+WM31.5	Psychiatry--Preventive measures in psychiatry
+WM32	Psychiatry--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)(<i>e.g., Commitment</i>)
+WM32.1	Psychiatry--General coverage(Not Table G)
+WM33	Psychiatry--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WM33.1	Psychiatry--General coverage(Not Table G)
+WM34	Psychiatry--Handbooks. Resource guides
+WM35	Psychiatry--Practices in the care of the mentally ill
+WM40	Psychiatry--Case reports (General)
+WM49	Psychiatry--Art and literature as related to psychiatry. Symbolic case reports(<i>e.g., Electra, Hamlet, Oedipus, Don Juan, etc.</i>)
+WM55	Psychiatry--Psychological counseling
+WM61	Psychiatry--Pastoral care
+WM62	Psychiatry--Interpersonal relations of mental health professionals. Attitude
+WM64	Psychiatry--Referral and consultation (General)
+WM75	Psychiatry--Popular works (General)
+WM90	Psychiatry--Psychophysiologic disorders. Psychosomatic medicine (General)
+WM100	Psychiatry--General works
+WM101	Psychiatry--Mental health (General)
+WM102	Psychiatry--Biological psychiatry. Neuropsychiatry
+WM105	Psychiatry--Clinical psychology
+WM110	Psychiatry--Military psychiatry
+WM140	Psychiatry--Mental disorders. Behavioral symptoms (General)
+WM141	Psychiatry--Mental Disorders. Behavioral Symptoms--Psychiatric examination. Diagnosis
+WM143	Psychiatry--Mental Disorders. Behavioral Symptoms--Psychological interview
+WM145	Psychiatry--Mental Disorders. Behavioral Symptoms--Psychological tests (General or not elsewhere classified)
+WM145.5	Psychiatry--Mental Disorders. Behavioral Symptoms--Specific tests, A-Z
+WM145.5.B4	Psychiatry--Mental Disorders. Behavioral Symptoms--Bender-Gestalt test
+WM145.5.I5	Psychiatry--Mental Disorders. Behavioral Symptoms--Ink blot tests
+WM145.5.M6	Psychiatry--Mental Disorders. Behavioral Symptoms--Personality inventory
+WM145.5.N4	Psychiatry--Mental Disorders. Behavioral Symptoms--Neuropsychological tests
+WM145.5.P8	Psychiatry--Mental Disorders. Behavioral Symptoms--Projective techniques
+WM145.5.R7	Psychiatry--Mental Disorders. Behavioral Symptoms--Rorschach test
+WM145.5.T3	Psychiatry--Mental Disorders. Behavioral Symptoms--Thematic apperception test
+WM145.5.W9	Psychiatry--Mental Disorders. Behavioral Symptoms--Word association tests
+WM165	Psychiatry--Mental Disorders. Behavioral Symptoms--Self-injurious behavior. Dangerous behavior
+WM167	Psychiatry--Mental Disorders. Behavioral Symptoms--Psychological aspects of survivors and survivorship
+WM168	Psychiatry--Mental Disorders. Behavioral Symptoms--Neurodevelopmental disorders (General or not elsewhere classified)
+WM169	Psychiatry--Mental Disorders. Behavioral Symptoms--Attention deficit and disruptive behavior disorders
+WM170	Psychiatry--Mental Disorders. Behavioral Symptoms--Neurotic disorders
+WM171	Psychiatry--Mental Disorders. Behavioral Symptoms--Affective symptoms. Mood disorders
+WM171.5	Psychiatry--Mental Disorders. Behavioral Symptoms--Depression. Depressive disorder
+WM171.7	Psychiatry--Mental Disorders. Behavioral Symptoms--Bipolar disorder
+WM172	Psychiatry--Mental Disorders. Behavioral Symptoms--Anxiety. Anxiety disorders (General or not elsewhere classified)
+WM172.4	Psychiatry--Mental Disorders. Behavioral Symptoms--Psychological stress
+WM172.5	Psychiatry--Mental Disorders. Behavioral Symptoms--Stress disorders
+WM173	Psychiatry--Mental Disorders. Behavioral Symptoms--Hysteria
+WM173.5	Psychiatry--Mental Disorders. Behavioral Symptoms--Somatoform disorders (General or not elsewhere classified)
+WM173.6	Psychiatry--Mental Disorders. Behavioral Symptoms--Dissociative disorders
+WM173.7	Psychiatry--Mental Disorders. Behavioral Symptoms--Amnesia and other memory disorders
+WM174	Psychiatry--Mental Disorders. Behavioral Symptoms--Neurasthenia. Mental fatigue
+WM175	Psychiatry--Mental Disorders. Behavioral Symptoms--Feeding and eating disorders
+WM176	Psychiatry--Mental Disorders. Behavioral Symptoms--Obsessive-compulsive disorder. Compulsive behavior. Obsessive behavior
+WM178	Psychiatry--Mental Disorders. Behavioral Symptoms--Phobic disorders. Hypochondriasis. Sick role. Factitious disorders
+WM184	Psychiatry--Mental Disorders. Behavioral Symptoms--Combat disorders
+WM188	Psychiatry--Mental Disorders. Behavioral Symptoms--Sleep disorders and associated conditions
+WM190	Psychiatry--Mental Disorders. Behavioral Symptoms--Personality disorders (General or not elsewhere classified)
+WM190.5	Psychiatry--Mental Disorders. Behavioral Symptoms--Special topics, A-Z
+WM190.5.A2	Psychiatry--Mental Disorders. Behavioral Symptoms--Antisocial personality disorder
+WM190.5.B5	Psychiatry--Mental Disorders. Behavioral Symptoms--Borderline personality disorder
+WM190.5.C5	Psychiatry--Mental Disorders. Behavioral Symptoms--Compulsive personality disorder
+WM190.5.D3	Psychiatry--Mental Disorders. Behavioral Symptoms--Dependent personality disorder. Codependency
+WM190.5.P2	Psychiatry--Mental Disorders. Behavioral Symptoms--Paranoid personality disorder
+WM190.5.P3	Psychiatry--Mental Disorders. Behavioral Symptoms--Passive-aggressive personality disorder
+WM190.5.S3	Psychiatry--Mental Disorders. Behavioral Symptoms--Schizoid personality disorder
+WM190.5.S4	Psychiatry--Mental Disorders. Behavioral Symptoms--Schizotypal personality disorder
+WM190.5.S8	Psychiatry--Mental Disorders. Behavioral Symptoms--Stereotyped behavior
+WM192	Psychiatry--Mental Disorders. Behavioral Symptoms--Disruptive, impulse control, and conduct disorders
+WM193	Psychiatry--Mental Disorders. Behavioral Symptoms--Defense mechanisms
+WM193.5	Psychiatry--Mental Disorders. Behavioral Symptoms--Special topics, A-Z
+WM193.5.A2	Psychiatry--Mental Disorders. Behavioral Symptoms--Acting out
+WM193.5.D3	Psychiatry--Mental Disorders. Behavioral Symptoms--Denial (Psychology)
+WM193.5.D5	Psychiatry--Mental Disorders. Behavioral Symptoms--Displacement (Psychology)
+WM193.5.P3	Psychiatry--Mental Disorders. Behavioral Symptoms--Perceptual defense
+WM193.5.P7	Psychiatry--Mental Disorders. Behavioral Symptoms--Projection
+WM193.5.R1	Psychiatry--Mental Disorders. Behavioral Symptoms--Rationalization
+WM193.5.R2	Psychiatry--Mental Disorders. Behavioral Symptoms--Regression
+WM193.5.R4	Psychiatry--Mental Disorders. Behavioral Symptoms--Repression
+WM193.5.S8	Psychiatry--Mental Disorders. Behavioral Symptoms--Sublimation. Fantasy
+WM197	Psychiatry--Mental Disorders. Behavioral Symptoms--Psychomotor disorders (General or not elsewhere classified)
+WM200	Psychiatry--Schizophrenia Spectrum and Other Psychotic Disorders--Psychotic disorders (General or not elsewhere classified)
+WM203	Psychiatry--Schizophrenia Spectrum and Other Psychotic Disorders--Schizophrenia
+WM203.5	Psychiatry--Schizophrenia Spectrum and Other Psychotic Disorders--Pervasive child development disorders
+WM204	Psychiatry--Schizophrenia Spectrum and Other Psychotic Disorders--Neurocognitive disorders. Perceptual disorders
+WM205	Psychiatry--Schizophrenia Spectrum and Other Psychotic Disorders--Paranoid disorders
+WM207	Psychiatry--Schizophrenia Spectrum and Other Psychotic Disorders--Psychotic affective disorders
+WM220	Psychiatry--Schizophrenia Spectrum and Other Psychotic Disorders--Dementia
+WM270	Psychiatry--Substance-related disorders (General or not elsewhere classified)
+WM273	Psychiatry--Substance-Related Disorders and Behaviors--Alcohol drinking
+WM274	Psychiatry--Substance-Related Disorders and Behaviors--Alcohol-related disorders (General or not elsewhere classified)
+WM275	Psychiatry--Substance-Related Disorders and Behaviors--Amphetamine-related disorders
+WM276	Psychiatry--Substance-Related Disorders and Behaviors--Marijuana use. Marijuana abuse
+WM280	Psychiatry--Substance-Related Disorders and Behaviors--Cocaine-related disorders
+WM284	Psychiatry--Substance-Related Disorders and Behaviors--Opioid-related disorders
+WM286	Psychiatry--Substance-Related Disorders and Behaviors--Opium dependence. Morphine dependence
+WM288	Psychiatry--Substance-Related Disorders and Behaviors--Heroin dependence
+WM290	Psychiatry--Substance-Related Disorders and Behaviors--Tobacco use. Tobacco use disorder
+WM295	Psychiatry--Substance-Related Disorders and Behaviors--Smoking (General or not elsewhere classified)
+WM300	Psychiatry--Intellectual disability
+WM302	Psychiatry--Intellectual Disability--Case studies. Biographical accounts
+WM304	Psychiatry--Intellectual Disability--Diagnosis. Evaluation. Prognosis
+WM307	Psychiatry--Intellectual Disability--Special issues, A-Z
+WM307.C6	Psychiatry--Intellectual Disability--Communication
+WM307.M5	Psychiatry--Intellectual Disability--Mental disorders
+WM307.S3	Psychiatry--Intellectual Disability--Sexual behavior
+WM307.S6	Psychiatry--Intellectual Disability--Social problems (General)
+WM308	Psychiatry--Intellectual Disability--Rehabilitation and training (General)
+WM400	Psychiatry--Therapy of mental disorders (General or not elsewhere classified)
+WM401	Psychiatry--Therapies--Emergency psychiatric services. Crisis intervention
+WM402	Psychiatry--Therapies--Drug therapy
+WM405	Psychiatry--Therapies--Physical therapy (General or not elsewhere classified)(<i>e.g., Induced hyperthermia</i>)
+WM410	Psychiatry--Therapies--Convulsive therapy. Insulin shock therapy
+WM412	Psychiatry--Therapies--Electroconvulsive therapy. Electronarcosis
+WM415	Psychiatry--Therapies--Hypnosis
+WM420	Psychiatry--Therapies--Psychotherapy (General or not elsewhere classified)
+WM420.5	Psychiatry--Therapies--Special types, A-Z
+WM420.5.A2	Psychiatry--Therapies--Abreaction. Catharsis
+WM420.5.E3	Psychiatry--Therapies--Emotion-focused therapy
+WM420.5.G3	Psychiatry--Therapies--Gestalt therapy
+WM420.5.I3	Psychiatry--Therapies--Imagery (Psychotherapy)
+WM420.5.N3	Psychiatry--Therapies--Narrative therapy
+WM420.5.N4	Psychiatry--Therapies--Neurolinguistic programming
+WM420.5.N8	Psychiatry--Therapies--Person-centered psychotherapy
+WM420.5.P3	Psychiatry--Therapies--Personal construct therapy
+WM420.5.P5	Psychiatry--Therapies--Psychotherapy, Brief
+WM420.5.P7	Psychiatry--Therapies--Psychotherapy, Multiple
+WM420.5.P75	Psychiatry--Therapies--Psychotherapy, Psychodynamic
+WM420.5.P8	Psychiatry--Therapies--Psychotherapy, Rational-Emotive
+WM425	Psychiatry--Therapies--Behavior therapy
+WM425.5	Psychiatry--Therapies--Special types, A-Z
+WM425.5.A5	Psychiatry--Therapies--Anger management therapy
+WM425.5.A7	Psychiatry--Therapies--Applied behavior analysis
+WM425.5.A9	Psychiatry--Therapies--Aversive therapy
+WM425.5.B6	Psychiatry--Therapies--Biofeedback (Psychology)
+WM425.5.C6	Psychiatry--Therapies--Cognitive behavioral therapy
+WM425.5.D4	Psychiatry--Therapies--Psychologic desensitization. Implosive therapy
+WM425.5.R3	Psychiatry--Therapies--Relaxation therapy
+WM426	Psychiatry--Therapies--Self-help groups
+WM427	Psychiatry--Therapies--Spiritual and religious therapy
+WM428	Psychiatry--Therapies--Socioenvironmental therapy
+WM430	Psychiatry--Therapies--Group psychotherapy
+WM430.5	Psychiatry--Therapies--Special types, A-Z
+WM430.5.F2	Psychiatry--Therapies--Family therapy
+WM430.5.H2	Psychiatry--Therapies--Disabled
+WM430.5.M3	Psychiatry--Therapies--Marital therapy
+WM430.5.P8	Psychiatry--Therapies--Psychodrama
+WM430.5.S3	Psychiatry--Therapies--Sensitivity training groups. Encounter groups
+WM440	Psychiatry--Therapies--Milieu therapy. Therapeutic community
+WM445	Psychiatry--Therapies--Residential treatment (General)
+WM450	Psychiatry--Therapies--Activity therapy. Sensory art therapies
+WM450.5	Psychiatry--Therapies--Special types, A-Z
+WM450.5.A6	Psychiatry--Therapies--Animal assisted therapy
+WM450.5.A8	Psychiatry--Therapies--Art therapy
+WM450.5.B5	Psychiatry--Therapies--Bibliotherapy
+WM450.5.D2	Psychiatry--Therapies--Dance therapy
+WM450.5.M8	Psychiatry--Therapies--Music therapy
+WM450.5.O2	Psychiatry--Therapies--Occupational therapy
+WM450.5.P5	Psychiatry--Therapies--Photography
+WM450.5.P7	Psychiatry--Therapies--Play therapy
+WM450.5.R4	Psychiatry--Therapies--Recreation therapy
+WM450.5.V5	Psychiatry--Therapies--Videotherapy
+WM450.5.V6	Psychiatry--Therapies--Virtual reality exposure therapy
+WM450.5.W9	Psychiatry--Therapies--Writing
+WM460	Psychiatry--Therapies--Psychoanalysis
+WM460.2	Psychiatry--Therapies--Psychoanalytic theory (General or not elsewhere classified)
+WM460.5	Psychiatry--Therapies--Special topics associated with psychoanalysis, psychoanalytic theory, therapy or interpretation, A-Z
+WM460.5.B7	Psychiatry--Therapies--Bonding, Human-Pet
+WM460.5.C5	Psychiatry--Therapies--Communication
+WM460.5.C7	Psychiatry--Therapies--Creativity
+WM460.5.D8	Psychiatry--Therapies--Dreams. Symbolism
+WM460.5.E3	Psychiatry--Therapies--Ego. Self
+WM460.5.E8	Psychiatry--Therapies--Existentialism. Logotherapy
+WM460.5.E9	Psychiatry--Therapies--Extraversion. Introversion
+WM460.5.F8	Psychiatry--Therapies--Free association
+WM460.5.F9	Psychiatry--Therapies--Freudian theory
+WM460.5.I4	Psychiatry--Therapies--Identification
+WM460.5.I5	Psychiatry--Therapies--Individuation
+WM460.5.J9	Psychiatry--Therapies--Jungian theory
+WM460.5.L2	Psychiatry--Therapies--Language
+WM460.5.M5	Psychiatry--Therapies--Memory
+WM460.5.M6	Psychiatry--Therapies--Motivation
+WM460.5.O2	Psychiatry--Therapies--Object attachment
+WM460.5.P3	Psychiatry--Therapies--Personality
+WM460.5.P5	Psychiatry--Therapies--Pleasure-pain principle
+WM460.5.P7	Psychiatry--Therapies--Political systems
+WM460.5.R2	Psychiatry--Therapies--Reinforcement
+WM460.5.R3	Psychiatry--Therapies--Religion. Church
+WM460.5.S3	Psychiatry--Therapies--Sex
+WM460.5.S8	Psychiatry--Therapies--Superego. Morals
+WM460.5.T7	Psychiatry--Therapies--Transactional analysis
+WM460.5.U6	Psychiatry--Therapies--Unconscious. Id
+WM460.5.W6	Psychiatry--Therapies--Women
+WM460.6	Psychiatry--Therapies--Psychoanalytic therapy
+WM460.7	Psychiatry--Therapies--Psychoanalytic interpretation
+WM475	Psychiatry--Other Disorders--Communication disorders. Speech-language pathology
+WM475.3	Psychiatry--Other Disorders--Speech therapy. Language therapy
+WM475.5	Psychiatry--Other Disorders--Aphasia
+WM475.6	Psychiatry--Other Disorders--Dyslexia
+WM475.7	Psychiatry--Other Disorders--Stuttering
+WM600	Psychiatry--Other Disorders--Aggression. Violence
+WM605	Psychiatry--Other Disorders--Criminal psychology and psychiatry
+WM607	Psychiatry--Sexual Dysfunctions--Incest
+WM610	Psychiatry--Sexual Dysfunctions--Paraphilic disorders
+WM611	Psychiatry--Sexual Dysfunctions--Psychological sexual dysfunctions (General or not elsewhere classified)
+WM617	Psychiatry--Gender identity. Transsexualism. Transgender persons
+WM620	Psychiatry--Sexuality. Sexual behavior (General or not elsewhere classified)
+WM620.5	Psychiatry--Specific topics, A-Z
+WM620.5.B5	Psychiatry--Bisexuality. Bisexual persons
+WM620.5.H4	Psychiatry--Heterosexuality. Heterosexual persons
+WM620.5.H6	Psychiatry--Homosexuality. Homosexual persons
+WN1	Radiology. Diagnostic Imaging--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WN5	Radiology. Diagnostic Imaging--General works--By several authors
+WN7	Radiology. Diagnostic Imaging--General works--By individual authors
+WN9	Radiology. Diagnostic Imaging--Addresses. Essays. Lectures
+WN11	Radiology. Diagnostic Imaging--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WN11.1	Radiology. Diagnostic Imaging--General coverage(Not Table G)
+WN13	Radiology. Diagnostic Imaging--Dictionaries. Encyclopedias
+WN15	Radiology. Diagnostic Imaging--Classification. Terminology
+WN16	Radiology. Diagnostic Imaging--Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WN16.1	Radiology. Diagnostic Imaging--General coverage(Not Table G)
+WN17	Radiology. Diagnostic Imaging--Atlases. Pictorial works
+WN18	Radiology. Diagnostic Imaging--Education
+WN18.2	Radiology. Diagnostic Imaging--Educational materials
+WN19	Radiology. Diagnostic Imaging--Schools, departments, and faculties of radiology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WN19.1	Radiology. Diagnostic Imaging--General coverage(Not Table G)
+WN20	Radiology. Diagnostic Imaging--Research (General)
+WN21	Radiology. Diagnostic Imaging--Radiology as a profession. Ethics. Peer review
+WN21.5	Radiology. Diagnostic Imaging--Allied health personnel. Allied health occupations
+WN22	Radiology. Diagnostic Imaging--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WN22.1	Radiology. Diagnostic Imaging--General coverage(Not Table G)
+WN23	Radiology. Diagnostic Imaging--Collective
+WN24	Radiology. Diagnostic Imaging--Individual(Cutter from name of institution)
+WN25	Radiology. Diagnostic Imaging--Laboratory manuals. Technique
+WN26.5	Radiology. Diagnostic Imaging--Informatics. Electronic data processing. Computers (General)
+WN27	Radiology. Diagnostic Imaging--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WN27.1	Radiology. Diagnostic Imaging--General coverage(Not Table G)
+WN28	Radiology. Diagnostic Imaging--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WN28.5	Radiology. Diagnostic Imaging--Collective
+WN28.6	Radiology. Diagnostic Imaging--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WN32	Radiology. Diagnostic Imaging--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WN32.1	Radiology. Diagnostic Imaging--General coverage(Not Table G)
+WN33	Radiology. Diagnostic Imaging--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WN33.1	Radiology. Diagnostic Imaging--General coverage(Not Table G)
+WN39	Radiology. Diagnostic Imaging--Handbooks. Resource guides
+WN100	Radiology. Diagnostic Imaging--Radiation (General or not elsewhere classified)
+WN105	Radiology. Diagnostic Imaging--Ionizing radiation
+WN110	Radiology. Diagnostic Imaging--Health physics
+WN150	Radiology. Diagnostic Imaging--Equipment and supplies
+WN160	Radiology. Diagnostic Imaging--Technology. Contrast media (General or not elsewhere classified)
+WN180	Radiology. Diagnostic Imaging--Diagnostic imaging (General or not elsewhere classified)
+WN182	Radiology. Diagnostic Imaging--Computer-assisted image interpretation
+WN185	Radiology. Diagnostic Imaging--Magnetic resonance imaging
+WN190	Radiology. Diagnostic Imaging--Molecular imaging
+WN195	Radiology. Diagnostic Imaging--Optical imaging
+WN200	Radiology. Diagnostic Imaging--Radiography (General or not elsewhere classified)
+WN202	Radiology. Diagnostic Imaging--Interventional radiography
+WN203	Radiology. Diagnostic Imaging--Radionuclide imaging
+WN205	Radiology. Diagnostic Imaging--Thermography
+WN206	Radiology. Diagnostic Imaging--Tomography
+WN208	Radiology. Diagnostic Imaging--Ultrasonography
+WN210	Radiology. Diagnostic Imaging--Foreign body imaging
+WN220	Radiology. Diagnostic Imaging--Fluoroscopy
+WN230	Radiology. Diagnostic Imaging--Dental diagnostic imaging (General or not elsewhere classified)
+WN240	Radiology. Diagnostic Imaging--Pediatric diagnostic imaging (General or not elsewhere classified)
+WN250	Radiology. Diagnostic Imaging--Radiotherapy--General works
+WN250.5	Radiology. Diagnostic Imaging--Radiotherapy--Special types, A-Z
+WN250.5.B7	Radiology. Diagnostic Imaging--Radiotherapy--Brachytherapy
+WN250.5.H4	Radiology. Diagnostic Imaging--Radiotherapy--Heavy ion radiotherapy
+WN250.5.P7	Radiology. Diagnostic Imaging--Radiotherapy--Proton therapy
+WN250.5.R15	Radiology. Diagnostic Imaging--Radiotherapy--Radiosurgery
+WN250.5.R2	Radiology. Diagnostic Imaging--Radiotherapy--Radiotherapy, Computer-assisted
+WN250.5.R3	Radiology. Diagnostic Imaging--Radiotherapy--Radiotherapy, High-energy
+WN250.5.X7	Radiology. Diagnostic Imaging--Radiotherapy--X-ray therapy
+WN250.6	Radiology. Diagnostic Imaging--Radiotherapy--Radiotherapy dosage
+WN440	Radiology. Diagnostic Imaging--Nuclear medicine
+WN445	Radiology. Diagnostic Imaging--Nuclear Medicine--Diagnostic methods
+WN450	Radiology. Diagnostic Imaging--Nuclear Medicine--Therapeutics
+WN600	Radiology. Diagnostic Imaging--Radiologic health (General or not elsewhere classified)
+WN610	Radiology. Diagnostic Imaging--Radiologic Health--Radiation injuries
+WN612	Radiology. Diagnostic Imaging--Radiologic Health--Radioactive food contamination
+WN615	Radiology. Diagnostic Imaging--Radiologic Health--Radioactive pollution and pollutants (General)
+WN620	Radiology. Diagnostic Imaging--Radiologic Health--Experimental radiation injuries
+WN650	Radiology. Diagnostic Imaging--Radiologic Health--Radiation protection
+WN660	Radiology. Diagnostic Imaging--Radiologic Health--Radiometry
+WN665	Radiology. Diagnostic Imaging--Radiologic Health--Radiation dosage
+WO1	Surgery--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WO5	Surgery--By authors
+WO7	Surgery--General works--By individual authors
+WO9	Surgery--Addresses. Essays. Lectures
+WO11	Surgery--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WO11.1	Surgery--General coverage(Not Table G)
+WO13	Surgery--Dictionaries. Encyclopedias
+WO15	Surgery--Classification. Terminology
+WO16	Surgery--Tables. Statistics. Case reports (General). Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WO16.1	Surgery--General coverage(Not Table G)
+WO18	Surgery--Education
+WO18.2	Surgery--Educational materials
+WO19	Surgery--Schools, departments, and faculties of surgery(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WO19.1	Surgery--General coverage(Not Table G)
+WO20	Surgery--Research (General)
+WO21	Surgery--Surgery as a profession. Ethics. Peer review
+WO21.5	Surgery--Allied health personnel. Allied health occupations
+WO22	Surgery--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WO22.1	Surgery--General coverage(Not Table G)
+WO23	Surgery--Collective
+WO24	Surgery--Individual(Cutter from name of institution)
+WO27	Surgery--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WO27.1	Surgery--General coverage(Not Table G)
+WO28	Surgery--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WO28.5	Surgery--Collective
+WO28.6	Surgery--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WO32	Surgery--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WO32.1	Surgery--General coverage(Not Table G)
+WO33	Surgery--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WO33.1	Surgery--General coverage(Not Table G)
+WO39	Surgery--Handbooks. Resource guides
+WO50	Surgery--Experimental surgery (General)
+WO62	Surgery--Interpersonal relations of the surgeon and anesthesiologist (including relations with patients and other professionals). Attitude
+WO64	Surgery--Referral and consultation (General)
+WO100	Surgery--General works
+WO101	Surgery--Surgical anatomy
+WO102	Surgery--Physiology
+WO113	Surgery--Antisepsis. Diseases. Diagnosis. Shock--Antisepsis. Sterilization. Asepsis
+WO140	Surgery--Antisepsis. Diseases. Diagnosis. Shock--Surgical diseases (General)
+WO141	Surgery--Antisepsis. Diseases. Diagnosis. Shock--Surgical examination. Surgical diagnosis. Exploratory surgery
+WO142	Surgery--Antisepsis. Diseases. Diagnosis. Shock--Surgical pathology
+WO149	Surgery--Antisepsis. Diseases. Diagnosis. Shock--Surgical shock
+WO162	Surgery--Surgical Equipment. Artificial Organs--Surgical equipment, instruments and other supplies
+WO166	Surgery--Surgical Equipment. Artificial Organs--Sutures. Ligatures. Tissue adhesives
+WO167	Surgery--Surgical Equipment. Artificial Organs--Surgical dressing. Bandaging technique. Adhesive plaster
+WO170	Surgery--Surgical Equipment. Artificial Organs--Surgical casts
+WO176	Surgery--Surgical Equipment. Artificial Organs--Artificial organs
+WO178	Surgery--Principles of Care. Procedures--Principles of surgical care. Perioperative care
+WO179	Surgery--Principles of Care. Procedures--Preoperative care
+WO181	Surgery--Principles of Care. Procedures--Intraoperative care
+WO183	Surgery--Principles of Care. Procedures--Postoperative care
+WO184	Surgery--Principles of Care. Procedures--Postoperative complications and treatment
+WO185	Surgery--Principles of Care. Procedures--Surgical wounds. Surgical wound infection. Wound healing (including healing of non-surgical wounds)
+WO188	Surgery--Principles of Care. Procedures--Closure of wounds. Drainage
+WO192	Surgery--Principles of Care. Procedures--Minor surgery. Ambulatory surgery (General)
+WO198	Surgery--Principles of Care. Procedures--Electrosurgery. Cautery. Laser and electrocoagulation (General)
+WO200	Surgery--Surgical anesthesia. Analgesia (General)
+WO201	Surgery--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WO205	Surgery--General works--By several authors
+WO207	Surgery--General works--By individual authors
+WO209	Surgery--Addresses. Essays. Lectures
+WO211	Surgery--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WO211.1	Surgery--General coverage(Not Table G)
+WO213	Surgery--Dictionaries. Encyclopedias
+WO215	Surgery--Classification. Terminology
+WO218	Surgery--Education
+WO218.2	Surgery--Educational materials
+WO219	Surgery--Schools, departments, and faculties of anesthesiology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WO219.1	Surgery--General coverage(Not Table G)
+WO220	Surgery--Research (General)
+WO221	Surgery--Anesthesiology as a profession. Ethics. Peer review
+WO222	Surgery--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WO222.1	Surgery--General coverage(Not Table G)
+WO231	Surgery--Handbooks. Resource guides
+WO232	Surgery--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WO232.1	Surgery--General coverage(Not Table G)
+WO233	Surgery--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WO233.1	Surgery--General coverage(Not Table G)
+WO234	Surgery--Preanesthetic Treatment. Equipment. Accidents--Preanesthetic medication. Preparation of patient
+WO235	Surgery--Preanesthetic Treatment. Equipment. Accidents--Choice of anesthesia
+WO240	Surgery--Preanesthetic Treatment. Equipment. Accidents--Equipment and supplies
+WO245	Surgery--Preanesthetic Treatment. Equipment. Accidents--Accidents. Complications(<i>e.g., Laryngospasm. Cardiac failure. Vomiting</i>)
+WO250	Surgery--Preanesthetic Treatment. Equipment. Accidents--Asphyxia. Methods of resuscitation
+WO275	Surgery--General anesthesia
+WO277	Surgery--General Anesthesia--Inhalation anesthesia
+WO280	Surgery--General Anesthesia--Endotracheal anesthesia. Technique of intubation
+WO285	Surgery--General Anesthesia--Intravenous
+WO290	Surgery--General Anesthesia--Rectal
+WO297	Surgery--General Anesthesia--Muscle relaxants and tranquilizing agents in conjunction with anesthesia and analgesia
+WO300	Surgery--Conduction Anesthesia. Hypothermia. Diagnosis. Therapeutics--Conduction anesthesia(<i>e.g., Regional anesthesia or local anesthesia</i>)
+WO305	Surgery--Conduction Anesthesia. Hypothermia. Diagnosis. Therapeutics--Spinal. Epidural
+WO340	Surgery--Conduction Anesthesia. Hypothermia. Diagnosis. Therapeutics--Infiltration and topical
+WO350	Surgery--Conduction Anesthesia. Hypothermia. Diagnosis. Therapeutics--Induced hypothermia and related topics
+WO375	Surgery--Conduction Anesthesia. Hypothermia. Diagnosis. Therapeutics--Diagnostic and therapeutic anesthetic procedures(<i>e.g., Nerve block</i>)
+WO440	Surgery--Pediatric anesthesia
+WO445	Surgery--Geriatric anesthesia
+WO450	Surgery--Obstetrical anesthesia
+WO460	Surgery--Anesthesia in dentistry. Dental hypnosis
+WO500	Surgery--Operative Surgical Procedures. Techniques--General works on surgical procedures
+WO505	Surgery--Operative Surgical Procedures. Techniques--Endoscopic surgery. Computer-assisted surgery
+WO510	Surgery--Operative Surgical Procedures. Techniques--Cryosurgery
+WO511	Surgery--Operative Surgical Procedures. Techniques--Laser therapy
+WO512	Surgery--Operative Surgical Procedures. Techniques--Microsurgery
+WO515	Surgery--Operative Surgical Procedures. Techniques--Regenerative medicine
+WO517	Surgery--Operative Surgical Procedures. Techniques--Atlases. Pictorial works
+WO600	Surgery--Plastic Surgery. Reconstructive Surgical Procedures--General works
+WO610	Surgery--Plastic Surgery. Reconstructive Surgical Procedures--Skin transplantation, tube grafts, etc.
+WO620	Surgery--Plastic Surgery. Reconstructive Surgical Procedures--Sex reassignment surgery
+WO640	Surgery--Plastic Surgery. Reconstructive Surgical Procedures--Prosthesis in plastic surgery
+WO660	Surgery--Transplantation--General works
+WO665	Surgery--Transplantation--Tissue preservation
+WO680	Surgery--Transplantation--Immunology
+WO690	Surgery--Transplantation--Legal, ethical, and religious aspects
+WO700	Surgery--Traumatic Injuries--General works
+WO704	Surgery--Traumatic Injuries--Burns
+WO800	Surgery--Traumatic Injuries--Military surgery
+WO807	Surgery--Traumatic Injuries--Gunshot wounds
+WO820	Surgery--Traumatic Injuries--Blast injuries
+WO925	Surgery--Pediatric surgery (General or not elsewhere classified)
+WO950	Surgery--Geriatric surgery
+WP1	Gynecology--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WP5	Gynecology--General works--By several authors
+WP7	Gynecology--General works--By individual authors
+WP9	Gynecology--Addresses. Essays. Lectures
+WP11	Gynecology--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WP11.1	Gynecology--General coverage(Not Table G)
+WP13	Gynecology--Dictionaries. Encyclopedias
+WP15	Gynecology--Classification. Terminology
+WP16	Gynecology--Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WP16.1	Gynecology--General coverage(Not Table G)
+WP17	Gynecology--Atlases. Pictorial works
+WP18	Gynecology--Education
+WP18.2	Gynecology--Educational materials
+WP19	Gynecology--Schools, departments, and faculties of gynecology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WP19.1	Gynecology--General coverage(Not Table G)
+WP20	Gynecology--Research (General)
+WP21	Gynecology--Gynecology as a profession. Ethics. Peer review
+WP22	Gynecology--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WP22.1	Gynecology--General coverage(Not Table G)
+WP23	Gynecology--Collective
+WP24	Gynecology--Individual(Cutter from name of institution)
+WP25	Gynecology--Laboratory manuals. Technique
+WP26	Gynecology--Equipment and supplies
+WP26.5	Gynecology--Informatics. Electronic data processing. Computers (General)
+WP27	Gynecology--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WP27.1	Gynecology--General coverage(Not Table G)
+WP28	Gynecology--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WP28.5	Gynecology--Collective
+WP28.6	Gynecology--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WP32	Gynecology--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WP32.1	Gynecology--General coverage(Not Table G)
+WP33	Gynecology--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WP33.1	Gynecology--General coverage(Not Table G)
+WP34	Gynecology--Malpractice(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WP34.1	Gynecology--General coverage(Not Table G)
+WP39	Gynecology--Handbooks. Resource guides
+WP100	Gynecology--General works
+WP101	Gynecology--Anatomy. Diseases. Injuries--Anatomy. Histology. Embryology
+WP120	Gynecology--Anatomy. Diseases. Injuries--Popular works (General)
+WP140	Gynecology--Anatomy. Diseases. Injuries--Diseases (General)
+WP141	Gynecology--Anatomy. Diseases. Injuries--Examination. Diagnosis. Diagnostic methods. Monitoring
+WP145	Gynecology--Anatomy. Diseases. Injuries--Neoplasms
+WP150	Gynecology--Anatomy. Diseases. Injuries--Congenital abnormalities
+WP155	Gynecology--Anatomy. Diseases. Injuries--Pelvis. Pelvic infection
+WP157	Gynecology--Anatomy. Diseases. Injuries--Gonorrhea in the female
+WP160	Gynecology--Anatomy. Diseases. Injuries--Genital tuberculosis
+WP170	Gynecology--Anatomy. Diseases. Injuries--Perineal injuries
+WP180	Gynecology--Anatomy. Diseases. Injuries--Rectovaginal fistula. Vesicovaginal fistula
+WP200	Gynecology--Anatomy. Diseases. Injuries--Vulva
+WP250	Gynecology--Anatomy. Diseases. Injuries--Vagina
+WP255	Gynecology--Anatomy. Diseases. Injuries--Vaginitis. Leukorrhea
+WP258	Gynecology--Anatomy. Diseases. Injuries--Trichomonas vaginitis
+WP275	Gynecology--Anatomy. Diseases. Injuries--Ovary. Fallopian tubes. Broad ligament. Round ligament
+WP300	Gynecology--Anatomy. Diseases. Injuries--Fallopian tubes
+WP320	Gynecology--Anatomy. Diseases. Injuries--Ovary
+WP322	Gynecology--Anatomy. Diseases. Injuries--Neoplasms
+WP390	Gynecology--Anatomy. Diseases. Injuries--Endometriosis
+WP400	Gynecology--Uterus. Cervix--General works
+WP440	Gynecology--Uterus. Cervix--Uterine diseases (General)
+WP451	Gynecology--Uterus. Cervix--Uterine Diseases--Inflammations
+WP454	Gynecology--Uterus. Cervix--Uterine Diseases--Displacements. Prolapse
+WP458	Gynecology--Uterus. Cervix--Uterine Diseases--Neoplasms
+WP459	Gynecology--Uterus. Cervix--Uterine Diseases--Leiomyoma
+WP460	Gynecology--Uterus. Cervix--Uterine Diseases--Carcinoma. Sarcoma
+WP465	Gynecology--Uterus. Cervix--Uterine Diseases--Trophoblastic neoplasms(<i>e.g., Chorioadenoma. Hydatidiform mole</i>)
+WP468	Gynecology--Uterus. Cervix--Uterine Diseases--Surgery (General)
+WP470	Gynecology--Uterus. Cervix--Cervix Uteri. Cervix Diseases--Cervix uteri
+WP475	Gynecology--Uterus. Cervix--Cervix Uteri. Cervix Diseases--Cervicitis
+WP480	Gynecology--Uterus. Cervix--Cervix Uteri. Cervix Diseases--Neoplasms
+WP505	Gynecology--Physiology (General)
+WP520	Gynecology--Physiology--Endocrine functions of the ovaries
+WP522	Gynecology--Physiology--Estrogenic hormones and antagonists
+WP530	Gynecology--Physiology--Corpus luteum hormones and related compounds
+WP540	Gynecology--Physiology--Ovulation. Ovarian function. Menstrual cycle
+WP550	Gynecology--Physiology--Menstruation and its disorders
+WP552	Gynecology--Physiology--Amenorrhea. Hypomenorrhea. Oligomenorrhea
+WP555	Gynecology--Physiology--Menorrhagia. Metrorrhagia
+WP560	Gynecology--Physiology--Dysmenorrhea. Premenstrual syndrome
+WP565	Gynecology--Fertility
+WP570	Gynecology--Infertility (General). Infertility in the female
+WP580	Gynecology--Menopause
+WP610	Gynecology--Female sexual dysfunction(<i>e.g., Dyspareunia. Frigidity</i>)
+WP630	Gynecology--Contraception
+WP640	Gynecology--Contraceptive devices (General and female)
+WP650	Gynecology--Gynecological therapy
+WP660	Gynecology--Gynecological surgery
+WP800	Gynecology--Breast--General works
+WP815	Gynecology--Breast--Examination. Diagnosis. Diagnostic methods. Monitoring
+WP825	Gynecology--Breast--Functional changes(<i>e.g., In pregnancy and lactation</i>)
+WP840	Gynecology--Breast--Breast diseases
+WP870	Gynecology--Breast--Neoplasms
+WP900	Gynecology--Breast--Therapy
+WP910	Gynecology--Breast--Surgery
+WQ1	Obstetrics--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WQ5	Obstetrics--General works--By several authors
+WQ7	Obstetrics--General works--By individual authors
+WQ9	Obstetrics--Addresses. Essays. Lectures
+WQ11	Obstetrics--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WQ11.1	Obstetrics--General coverage(Not Table G)
+WQ13	Obstetrics--Dictionaries. Encyclopedias
+WQ15	Obstetrics--Classification. Terminology
+WQ16	Obstetrics--Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WQ16.1	Obstetrics--General coverage(Not Table G)
+WQ17	Obstetrics--Atlases. Pictorial works
+WQ18	Obstetrics--Education
+WQ18.2	Obstetrics--Educational materials
+WQ19	Obstetrics--Schools, departments, and faculties of obstetrics(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WQ19.1	Obstetrics--General coverage(Not Table G)
+WQ20	Obstetrics--Research (General)
+WQ21	Obstetrics--Obstetrics as a profession. Ethics. Peer review
+WQ22	Obstetrics--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WQ22.1	Obstetrics--General coverage(Not Table G)
+WQ23	Obstetrics--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WQ23.1	Obstetrics--General coverage(Not Table G)
+WQ24	Obstetrics--Individual(Cutter from name of clinic)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WQ25	Obstetrics--Laboratory manuals. Technique
+WQ26	Obstetrics--Equipment and supplies
+WQ26.5	Obstetrics--Informatics. Electronic data processing. Computers (General)
+WQ27	Obstetrics--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WQ27.1	Obstetrics--General coverage(Not Table G)
+WQ28	Obstetrics--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WQ28.5	Obstetrics--Collective
+WQ28.6	Obstetrics--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WQ32	Obstetrics--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WQ32.1	Obstetrics--General coverage(Not Table G)
+WQ33	Obstetrics--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WQ33.1	Obstetrics--General coverage(Not Table G)
+WQ34	Obstetrics--Malpractice(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WQ34.1	Obstetrics--General coverage(Not Table G)
+WQ39	Obstetrics--Handbooks. Resource guides
+WQ90	Obstetrics--Reproductive health surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WQ90.1	Obstetrics--General coverage(Not Table G)
+WQ100	Obstetrics--General works
+WQ105	Obstetrics--Maternal health
+WQ150	Obstetrics--Popular works on pregnancy and childbirth
+WQ152	Obstetrics--Childbirth. Prenatal Care-Natural childbirth
+WQ155	Obstetrics--Childbirth. Prenatal Care-Home childbirth
+WQ160	Obstetrics--Childbirth. Prenatal Care-Midwifery
+WQ165	Obstetrics--Childbirth. Prenatal Care-Manuals for midwives. Handbooks
+WQ175	Obstetrics--Childbirth. Prenatal Care-Prenatal care. Prenatal education for the health professional
+WQ200	Obstetrics--General works(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WQ200.1	Obstetrics--Reproduction. Pregnancy--General coverage(Not Table G)
+WQ202	Obstetrics--Reproduction. Pregnancy--Pregnancy determination
+WQ203	Obstetrics--Reproduction. Pregnancy--Preimplantation diagnosis
+WQ205	Obstetrics--Reproduction. Pregnancy--Fertilization. Development of ovum. General physiology of reproduction
+WQ206	Obstetrics--Reproduction. Pregnancy--Sex determination analysis
+WQ208	Obstetrics--Reproduction. Pregnancy--Reproductive techniques(<i>e.g., Artificial insemination. Embryo transfer. Fertilization in vitro</i>)
+WQ209	Obstetrics--Reproduction. Pregnancy--Prenatal diagnosis. Fetal monitoring
+WQ210	Obstetrics--Reproduction. Pregnancy--Fetus. Extraembryonic membranes. Umbilical cord. Perinatology (General)
+WQ210.5	Obstetrics--Reproduction. Pregnancy--Fetal anatomy, physiology, and biochemistry
+WQ211	Obstetrics--Reproduction. Pregnancy--Fetal diseases (General or not elsewhere classified)
+WQ212	Obstetrics--Reproduction. Pregnancy--Placenta
+WQ215	Obstetrics--Pregnancy Complications--Toxemias(<i>e.g., Eclampsia</i>)
+WQ220	Obstetrics--Pregnancy Complications--Ectopic pregnancy
+WQ225	Obstetrics--Pregnancy Complications--Spontaneous abortion. Fetal death. Perinatal death
+WQ235	Obstetrics--Pregnancy Complications--Multiple pregnancy
+WQ240	Obstetrics--Pregnancy Complications--Pregnancy complications (General or not elsewhere classified)
+WQ244	Obstetrics--Pregnancy Complications--Cardiovascular complications
+WQ248	Obstetrics--Pregnancy Complications--Diabetes
+WQ252	Obstetrics--Pregnancy Complications--Hematologic complications
+WQ256	Obstetrics--Pregnancy Complications--Infectious diseases
+WQ260	Obstetrics--Pregnancy Complications--Urologic complications
+WQ270	Obstetrics--Pregnancy Complications--Maternal death
+WQ300	Obstetrics--Labor--General works
+WQ305	Obstetrics--Labor--Physiology. Clinical course
+WQ307	Obstetrics--Labor--Presentation
+WQ310	Obstetrics--Labor--Dystocia
+WQ320	Obstetrics--Labor--Disproportions of the pelvis
+WQ330	Obstetrics--Labor--Complications of labor(<i>e.g., Postpartum hemorrhage</i>)
+WQ400	Obstetrics--Obstetric Surgical Procedures--General works
+WQ415	Obstetrics--Obstetric Surgical Procedures--Delivery (including preparatory manipulation)
+WQ425	Obstetrics--Obstetric Surgical Procedures--Use of forceps
+WQ430	Obstetrics--Obstetric Surgical Procedures--Cesarean section. Symphysiotomy and similar techniques
+WQ440	Obstetrics--Obstetric Surgical Procedures--Induction of labor. Therapeutic abortion. Techniques of induced abortion
+WQ450	Obstetrics--Obstetric Surgical Procedures--Resuscitation of the newborn
+WQ500	Obstetrics--Postpartum Period--General works. Postnatal care
+WQ505	Obstetrics--Postpartum Period--Puerperal infection
+WR1	Dermatology--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WR5	Dermatology--General works--By several authors
+WR7	Dermatology--General works--By individual authors
+WR9	Dermatology--Addresses. Essays. Lectures
+WR11	Dermatology--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WR11.1	Dermatology--General coverage(Not Table G)
+WR13	Dermatology--Dictionaries. Encyclopedias
+WR15	Dermatology--Classification. Terminology
+WR16	Dermatology--Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WR16.1	Dermatology--General coverage(Not Table G)
+WR17	Dermatology--Atlases. Pictorial works
+WR18	Dermatology--Education
+WR18.2	Dermatology--Educational materials
+WR19	Dermatology--Schools, departments, and faculties of dermatology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WR19.1	Dermatology--General coverage(Not Table G)
+WR20	Dermatology--Research (General)
+WR21	Dermatology--Dermatology as a profession. Ethics. Peer review
+WR22	Dermatology--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WR22.1	Dermatology--General coverage(Not Table G)
+WR23	Dermatology--Collective
+WR24	Dermatology--Individual(Cutter from name of institution)
+WR25	Dermatology--Laboratory manuals. Technique
+WR26	Dermatology--Equipment and supplies
+WR26.5	Dermatology--Informatics. Electronic data processing. Computers (General)
+WR27	Dermatology--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WR27.1	Dermatology--General coverage(Not Table G)
+WR28	Dermatology--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WR28.5	Dermatology--Collective
+WR28.6	Dermatology--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WR32	Dermatology--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WR32.1	Dermatology--General coverage(Not Table G)
+WR33	Dermatology--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WR33.1	Dermatology--General coverage(Not Table G)
+WR39	Dermatology--Handbooks. Resource guides
+WR100	Dermatology--General works
+WR101	Dermatology--Anatomy. Histology. Embryology
+WR102	Dermatology--Physiology. Chemistry and metabolism of the skin. Sensory functions. Skin temperature
+WR105	Dermatology--Pathology
+WR140	Dermatology--Skin diseases (General)
+WR141	Dermatology--Skin Diseases--Examination. Diagnosis. Diagnostic methods. Monitoring
+WR143	Dermatology--Skin Diseases--Skin manifestations
+WR150	Dermatology--Skin Diseases--Erythemas(<i>e.g., E. multiforme. E. nodosum</i>)
+WR152	Dermatology--Skin Diseases--Cutaneous lupus erythematosus
+WR160	Dermatology--Skin Diseases--Diseases associated with hypersensitivity. Dermatitis
+WR165	Dermatology--Skin Diseases--Drug eruptions
+WR170	Dermatology--Skin Diseases--Urticaria. Angioedema
+WR175	Dermatology--Skin Diseases--Contact dermatitis
+WR180	Dermatology--Skin Diseases--Dermatitis exfoliativa
+WR190	Dermatology--Skin Diseases--Eczema
+WR200	Dermatology--Skin Diseases--Vesiculobullous skin diseases
+WR204	Dermatology--Skin Diseases--Papulosquamous dermatoses
+WR205	Dermatology--Skin Diseases--Psoriasis
+WR215	Dermatology--Skin Diseases--Lichen planus
+WR218	Dermatology--Skin Diseases--Genetic skin diseases (General or not elsewhere classified)
+WR220	Dermatology--Skin Diseases--Infectious skin diseases (General, bacterial, or not elsewhere classified)
+WR225	Dermatology--Skin Diseases--Impetigo. Ecthyma
+WR235	Dermatology--Skin Diseases--Furunculosis. Carbuncle
+WR245	Dermatology--Skin Diseases--Cutaneous tuberculosis(<i>e.g., Lupus</i>)
+WR260	Dermatology--Skin Diseases--Scleroderma
+WR265	Dermatology--Skin Diseases--Pigmentation disorders(<i>e.g., Lentigo. Vitiligo</i>)
+WR267	Dermatology--Skin Diseases--Of metabolic origin(<i>e.g., Hemochromatosis. Albinism</i>)
+WR280	Dermatology--Skin Diseases--Neurodermatitis and related sensory disorders
+WR282	Dermatology--Skin Diseases--Pruritus. Prurigo
+WR300	Dermatology--Skin Diseases--Dermatomycoses
+WR310	Dermatology--Skin Diseases--Tinea. Tinea pedis
+WR330	Dermatology--Skin Diseases--Tinea capitis
+WR340	Dermatology--Skin Diseases--Mycetoma
+WR345	Dermatology--Parasitic skin diseases (General or not elsewhere classified)
+WR350	Dermatology--Parasitic Skin Diseases--Tropical diseases of the skin (General or not elsewhere classified)(<i>e.g., Leishmaniasis</i>)
+WR360	Dermatology--Parasitic Skin Diseases--Skin diseases caused by arthropods (General or not elsewhere classified)
+WR365	Dermatology--Parasitic Skin Diseases--Scabies
+WR375	Dermatology--Parasitic Skin Diseases--Lice infestations
+WR390	Dermatology--Skin appendages
+WR400	Dermatology--Skin Appendages--Sweat glands. Disorders of the sweat glands
+WR410	Dermatology--Skin Appendages--Sebaceous glands. Disorders of the sebaceous glands
+WR415	Dermatology--Skin Appendages--Seborrhea
+WR420	Dermatology--Skin Appendages--Epidermal cyst
+WR430	Dermatology--Skin Appendages--Acne. Acneform lesions
+WR450	Dermatology--Skin Appendages--Hair. Scalp. Diseases of the hair and scalp
+WR455	Dermatology--Skin Appendages--Hypertrichosis
+WR460	Dermatology--Skin Appendages--Alopecia
+WR465	Dermatology--Skin Appendages--Care of the hair
+WR475	Dermatology--Skin Appendages--Nails. Diseases of the nails
+WR500	Dermatology--Neoplasms. Keratosis (General or not elsewhere classified)
+WR598	Dermatology--Decubitus ulcer and other skin ulcers
+WR600	Dermatology--Occupational dermatitis
+WR650	Dermatology--Therapy (General or not elsewhere classified)
+WR660	Dermatology--Radiotherapy
+WR670	Dermatology--Surgery
+WS1	Pediatrics--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WS5	Pediatrics--General works--By several authors
+WS7	Pediatrics--General works--By individual authors
+WS9	Pediatrics--Addresses. Essays. Lectures
+WS11	Pediatrics--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WS11.1	Pediatrics--General coverage(Not Table G)
+WS13	Pediatrics--Dictionaries. Encyclopedias
+WS15	Pediatrics--Classification. Terminology
+WS16	Pediatrics--Growth tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WS16.1	Pediatrics--General coverage(Not Table G)
+WS17	Pediatrics--Atlases. Pictorial works
+WS18	Pediatrics--Education
+WS18.2	Pediatrics--Educational materials
+WS19	Pediatrics--Schools, departments, and faculties of pediatrics(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WS19.1	Pediatrics--General coverage(Not Table G)
+WS20	Pediatrics--Research (General)
+WS21	Pediatrics--Pediatrics as a profession. Ethics. Peer review
+WS22	Pediatrics--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WS22.1	Pediatrics--General coverage(Not Table G)
+WS23	Pediatrics--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WS23.1	Pediatrics--General coverage(Not Table G)
+WS24	Pediatrics--Individual(Cutter from name of institution)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WS25	Pediatrics--Laboratory manuals. Technique
+WS26	Pediatrics--Equipment and supplies(<i>e.g., Eating utensils for spastic children</i>)
+WS26.5	Pediatrics--Informatics. Electronic data processing. Computers (General)
+WS27	Pediatrics--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WS27.1	Pediatrics--General coverage(Not Table G)
+WS28	Pediatrics--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WS28.5	Pediatrics--Collective
+WS28.6	Pediatrics--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WS29	Pediatrics--Hospital staff manuals
+WS32	Pediatrics--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WS32.1	Pediatrics--General coverage(Not Table G)
+WS33	Pediatrics--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WS33.1	Pediatrics--General coverage(Not Table G)
+WS39	Pediatrics--Handbooks. Resource guides
+WS80	Pediatrics--Popular works (General)
+WS100	Pediatrics--General works
+WS103	Pediatrics--Normal physical growth and development
+WS104	Pediatrics--Growth disorders. Failure to thrive
+WS105	Pediatrics--Normal mental growth and development. Child psychology
+WS105.5	Pediatrics--Special topics, A-Z
+WS105.5.A8	Pediatrics--Attitudes and adjustments to life change events (death, illness, divorce, etc.)
+WS105.5.C3	Pediatrics--Child rearing. Parenting
+WS105.5.C7	Pediatrics--Cognition. Fantasy. Imagination
+WS105.5.C8	Pediatrics--Communication. Verbal behavior
+WS105.5.D2	Pediatrics--Decision making. Logic. Thinking. Concept formation. Perception (Psychological)
+WS105.5.D3	Pediatrics--Deprivation (economic, parental, etc.)
+WS105.5.D8	Pediatrics--Dreams
+WS105.5.E5	Pediatrics--Emotions
+WS105.5.E8	Pediatrics--Evaluation of psychological development (General)
+WS105.5.E9	Pediatrics--Environmental and sociological factors
+WS105.5.F2	Pediatrics--Family relations. Only child. Parent-child relations
+WS105.5.H7	Pediatrics--Hospitalized child. Institutionalized child
+WS105.5.I5	Pediatrics--Interpersonal relations (doctor, peer, stranger, etc.)
+WS105.5.M2	Pediatrics--Memory
+WS105.5.M3	Pediatrics--Mental health
+WS105.5.M4	Pediatrics--Morals
+WS105.5.M5	Pediatrics--Motivation
+WS105.5.M8	Pediatrics--Music
+WS105.5.P3	Pediatrics--Personality development
+WS105.5.P5	Pediatrics--Play and playthings
+WS105.5.P8	Pediatrics--Psychological stress
+WS105.5.S3	Pediatrics--Self
+WS105.5.S4	Pediatrics--Sexual behavior
+WS105.5.S5	Pediatrics--Sibling relations
+WS105.5.S6	Pediatrics--Social behavior. Race relations
+WS105.5.T4	Pediatrics--Technology and communications media
+WS106	Pediatrics--Exceptional child (General)
+WS106.2	Pediatrics--Gifted child
+WS106.4	Pediatrics--Physically disabled child
+WS107	Pediatrics--Intellectual disabilities in children
+WS107.5	Pediatrics--Special topics when related to the intellectually disabled child, A-Z
+WS107.5.C2	Pediatrics--Case reports. Biographical accounts
+WS107.5.C6	Pediatrics--Communication
+WS107.5.D3	Pediatrics--Development. Prognosis
+WS107.5.P7	Pediatrics--Psychomotor disorders
+WS107.5.P8	Pediatrics--Psychosocial problems. Social behavior
+WS107.5.R3	Pediatrics--Rehabilitation and training (General)
+WS107.5.R4	Pediatrics--Interpersonal relations
+WS107.5.R5	Pediatrics--Relations with family. Family adjustment
+WS110	Pediatrics--Learning disorders (physical, mental, and neurologic)
+WS113	Pediatrics--Child Care. Nutrition--Care and training (General)
+WS114	Pediatrics--Child Care. Nutrition--Infant care
+WS115	Pediatrics--Child Care. Nutrition--Nutritional requirements. Nutrition disorders (General)
+WS120	Pediatrics--Child Care. Nutrition--In infancy
+WS125	Pediatrics--Child Care. Nutrition--Breast feeding
+WS130	Pediatrics--Child Care. Nutrition--In childhood
+WS132	Pediatrics--Child Care. Nutrition--In adolescence
+WS135	Pediatrics--Prophylactic immunizations
+WS141	Pediatrics--Physical examination. Diagnosis. Mass screening. Monitoring
+WS200	Pediatrics--Diseases of Children and Adolescents--General works
+WS205	Pediatrics--Diseases of Children and Adolescents--Pediatric emergencies
+WS210	Pediatrics--Diseases of Children and Adolescents--Chronic disease (General)
+WS220	Pediatrics--Diseases of Children and Adolescents--Palliative care. Terminal care. Death
+WS260	Pediatrics--Diseases of Children and Adolescents--Integumentary system. Connective tissue
+WS265	Pediatrics--Diseases of Children and Adolescents--Skin and connective tissue diseases
+WS270	Pediatrics--Diseases of Children and Adolescents--Musculoskeletal system
+WS275	Pediatrics--Diseases of Children and Adolescents--Musculoskeletal diseases
+WS280	Pediatrics--Diseases of Children and Adolescents--Respiratory system
+WS285	Pediatrics--Diseases of Children and Adolescents--Respiratory tract diseases
+WS290	Pediatrics--Diseases of Children and Adolescents--Cardiovascular system
+WS295	Pediatrics--Diseases of Children and Adolescents--Cardiovascular diseases
+WS300	Pediatrics--Diseases of Children and Adolescents--Hemic and immune systems
+WS305	Pediatrics--Diseases of Children and Adolescents--Hemic and lymphatic diseases. Immune system diseases
+WS310	Pediatrics--Diseases of Children and Adolescents--Digestive system
+WS311	Pediatrics--Diseases of Children and Adolescents--Digestive system diseases
+WS312	Pediatrics--Diseases of Children and Adolescents--Diarrheal disorders
+WS320	Pediatrics--Diseases of Children and Adolescents--Urogenital system
+WS321	Pediatrics--Diseases of Children and Adolescents--Urogenital diseases. Urologic diseases
+WS322	Pediatrics--Diseases of Children and Adolescents--Enuresis
+WS330	Pediatrics--Diseases of Children and Adolescents--Endocrine system
+WS335	Pediatrics--Diseases of Children and Adolescents--Endocrine system diseases
+WS340	Pediatrics--Diseases of Children and Adolescents--Nervous system
+WS340.5	Pediatrics--Diseases of Children and Adolescents--Nervous system diseases
+WS341	Pediatrics--Diseases of Children and Adolescents--Brain diseases. Brain injuries
+WS342	Pediatrics--Diseases of Children and Adolescents--Chronic brain damage
+WS350	Pediatrics--Child Psychiatry. Child Mental Disorders--Child psychiatry. Child guidance
+WS350.2	Pediatrics--Child Psychiatry. Child Mental Disorders--Therapy
+WS350.3	Pediatrics--Child Psychiatry. Child Mental Disorders--Behavior therapy
+WS350.33	Pediatrics--Child Psychiatry. Child Mental Disorders--Drug therapy
+WS350.4	Pediatrics--Child Psychiatry. Child Mental Disorders--Play therapy
+WS350.5	Pediatrics--Child Psychiatry. Child Mental Disorders--Psychoanalytic therapy
+WS350.55	Pediatrics--Child Psychiatry. Child Mental Disorders--Socioenvironmental therapy
+WS350.6	Pediatrics--Child Psychiatry. Child Mental Disorders--Child mental disorders. Behavioral symptoms (General)
+WS350.7	Pediatrics--Child Psychiatry. Child Mental Disorders--Neurodevelopmental disorders
+WS350.8	Pediatrics--Child Psychiatry. Child Mental Disorders--Special topics in child psychiatry, A-Z
+WS350.8.A2	Pediatrics--Child Psychiatry. Child Mental Disorders--Abuse
+WS350.8.A4	Pediatrics--Child Psychiatry. Child Mental Disorders--Aggression. Violence. Dangerous behavior. Self-injurious behavior
+WS350.8.A8	Pediatrics--Child Psychiatry. Child Mental Disorders--Attention deficit and disruptive behavior disorders
+WS350.8.D3	Pediatrics--Child Psychiatry. Child Mental Disorders--Defense mechanisms
+WS350.8.H9	Pediatrics--Child Psychiatry. Child Mental Disorders--Hyperkinesis
+WS350.8.I4	Pediatrics--Child Psychiatry. Child Mental Disorders--Inhibition
+WS350.8.P3	Pediatrics--Child Psychiatry. Child Mental Disorders--Personality disorders
+WS350.8.P4	Pediatrics--Child Psychiatry. Child Mental Disorders--Pervasive development disorders
+WS350.8.R9	Pediatrics--Child Psychiatry. Child Mental Disorders--Runaway behavior
+WS350.8.S6	Pediatrics--Child Psychiatry. Child Mental Disorders--Social behavior disorders
+WS366	Pediatrics--Pediatric therapeutics (General)
+WS367	Pediatrics--Pediatric Therapeutics--Drug therapy
+WS368	Pediatrics--Pediatric Therapeutics--Rehabilitation of physically disabled children
+WS370	Pediatrics--Pediatric Therapeutics--Occupational therapy
+WS405	Pediatrics--Topics Related to Specific Age Groups--Birth injuries
+WS410	Pediatrics--Topics Related to Specific Age Groups--Premature infants. Diseases of premature infants
+WS420	Pediatrics--Topics Related to Specific Age Groups--Newborn infants. Neonatology
+WS421	Pediatrics--Topics Related to Specific Age Groups--Diseases of newborn infants
+WS430	Pediatrics--Topics Related to Specific Age Groups--Infant
+WS440	Pediatrics--Topics Related to Specific Age Groups--Child
+WS450	Pediatrics--Topics Related to Specific Age Groups--Puberty
+WS460	Pediatrics--Topics Related to Specific Age Groups--Adolescence (General)
+WS462	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Adolescent psychology. Adolescent behavior
+WS462.5	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Special topics, A-Z
+WS462.5.A8	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Attitudes and adjustments to life change events (death, illness, divorce, etc.)
+WS462.5.C7	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Cognition. Fantasy. Imagination
+WS462.5.C8	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Communication. Verbal behavior
+WS462.5.D2	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Decision making
+WS462.5.D3	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Deprivation (economic, parental, etc.)
+WS462.5.D8	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Dreams
+WS462.5.E5	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Emotions
+WS462.5.E8	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Evaluation of psychological development (General)
+WS462.5.E9	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Environmental and sociological factors
+WS462.5.F2	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Family relations. Only child. Parent-child relations
+WS462.5.I5	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Interpersonal relations (doctor, peer, stranger, etc.)
+WS462.5.M2	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Memory
+WS462.5.M3	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Mental health
+WS462.5.M4	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Morals
+WS462.5.M5	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Motivation
+WS462.5.M8	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Music
+WS462.5.P3	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Personality development
+WS462.5.P7	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Pregnancy. Reproductive behavior
+WS462.5.P8	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Psychological stress
+WS462.5.S3	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Self
+WS462.5.S4	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Sexual behavior
+WS462.5.S5	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Sibling relations
+WS462.5.S6	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Social behavior. Race relations
+WS462.5.T4	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Technology and communications media
+WS463	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Adolescent psychiatry. Adolescent mental disorders. Behavioral symptoms
+WS464	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Therapy
+WS465	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Behavior therapy
+WS466	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Psychotherapy
+WS467	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Socioenvironmental therapy
+WS470.A-Z	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Special topics in adolescent psychiatry
+WS470.A2	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Abuse
+WS470.A4	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Aggression. Violence. Dangerous behavior. Self-injurious behavior
+WS470.D3	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Defense mechanisms
+WS470.I4	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Inhibition
+WS470.P3	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Personality disorders
+WS470.R9	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Runaway behavior
+WS470.S6	Pediatrics--Adolescent Psychology. Adolescent Psychiatry. Adolescent Mental Disorders--Social behavior disorders
+WT1	Geriatrics--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WT5	Geriatrics--General works--By several authors
+WT7	Geriatrics--General works--By individual authors
+WT9	Geriatrics--Addresses. Essays. Lectures
+WT11	Geriatrics--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WT11.1	Geriatrics--General coverage(Not Table G)
+WT13	Geriatrics--Dictionaries. Encyclopedias
+WT15	Geriatrics--Classification. Terminology
+WT16	Geriatrics--Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WT16.1	Geriatrics--General coverage(Not Table G)
+WT17	Geriatrics--Atlases. Pictorial works
+WT18	Geriatrics--Education
+WT18.2	Geriatrics--Educational materials
+WT19	Geriatrics--Schools, departments, and faculties of geriatrics(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WT19.1	Geriatrics--General coverage(Not Table G)
+WT20	Geriatrics--Research (General)
+WT21	Geriatrics--Geriatrics as a profession. Ethics. Peer review
+WT22	Geriatrics--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WT22.1	Geriatrics--General coverage(Not Table G)
+WT23	Geriatrics--Collective
+WT24	Geriatrics--Individual(Cutter from name of institution)
+WT25	Geriatrics--Laboratory manuals. Technique
+WT26	Geriatrics--Equipment and supplies
+WT26.5	Geriatrics--Informatics. Electronic data processing. Computers (General)
+WT27	Geriatrics--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WT27.1	Geriatrics--General coverage(Not Table G)
+WT28	Geriatrics--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WT28.5	Geriatrics--Collective
+WT28.6	Geriatrics--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WT29	Geriatrics--Senior centers, day care centers and programs(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WT29.1	Geriatrics--General coverage(Not Table G)
+WT30	Geriatrics--Socioeconomic factors(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WT30.1	Geriatrics--General coverage(Not Table G)
+WT31	Geriatrics--Health services
+WT31.5	Geriatrics--Medicare
+WT32	Geriatrics--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WT32.1	Geriatrics--General coverage(Not Table G)
+WT33	Geriatrics--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WT33.1	Geriatrics--General coverage(Not Table G)
+WT39	Geriatrics--Handbooks. Resource guides
+WT100	Geriatrics--General works
+WT101	Geriatrics--Aged. Aging--Aged. Health status. Life style (General or not elsewhere classified)
+WT104	Geriatrics--Aged. Aging--Aging
+WT115	Geriatrics--Aged. Aging--Nutritional requirements. Nutrition disorders
+WT116	Geriatrics--Aged. Aging--Longevity. Life expectancy. Death
+WT120	Geriatrics--Aged. Aging--Popular works (General)
+WT141	Geriatrics--Aged. Aging--Physical examination. Diagnosis. Diagnostic methods. Monitoring
+WT145	Geriatrics--Geriatric Psychology, Psychiatry and Mental Disorders--Geriatric psychology. Mental health
+WT150	Geriatrics--Geriatric Psychology, Psychiatry and Mental Disorders--Geriatric psychiatry. Mental disorders
+WT152	Geriatrics--Geriatric Psychology, Psychiatry and Mental Disorders--Psychotherapy
+WT155	Geriatrics--Geriatric Psychology, Psychiatry and Mental Disorders--Dementia. Alzheimer disease
+WT156	Geriatrics--Geriatric Psychology, Psychiatry and Mental Disorders--Diagnosis
+WT157	Geriatrics--Geriatric Psychology, Psychiatry and Mental Disorders--Therapy
+WT158	Geriatrics--Geriatric Psychology, Psychiatry and Mental Disorders--Etiology
+WT159	Geriatrics--Geriatric Psychology, Psychiatry and Mental Disorders--Physiopathology
+WT160	Geriatrics--Geriatric Psychology, Psychiatry and Mental Disorders--Prevention and control
+WT161	Geriatrics--Geriatric Psychology, Psychiatry and Mental Disorders--Psychosocial aspects
+WT166	Geriatrics--Geriatric therapeutics (General or not elsewhere classified)
+WT500	Geriatrics--Chronic disease in the aged
 WU1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
 WU5	General works--By several authors
 WU7	General works--By individual authors
@@ -3750,7 +3750,7 @@ WU44.1	General coverage(Not Table G)
 WU49	Handbooks. Resource guides
 WU50	Dental ethics
 WU58	Advertising
-WU61	Dentists' interpersonal relations. Attitude
+WU61	Dentists\' interpersonal relations. Attitude
 WU77	Dental economics. Practice management
 WU79	Group practice. Partnership practice
 WU80	Popular works (General)
@@ -3859,7 +3859,7 @@ WV232	Otitis media (including aerotitis)
 WV233	Mastoid region
 WV250	Labyrinth
 WV255	Vestibular apparatus
-WV258	Meniere's disease
+WV258	Meniere\'s disease
 WV265	Otosclerosis
 WV270	Audiology. Hearing. Hearing disorders. Deafness
 WV271	Deafness and other hearing disorders in children
@@ -4106,7 +4106,7 @@ WY85	Nursing ethics
 WY86	Nursing philosophy. Nursing theory
 WY86.5	Holistic nursing
 WY87	Psychological aspects of nursing. Psychology of nurses
-WY88	Nurses' interpersonal relations
+WY88	Nurses\' interpersonal relations
 WY90	Referral and consultation (General)
 WY100	Nursing procedures and care (General)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
 WY100.1	General coverage(Not Table G)
