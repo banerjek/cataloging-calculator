@@ -179,12 +179,12 @@ function LCTableRender(table ) {
 
 function process(obj_f) {
 
-  for (x=0; x<=10; x++) {
+  for (x=0; x<=12; x++) {
 	search = obj_f.searchtype[x].value;
 
 	if (obj_f.searchtype[x].checked) {
 	  search = obj_f.searchtype[x].value;
-	  x = 10;
+	  x = 12;
 		if (lastsearch == search) {
 			checksearch = 1;
 			} else {
@@ -728,34 +728,31 @@ switch (search) {
 			} else {
 			resultarray = nlm.split("\@");
 			}
-		founditems += '<table><tr><th>Results</th></tr>\n';
+		founditems += '<table><tr><th colspan="2")>Results</th></tr>\n';
 
 		for (x=0; x<=resultarray.length-1; x++) {
 			if (searchEntry(userinput, resultarray[x]) == 1) {
 				lastarray[found] = resultarray[x];
 				found += 1;
 				cellarray = resultarray[x].split("\t");	
-				webbase = 'https://meshb.nlm.nih.gov/record/ui?ui=';
 
 				if (found < 500) {
 					if (found % 2 == 0) {
 
 						founditems += '<tr class="accent"><td>'
-						+'<a href="javascript:getPage(\'' + webbase
-						+ cellarray[1]
-						+ '\');">'
 						+ cellarray[0]
-						+ '</a></td></tr>'
+						+ '</td><td>' 
+						+ cellarray[1]
+						+ '</td></tr>'
 						+ '\n';
 
 						}
 					else
 						{
 						founditems += '<tr><td>'
-						+'<a href="javascript:getPage(\'' + webbase
-						+ cellarray[1]
-						+ '\');">'
 						+ cellarray[0]
+						+ '</td><td>' 
+						+ cellarray[1]
 						+ '</td></tr>'
 						+ '\n';
 						}
@@ -765,9 +762,7 @@ switch (search) {
 		if (found >= 500) {
 			founditems += '<tr><td></center><h2>' + found + ' retrievals. Displaying first 500</h2></center></td></tr>';
 		}
-		founditems += '</table><p />'
-		+'<center class="red"><b>Click on any field above for '
-		+'detailed information from National Library of Medicine</b>';
+		founditems += '</table><p />';
 
     if (found == 0) {
 			founditems = notfound();
