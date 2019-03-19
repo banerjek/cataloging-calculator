@@ -3704,195 +3704,195 @@ WT160	Geriatrics--Geriatric Psychology, Psychiatry and Mental Disorders--Prevent
 WT161	Geriatrics--Geriatric Psychology, Psychiatry and Mental Disorders--Psychosocial aspects
 WT166	Geriatrics--Geriatric therapeutics (General or not elsewhere classified)
 WT500	Geriatrics--Chronic disease in the aged
-WU1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WU5	General works--By several authors
-WU7	General works--By individual authors
-WU9	Addresses. Essays. Lectures
-WU11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WU11.1	General coverage(Not Table G)
-WU13	Dictionaries. Encyclopedias
-WU15	Classification. Terminology
-WU16	Tables. Statistics(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WU16.1	General coverage(Not Table G)
-WU17	Atlases. Pictorial works
-WU18	Education
-WU18.2	Educational materials
-WU18.5	Education of dental assistants, hygienists, and technicians
-WU19	Schools, departments, and faculties of dentistry(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WU19.1	General coverage(Not Table G)
-WU20	Graduate and continuing dental education (including fellowships, internships, residencies, etc.)
-WU20.5	Dental research (General)
-WU21	Dentistry as a profession. Peer review
-WU22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WU22.1	General coverage(Not Table G)
-WU23	Collective
-WU24	Individual(Cutter from name of institution)
-WU24.5	Tooth banks(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WU24.51	General coverage(Not Table G)
-WU25	Laboratory manuals (General). Technique
-WU26	Equipment and supplies (General)
-WU26.5	Informatics. Electronic data processing. Computers (General)
-WU27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WU27.1	General coverage(Not Table G)
-WU28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WU28.5	Collective
-WU28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WU29	Dental care and health. Dental infection control
-WU30	Surveys
-WU32	Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WU32.1	General coverage(Not Table G)
-WU33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WU33.1	General coverage(Not Table G)
-WU40	Licensure of dentists and dental hygienists(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WU40.1	General coverage(Not Table G)
-WU44	Malpractice(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WU44.1	General coverage(Not Table G)
-WU49	Handbooks. Resource guides
-WU50	Dental ethics
-WU58	Advertising
-WU61	Dentists\' interpersonal relations. Attitude
-WU77	Dental economics. Practice management
-WU79	Group practice. Partnership practice
-WU80	Popular works (General)
-WU90	Auxiliary personnel(<i>e.g., Duties, professional opportunities, work manuals</i>)
-WU95	Dental records
-WU100	General works
-WU101	Anatomy. Histology. Morphology. Embryology
-WU101.5	Malformations and abnormalities of jaws, mouth, and/or teeth (General)
-WU102	Physiology(<i>e.g., Mastication</i>)
-WU105	Dental emergencies (General)
-WU113	Oral health and hygiene. Preventive and prophylactic dentistry
-WU113.6	Works for and about children
-WU113.7	Nutrition and oral health (General)
-WU140	Stomatognathic diseases (General). Oral pathology
-WU140.5	Jaw diseases
-WU141	Examination. Diagnosis. Diagnostic methods (General). Monitoring
-WU141.5	Specific diagnostic methods, A-Z
-WU141.5.C3	Cephalometry
-WU141.5.O2	Odontometry
-WU150	Dental technology (General). Dental technicians
-WU158	Oral and dental injuries (General)
-WU166	Oral and dental therapeutics
-WU170	Dental chemistry (General)
-WU180	Dental alloys and metals
-WU190	Dental materials (General or not elsewhere classified)
-WU210	Dentition
-WU220	Enamel. Dentin
-WU230	Dental pulp. Tooth root. Dental cementum. Root canals
-WU240	Periodontium. Alveolar process. Gingiva (Periodontics)
-WU242	Periodontitis and related diseases
-WU250	Dental deposits
-WU270	Caries. Etiology of caries. Effect of fluoridation
-WU280	Oral and dental neoplasms
-WU290	Oral manifestations
-WU300	General works
-WU317	Atlases. Pictorial works
-WU350	Cavities. Cavity treatment
-WU360	Inlays
-WU400	General works
-WU417	Atlases. Pictorial works
-WU426	Orthodontic appliances
-WU440	Occlusion. Malocclusion
-WU460	Dental care for the chronically ill
-WU470	Dental care for the disabled
-WU480	Pediatric dentistry. Dental care for children
-WU490	Geriatric dentistry. Dental care for the aged
-WU495	Military dentistry
-WU500	General works. Dental prosthesis (General)
-WU507	Atlases. Pictorial works
-WU515	Partial dentures. Bridges. Crowns
-WU530	Complete dentures
-WU600	General works
-WU600.7	Atlases. Pictorial works
-WU605	Tooth extraction
-WU610	Maxillofacial injuries. Mandibular injuries. Fractures and dislocations of the jaw
-WU640	Dental implantation. Tooth reimplantation. Transplantation
-WV1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WV5	General works--By several authors
-WV7	General works--By individual authors
-WV9	Addresses. Essays. Lectures
-WV11	History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WV11.1	General coverage(Not Table G)
-WV13	Dictionaries. Encyclopedias
-WV15	Classification. Terminology
-WV16	Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WV16.1	General coverage(Not Table G)
-WV17	Atlases. Pictorial works
-WV18	Education
-WV18.2	Educational materials
-WV19	Schools, departments, and faculties of otolaryngology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WV19.1	General coverage(Not Table G)
-WV20	Research (General)
-WV21	Otolaryngology as a profession. Ethics. Peer review
-WV22	Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WV22.1	General coverage(Not Table G)
-WV23	Collective
-WV24	Individual(Cutter from name of institution)
-WV25	Laboratory manuals. Technique
-WV26	Equipment and supplies
-WV26.5	Informatics. Electronic data processing. Computers (General)
-WV27	Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WV27.1	General coverage(Not Table G)
-WV28	Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WV28.5	Collective
-WV28.6	Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WV32	Laws. Estimation of disability for compensation(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WV32.1	General coverage(Not Table G)
-WV33	Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
-WV33.1	General coverage(Not Table G)
-WV39	Handbooks. Resource guides
-WV100	General works
-WV101	Anatomy. Physiology. Biochemistry. Embryology. Abnormalities
-WV140	Otorhinolaryngologic diseases (General)
-WV150	ENT signs, symptoms, and diagnosis. Monitoring
-WV168	ENT surgery
-WV180	Intracranial complications of ENT diseases
-WV190	Otorhinolaryngologic neoplasms (General)
-WV200	General works
-WV201	Anatomy. Physiology
-WV210	Examination. Diagnosis. Diagnostic methods (General)
-WV220	External ear
-WV222	Ear canal. Foreign bodies. Cerumen
-WV225	Tympanic membrane
-WV230	Middle ear. Eustachian tube. Petrous bone
-WV232	Otitis media (including aerotitis)
-WV233	Mastoid region
-WV250	Labyrinth
-WV255	Vestibular apparatus
-WV258	Meniere\'s disease
-WV265	Otosclerosis
-WV270	Audiology. Hearing. Hearing disorders. Deafness
-WV271	Deafness and other hearing disorders in children
-WV272	Physiology of hearing. Auditory perception. Tinnitus. Function tests
-WV274	Hearing devices. Cochlear implants. Cochlear implantation
-WV276	Treatment of deafness
-WV280	Deaf-mutism
-WV290	Neoplasms
-WV300	General works
-WV301	Anatomy. Physiology
-WV302	Olfactory perception. Smell
-WV310	External nose
-WV312	Plastic surgery
-WV320	Nasal septum
-WV335	Rhinitis
-WV340	Paranasal sinuses
-WV345	Maxillary
-WV350	Frontal
-WV355	Ethmoid
-WV358	Sphenoid
-WV400	General works
-WV401	Anatomy. Physiology
-WV410	Pharynx. Uvula. Palate
-WV430	Palatine Tonsil. Adenoids
-WV440	Cleft lip. Cleft palate
-WV500	General works (including speech and organic disorders)
-WV501	Anatomy. Physiology. Physiology of speech
-WV505	Laryngoscopy
-WV510	Inflammation
-WV520	Neoplasms
-WV530	Vocal cords
-WV535	Paralysis
-WV540	Surgery. Laryngectomy. Alaryngeal voice production
+WU1	Dentistry. Oral Surgery--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WU5	Dentistry. Oral Surgery--General works--By several authors
+WU7	Dentistry. Oral Surgery--General works--By individual authors
+WU9	Dentistry. Oral Surgery--Addresses. Essays. Lectures
+WU11	Dentistry. Oral Surgery--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WU11.1	Dentistry. Oral Surgery--General coverage(Not Table G)
+WU13	Dentistry. Oral Surgery--Dictionaries. Encyclopedias
+WU15	Dentistry. Oral Surgery--Classification. Terminology
+WU16	Dentistry. Oral Surgery--Tables. Statistics(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WU16.1	Dentistry. Oral Surgery--General coverage(Not Table G)
+WU17	Dentistry. Oral Surgery--Atlases. Pictorial works
+WU18	Dentistry. Oral Surgery--Education
+WU18.2	Dentistry. Oral Surgery--Educational materials
+WU18.5	Dentistry. Oral Surgery--Education of dental assistants, hygienists, and technicians
+WU19	Dentistry. Oral Surgery--Schools, departments, and faculties of dentistry(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WU19.1	Dentistry. Oral Surgery--General coverage(Not Table G)
+WU20	Dentistry. Oral Surgery--Graduate and continuing dental education (including fellowships, internships, residencies, etc.)
+WU20.5	Dentistry. Oral Surgery--Dental research (General)
+WU21	Dentistry. Oral Surgery--Dentistry as a profession. Peer review
+WU22	Dentistry. Oral Surgery--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WU22.1	Dentistry. Oral Surgery--General coverage(Not Table G)
+WU23	Dentistry. Oral Surgery--Collective
+WU24	Dentistry. Oral Surgery--Individual(Cutter from name of institution)
+WU24.5	Dentistry. Oral Surgery--Tooth banks(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WU24.51	Dentistry. Oral Surgery--General coverage(Not Table G)
+WU25	Dentistry. Oral Surgery--Laboratory manuals (General). Technique
+WU26	Dentistry. Oral Surgery--Equipment and supplies (General)
+WU26.5	Dentistry. Oral Surgery--Informatics. Electronic data processing. Computers (General)
+WU27	Dentistry. Oral Surgery--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WU27.1	Dentistry. Oral Surgery--General coverage(Not Table G)
+WU28	Dentistry. Oral Surgery--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WU28.5	Dentistry. Oral Surgery--Collective
+WU28.6	Dentistry. Oral Surgery--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WU29	Dentistry. Oral Surgery--Dental care and health. Dental infection control
+WU30	Dentistry. Oral Surgery--Surveys
+WU32	Dentistry. Oral Surgery--Laws(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WU32.1	Dentistry. Oral Surgery--General coverage(Not Table G)
+WU33	Dentistry. Oral Surgery--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WU33.1	Dentistry. Oral Surgery--General coverage(Not Table G)
+WU40	Dentistry. Oral Surgery--Licensure of dentists and dental hygienists(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WU40.1	Dentistry. Oral Surgery--General coverage(Not Table G)
+WU44	Dentistry. Oral Surgery--Malpractice(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WU44.1	Dentistry. Oral Surgery--General coverage(Not Table G)
+WU49	Dentistry. Oral Surgery--Handbooks. Resource guides
+WU50	Dentistry. Oral Surgery--Ethics. Professional Practice and Personnel. Records--Dental ethics
+WU58	Dentistry. Oral Surgery--Ethics. Professional Practice and Personnel. Records--Advertising
+WU61	Dentistry. Oral Surgery--Ethics. Professional Practice and Personnel. Records--Dentists\' interpersonal relations. Attitude
+WU77	Dentistry. Oral Surgery--Ethics. Professional Practice and Personnel. Records--Dental economics. Practice management
+WU79	Dentistry. Oral Surgery--Ethics. Professional Practice and Personnel. Records--Group practice. Partnership practice
+WU80	Dentistry. Oral Surgery--Ethics. Professional Practice and Personnel. Records--Popular works (General)
+WU90	Dentistry. Oral Surgery--Ethics. Professional Practice and Personnel. Records--Auxiliary personnel(<i>e.g., Duties, professional opportunities, work manuals</i>)
+WU95	Dentistry. Oral Surgery--Ethics. Professional Practice and Personnel. Records--Dental records
+WU100	Dentistry. Oral Surgery--Anatomy. Physiology. Hygiene--General works
+WU101	Dentistry. Oral Surgery--Anatomy. Physiology. Hygiene--Anatomy. Histology. Morphology. Embryology
+WU101.5	Dentistry. Oral Surgery--Anatomy. Physiology. Hygiene--Malformations and abnormalities of jaws, mouth, and/or teeth (General)
+WU102	Dentistry. Oral Surgery--Anatomy. Physiology. Hygiene--Physiology(<i>e.g., Mastication</i>)
+WU105	Dentistry. Oral Surgery--Anatomy. Physiology. Hygiene--Dental emergencies (General)
+WU113	Dentistry. Oral Surgery--Anatomy. Physiology. Hygiene--Oral health and hygiene. Preventive and prophylactic dentistry
+WU113.6	Dentistry. Oral Surgery--Anatomy. Physiology. Hygiene--Works for and about children
+WU113.7	Dentistry. Oral Surgery--Anatomy. Physiology. Hygiene--Nutrition and oral health (General)
+WU140	Dentistry. Oral Surgery--Diseases. Injuries. Technology. Therapeutics--Stomatognathic diseases (General). Oral pathology
+WU140.5	Dentistry. Oral Surgery--Diseases. Injuries. Technology. Therapeutics--Jaw diseases
+WU141	Dentistry. Oral Surgery--Diseases. Injuries. Technology. Therapeutics--Examination. Diagnosis. Diagnostic methods (General). Monitoring
+WU141.5	Dentistry. Oral Surgery--Diseases. Injuries. Technology. Therapeutics--Specific diagnostic methods, A-Z
+WU141.5.C3	Dentistry. Oral Surgery--Diseases. Injuries. Technology. Therapeutics--Cephalometry
+WU141.5.O2	Dentistry. Oral Surgery--Diseases. Injuries. Technology. Therapeutics--Odontometry
+WU150	Dentistry. Oral Surgery--Diseases. Injuries. Technology. Therapeutics--Dental technology (General). Dental technicians
+WU158	Dentistry. Oral Surgery--Diseases. Injuries. Technology. Therapeutics--Oral and dental injuries (General)
+WU166	Dentistry. Oral Surgery--Diseases. Injuries. Technology. Therapeutics--Oral and dental therapeutics
+WU170	Dentistry. Oral Surgery--Dental chemistry (General)
+WU180	Dentistry. Oral Surgery--Dental alloys and metals
+WU190	Dentistry. Oral Surgery--Dental materials (General or not elsewhere classified)
+WU210	Dentistry. Oral Surgery--Dental Anatomy. Diseases--Dentition
+WU220	Dentistry. Oral Surgery--Dental Anatomy. Diseases--Enamel. Dentin
+WU230	Dentistry. Oral Surgery--Dental Anatomy. Diseases--Dental pulp. Tooth root. Dental cementum. Root canals
+WU240	Dentistry. Oral Surgery--Dental Anatomy. Diseases--Periodontium. Alveolar process. Gingiva (Periodontics)
+WU242	Dentistry. Oral Surgery--Dental Anatomy. Diseases--Periodontitis and related diseases
+WU250	Dentistry. Oral Surgery--Dental Anatomy. Diseases--Dental deposits
+WU270	Dentistry. Oral Surgery--Dental Anatomy. Diseases--Caries. Etiology of caries. Effect of fluoridation
+WU280	Dentistry. Oral Surgery--Dental Anatomy. Diseases--Oral and dental neoplasms
+WU290	Dentistry. Oral Surgery--Dental Anatomy. Diseases--Oral manifestations
+WU300	Dentistry. Oral Surgery--Operative Dentistry--General works
+WU317	Dentistry. Oral Surgery--Operative Dentistry--Atlases. Pictorial works
+WU350	Dentistry. Oral Surgery--Operative Dentistry--Cavities. Cavity treatment
+WU360	Dentistry. Oral Surgery--Operative Dentistry--Inlays
+WU400	Dentistry. Oral Surgery--Orthodontics--General works
+WU417	Dentistry. Oral Surgery--Orthodontics--Atlases. Pictorial works
+WU426	Dentistry. Oral Surgery--Orthodontics--Orthodontic appliances
+WU440	Dentistry. Oral Surgery--Orthodontics--Occlusion. Malocclusion
+WU460	Dentistry. Oral Surgery--Dental care for the chronically ill
+WU470	Dentistry. Oral Surgery--Dental care for the disabled
+WU480	Dentistry. Oral Surgery--Pediatric dentistry. Dental care for children
+WU490	Dentistry. Oral Surgery--Geriatric dentistry. Dental care for the aged
+WU495	Dentistry. Oral Surgery--Military dentistry
+WU500	Dentistry. Oral Surgery--Prosthodontics--General works. Dental prosthesis (General)
+WU507	Dentistry. Oral Surgery--Prosthodontics--Atlases. Pictorial works
+WU515	Dentistry. Oral Surgery--Prosthodontics--Partial dentures. Bridges. Crowns
+WU530	Dentistry. Oral Surgery--Prosthodontics--Complete dentures
+WU600	Dentistry. Oral Surgery--Oral Surgical Procedures--General works
+WU600.7	Dentistry. Oral Surgery--Oral Surgical Procedures--Atlases. Pictorial works
+WU605	Dentistry. Oral Surgery--Oral Surgical Procedures--Tooth extraction
+WU610	Dentistry. Oral Surgery--Oral Surgical Procedures--Maxillofacial injuries. Mandibular injuries. Fractures and dislocations of the jaw
+WU640	Dentistry. Oral Surgery--Oral Surgical Procedures--Dental implantation. Tooth reimplantation. Transplantation
+WV1	Otolaryngology--Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WV5	Otolaryngology--General works--By several authors
+WV7	Otolaryngology--General works--By individual authors
+WV9	Otolaryngology--Addresses. Essays. Lectures
+WV11	Otolaryngology--History(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WV11.1	Otolaryngology--General coverage(Not Table G)
+WV13	Otolaryngology--Dictionaries. Encyclopedias
+WV15	Otolaryngology--Classification. Terminology
+WV16	Otolaryngology--Tables. Statistics. Surveys(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WV16.1	Otolaryngology--General coverage(Not Table G)
+WV17	Otolaryngology--Atlases. Pictorial works
+WV18	Otolaryngology--Education
+WV18.2	Otolaryngology--Educational materials
+WV19	Otolaryngology--Schools, departments, and faculties of otolaryngology(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WV19.1	Otolaryngology--General coverage(Not Table G)
+WV20	Otolaryngology--Research (General)
+WV21	Otolaryngology--Otolaryngology as a profession. Ethics. Peer review
+WV22	Otolaryngology--Directories(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WV22.1	Otolaryngology--General coverage(Not Table G)
+WV23	Otolaryngology--Collective
+WV24	Otolaryngology--Individual(Cutter from name of institution)
+WV25	Otolaryngology--Laboratory manuals. Technique
+WV26	Otolaryngology--Equipment and supplies
+WV26.5	Otolaryngology--Informatics. Electronic data processing. Computers (General)
+WV27	Otolaryngology--Collective(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WV27.1	Otolaryngology--General coverage(Not Table G)
+WV28	Otolaryngology--Individual(Cutter from name of hospital)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WV28.5	Otolaryngology--Collective
+WV28.6	Otolaryngology--Individual(Cutter from name of museum, etc.)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WV32	Otolaryngology--Laws. Estimation of disability for compensation(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WV32.1	Otolaryngology--General coverage(Not Table G)
+WV33	Otolaryngology--Discussion of law(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
+WV33.1	Otolaryngology--General coverage(Not Table G)
+WV39	Otolaryngology--Handbooks. Resource guides
+WV100	Otolaryngology--General works
+WV101	Otolaryngology--Anatomy. Physiology. Biochemistry. Embryology. Abnormalities
+WV140	Otolaryngology--Diseases. Therapeutics--Otorhinolaryngologic diseases (General)
+WV150	Otolaryngology--Diseases. Therapeutics--ENT signs, symptoms, and diagnosis. Monitoring
+WV168	Otolaryngology--Diseases. Therapeutics--ENT surgery
+WV180	Otolaryngology--Diseases. Therapeutics--Intracranial complications of ENT diseases
+WV190	Otolaryngology--Diseases. Therapeutics--Otorhinolaryngologic neoplasms (General)
+WV200	Otolaryngology--Ear--General works
+WV201	Otolaryngology--Ear--Anatomy. Physiology
+WV210	Otolaryngology--Ear--Examination. Diagnosis. Diagnostic methods (General)
+WV220	Otolaryngology--Ear--External ear
+WV222	Otolaryngology--Ear--Ear canal. Foreign bodies. Cerumen
+WV225	Otolaryngology--Ear--Tympanic membrane
+WV230	Otolaryngology--Ear--Middle ear. Eustachian tube. Petrous bone
+WV232	Otolaryngology--Ear--Otitis media (including aerotitis)
+WV233	Otolaryngology--Ear--Mastoid region
+WV250	Otolaryngology--Ear--Labyrinth
+WV255	Otolaryngology--Ear--Vestibular apparatus
+WV258	Otolaryngology--Ear--Meniere\'s disease
+WV265	Otolaryngology--Ear--Otosclerosis
+WV270	Otolaryngology--Ear--Audiology. Hearing. Hearing disorders. Deafness
+WV271	Otolaryngology--Ear--Deafness and other hearing disorders in children
+WV272	Otolaryngology--Ear--Physiology of hearing. Auditory perception. Tinnitus. Function tests
+WV274	Otolaryngology--Ear--Hearing devices. Cochlear implants. Cochlear implantation
+WV276	Otolaryngology--Ear--Treatment of deafness
+WV280	Otolaryngology--Ear--Deaf-mutism
+WV290	Otolaryngology--Ear--Neoplasms
+WV300	Otolaryngology--Nose and Paranasal Sinuses--General works
+WV301	Otolaryngology--Nose and Paranasal Sinuses--Anatomy. Physiology
+WV302	Otolaryngology--Nose and Paranasal Sinuses--Olfactory perception. Smell
+WV310	Otolaryngology--Nose and Paranasal Sinuses--External nose
+WV312	Otolaryngology--Nose and Paranasal Sinuses--Plastic surgery
+WV320	Otolaryngology--Nose and Paranasal Sinuses--Nasal septum
+WV335	Otolaryngology--Nose and Paranasal Sinuses--Rhinitis
+WV340	Otolaryngology--Nose and Paranasal Sinuses--Paranasal sinuses
+WV345	Otolaryngology--Nose and Paranasal Sinuses--Maxillary
+WV350	Otolaryngology--Nose and Paranasal Sinuses--Frontal
+WV355	Otolaryngology--Nose and Paranasal Sinuses--Ethmoid
+WV358	Otolaryngology--Nose and Paranasal Sinuses--Sphenoid
+WV400	Otolaryngology--Pharyngeal Region--General works
+WV401	Otolaryngology--Pharyngeal Region--Anatomy. Physiology
+WV410	Otolaryngology--Pharyngeal Region--Pharynx. Uvula. Palate
+WV430	Otolaryngology--Pharyngeal Region--Palatine Tonsil. Adenoids
+WV440	Otolaryngology--Pharyngeal Region--Cleft lip. Cleft palate
+WV500	Otolaryngology--Larynx--General works (including speech and organic disorders)
+WV501	Otolaryngology--Larynx--Anatomy. Physiology. Physiology of speech
+WV505	Otolaryngology--Larynx--Laryngoscopy
+WV510	Otolaryngology--Larynx--Inflammation
+WV520	Otolaryngology--Larynx--Neoplasms
+WV530	Otolaryngology--Larynx--Vocal cords
+WV535	Otolaryngology--Larynx--Paralysis
+WV540	Otolaryngology--Larynx--Surgery. Laryngectomy. Alaryngeal voice production
 WW1	Organizations. Societies (General or not elsewhere classified)(Cutter from name of organization or society)(<a href="http://www.nlm.nih.gov/class/TableGOutline.html">Table G</a>)
 WW5	General works--By several authors
 WW7	General works--By individual authors
