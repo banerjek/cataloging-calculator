@@ -96,3 +96,10 @@ em {
 .accent {
 	background: #c6d6ee;
 	}
+
+.advert {
+  font-size: 10pt;
+  background-color: lightYellow
+  border-color: black;
+  padding: 10px;
+  }
