@@ -155,7 +155,7 @@ var gac="Abu Dhabi (United Arab Emirates : Emirate)\n  USE  Abu Z.aby (United Ar
 +"Bonaire\n  Assigned code:\n     nwco --- Curaçao@"
 +"Bophuthatswana (South Africa)\n  Assigned code:\n     f-sa --- South Africa@"
 +"Borneo --- a-bn@"
-+"Bosnia and Hercegovina --- e-bn@"
++"Bosnia and Herzegovina --- e-bn@"
 +"Botswana --- f-bs@"
 +"Bougainville Island (Papua New Guinea)\n  Assigned code:\n     a-pp --- Papua New Guinea@"
 +"Bouvet Island --- lsbv@"
